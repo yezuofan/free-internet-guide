@@ -1,0 +1,80 @@
+{
+  "last_updated": "2026-04-25 19:46:08",
+  "timezone": "Asia/Shanghai",
+  "total": 7,
+  "up": 6,
+  "down": 1,
+  "degraded": 0,
+  "airports": [
+    {
+      "name": "自由猫 Freecat",
+      "url": "https://freecat.cloud",
+      "aff": "https://freecat.cloud/register?code=USRIiAoO",
+      "status": "up",
+      "status_code": 200,
+      "response_ms": 2723,
+      "last_checked": "2026-04-25T19:45:39.240954+08:00",
+      "note": ""
+    },
+    {
+      "name": "贝贝云",
+      "url": "https://888.2beibei.com",
+      "aff": "https://888.2beibei.com/register?code=Ilet9Gpi",
+      "status": "up",
+      "status_code": 200,
+      "response_ms": 2168,
+      "last_checked": "2026-04-25T19:45:42.414490+08:00",
+      "note": ""
+    },
+    {
+      "name": "WgetCloud",
+      "url": "https://invite.wgetcloud.ltd",
+      "aff": "https://invite.wgetcloud.ltd/auth/register?code=djq10H",
+      "status": "down",
+      "status_code": null,
+      "response_ms": null,
+      "last_checked": "2026-04-25T19:45:54.777814+08:00",
+      "note": "The read operation timed out"
+    },
+    {
+      "name": "悠兔",
+      "url": "https://666.youtu6.shop",
+      "aff": "https://666.youtu6.shop/register?code=Vfs3Qqkm",
+      "status": "up",
+      "status_code": 200,
+      "response_ms": 3118,
+      "last_checked": "2026-04-25T19:45:58.899629+08:00",
+      "note": ""
+    },
+    {
+      "name": "三十六行",
+      "url": "https://qqq.nfsqttt.com",
+      "aff": "https://qqq.nfsqttt.com/register?code=JjW59PTY",
+      "status": "up",
+      "status_code": 200,
+      "response_ms": 790,
+      "last_checked": "2026-04-25T19:46:00.694722+08:00",
+      "note": ""
+    },
+    {
+      "name": "太极",
+      "url": "https://xn--tfrza853d44tvst.xyz",
+      "aff": "https://xn--tfrza853d44tvst.xyz/register?code=hm0iLlzT",
+      "status": "up",
+      "status_code": 200,
+      "response_ms": 2319,
+      "last_checked": "2026-04-25T19:46:04.018475+08:00",
+      "note": ""
+    },
+    {
+      "name": "NXO Earth",
+      "url": "https://nxonearth.com",
+      "aff": "https://nxonearth.com/signupbyemail.aspx?MemberCode=0fc11e330b274bc6a8dfc2445e56fe0f20260421212953",
+      "status": "up",
+      "status_code": 200,
+      "response_ms": 2171,
+      "last_checked": "2026-04-25T19:46:07.193375+08:00",
+      "note": ""
+    }
+  ]
+}
