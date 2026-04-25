@@ -1,195 +1,120 @@
-# 🌍 2026年靠谱机场推荐
+# 🌍 自由上网指南 / Free Internet Guide
 
-> 本仓库分享 2026 年靠谱的翻墙机场（V2ray/Clash/SSR），持续更新。
-> 
-> ⚠️ **声明**：本项目仅供技术交流，请勿用于非法用途。
-
----
-
-## 📌 推荐机场列表
-
-### 1. 自由猫 Freecat ⭐（自用款）
-
-> 稳定快速，IEPL专线，适合对网络质量有要求的用户
-
-| 参数 | 值 |
-|------|-----|
-| 协议 | V2ray / Trojan |
-| 专线类型 | IEPL专线 |
-| 节点 | 香港 / 日本 / 美国 |
-| 流媒体 | ✅ ChatGPT / Netflix / Disney+ |
-
-**注册链接**（AFF 链接，谨慎选择）：
-- https://freecat.cloud/register?code=USRIiAoO
-
-**套餐参考**（以官网为准）：
-
-| 套餐 | 价格 | 流量 |
-|------|------|------|
-| 月付 | ¥XX | XXG |
-| 年付 | ¥XX | XXG |
-
-> 自用款，个人网络环境下使用体验良好，仅供参考。
+> 2026年靠谱的机场推荐与科学上网教程仓库，包含实测评测、避坑指南、自建梯子教程。
+>
+> **声明**：本仓库仅供技术学习与交流，请勿用于非法用途。
 
 ---
 
-### 2. 贝贝云
+<div align="center">
 
-> 价格便宜，日常浏览够用
+### ✈️ 机场推荐
 
-| 参数 | 值 |
-|------|-----|
-| 协议 | V2ray / SSR |
-| 节点 | 多地区 |
-| 适用场景 | 日常浏览 / 社交媒体 |
+**[👉 立即查看：2026年靠谱机场推荐（含优缺点评测）](airport-reviews/README.md)**
 
-**注册链接**：
-- https://888.2beibei.com/register?code=Ilet9Gpi
+⭐ **自用首选**：自由猫 Freecat — IEPL专线，晚高峰也能跑满速，ChatGPT/Netflix全解锁
 
-> 低价套餐注意套路，建议先买月付测试。
+*[查看详情 →](airport-reviews/README.md)*
+
+</div>
 
 ---
 
-### 3. WgetCloud
+## 🎯 这份指南解决什么问题？
 
-> CN2 GIA 线路，性价比较高
-
-| 参数 | 值 |
-|------|-----|
-| 协议 | V2ray / Clash |
-| 专线类型 | CN2 GIA |
-| 流媒体 | ✅ 主流流媒体支持 |
-
-**注册链接**：
-- https://invite.wgetcloud.ltd/auth/register?code=djq10H
+| 你的困惑 | 这份指南能给你 |
+|---------|--------------|
+| 不知道哪个机场靠谱，怕跑路 | 7个机场实测评测，含稳定性评分和跑路风险分析 |
+| 买了机场晚上卡成PPT | 教你分辨 IEPL专线 vs 中转线路 的区别 |
+| 想看 Netflix/ChatGPT 但打不开 | 每个机场标注流媒体解锁能力 |
+| 不知道该充多少钱 | 新手从月付10元起，榨干每一分钱的方案 |
+| 想副业变现但不会推广 | [机场AFF推广教程](airport-reviews/README.md) — 5%-20%佣金躺赚 |
 
 ---
 
-### 4. 悠兔
+## 🚀 快速导航
 
-> 节点覆盖广，备用选择
+### ✈️ 机场推荐（重点）
 
-| 参数 | 值 |
-|------|-----|
-| 协议 | V2ray / SSR |
-| 节点数量 | 较多 |
+| 机场 | 线路 | 稳定性 | 流媒体 | 价格 | 适合谁 |
+|------|------|--------|--------|------|-------|
+| [自由猫 Freecat ⭐](airport-reviews/README.md#1-自由猫-freecat--) | IEPL专线 | ⭐⭐⭐⭐⭐ | ✅全解锁 | ¥35+/月 | 生产力主力首选 |
+| [WgetCloud](airport-reviews/README.md#2-wgetcloud) | CN2 GIA | ⭐⭐⭐⭐ | ✅主流 | ¥25+/月 | 游戏/低延迟 |
+| [贝贝云](airport-reviews/README.md#3-贝贝云) | 中转 | ⭐⭐ | ❌差 | ¥10/月 | 入门备用 |
+| [悠兔](airport-reviews/README.md#4-悠兔) | 中转+专线 | ⭐⭐⭐ | ⚠️一般 | ¥15+/月 | 多地区覆盖 |
 
-**注册链接**：
-- https://666.youtu6.shop/register?code=Vfs3Qqkm
+*[查看全部7个机场评测 →](airport-reviews/README.md)*
 
----
+### 🛠️ 自建梯子
 
-### 5. 三十六行
+- [V2Ray/XRay 搭建教程](self-hosted/v2ray-xray-setup.md) — 从零开始搭建
+- [VLESS+Reality 终极防封教程](self-hosted/reality.md) — 目前最强防封方案
+- [WireGuard 搭建教程](self-hosted/wireguard.md) — 轻量快速
 
-> 新发现机场，有一定运营历史
+### 📱 客户端配置
 
-| 参数 | 值 |
-|------|-----|
-| 协议 | V2ray |
-| 状态 | ✅ 正常访问 |
-
-**注册链接**：
-- https://qqq.nfsqttt.com/register?code=JjW59PTY
-
----
-
-### 6. 太极
-
-> 节点多，日常使用可备选
-
-| 参数 | 值 |
-|------|-----|
-| 协议 | V2ray / Trojan |
-| 状态 | ✅ 正常访问 |
-
-**注册链接**：
-- https://xn--tfrza853d44tvst.xyz/register?code=hm0iLlzT
+| 客户端 | 适用平台 | 推荐理由 |
+|--------|---------|---------|
+| [Clash Verge](client-guides/clash-verge.md) | Windows/Mac | 功能最强，更新频繁 |
+| [Sing-Box](client-guides/sing-box.md) | 全平台 | 支持协议最全面 |
+| [Clash for Android](client-guides/clash-for-android.md) | Android | 免费开源 |
+| [Surge](client-guides/surge-ios.md) | iOS/Mac | iOS首选，稳定高效 |
 
 ---
 
-### 7. NXO Earth
+## 💡 常见场景选型建议
 
-> 海外运营，稳定性较好
+### 场景1：日常浏览 + 看视频
+> 建议：自由猫 Freecat + 贝贝云备用
+```
+自由猫看Netflix/YouTube全搞定
+贝贝云作为备用，防止主机场故障
+```
 
-| 参数 | 值 |
-|------|-----|
-| 协议 | V2ray |
-| 特点 | 海外运营，稳定性好 |
+### 场景2：跨境电商 / 远程工作
+> 建议：自由猫主力 + WgetCloud备用
+```
+要求：延迟低、稳定性强、不掉线
+IEPL专线是必须的
+```
 
-**注册链接**：
-- https://nxonearth.com/signupbyemail.aspx?MemberCode=0fc11e330b274bc6a8dfc2445e56fe0f20260421212953
+### 场景3：预算有限，只是查资料
+> 建议：贝贝云先试试
+```
+月付10元入门够了
+不满意再升级自由猫
+```
 
 ---
 
-## ❌ 已跑路机场（避坑）
+## ⚠️ 重要提醒
 
-| 机场 | 状态 |
+1. **不要一次性充值太多**：机场有跑路风险，最多充3个月用量
+2. **不要只看价格**：中转线路晚高峰降速70%，便宜不等于好用
+3. **至少备2个机场**：一个主力 + 1个备用，永远有Plan B
+4. **优先选IEPL专线**：不过境、不抢带宽，晚高峰依然坚挺
+
+---
+
+## 🔗 资源链接
+
+| 资源 | 说明 |
 |------|------|
-| 亏本机场 (knjc.cfd) | ❌ 已跑路 |
-| xn--cp3a08l.com | ❌ 已跑路 |
-| vip.taoqitu.pro | ❌ 已跑路 |
-| 6.66jc.top | ❌ 已跑路 |
-| 5.6bcloud.top | ❌ 已跑路 |
-| mojie.host | ❌ 已跑路 |
+| [机场评测列表](airport-reviews/README.md) | 7个机场实测，优缺点全公开 |
+| [机场追踪文档](../airport-tracker/README.md) | 最新状态监控，跑路预警 |
+| [V2Ray搭建教程](self-hosted/v2ray-xray-setup.md) | 自建梯子完整攻略 |
+| [常见问题排查](troubleshooting/) | 速度慢/连不上/被封解决方案 |
 
 ---
 
-## 🔧 客户端推荐
+<div align="center">
 
-| 客户端 | 平台 | 支持协议 |
-|--------|------|----------|
-| [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev) | Windows / Mac / Linux | V2ray / Trojan / SSR |
-| [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) | iOS | V2ray / Trojan / SSR |
-| [V2rayNG](https://github.com/2dust/v2rayNG) | Android | V2ray |
-| [Stash](https://github.com/Stash-net/Stash) | iOS / TV | V2ray / Trojan / SSR |
+**如果你觉得有用，欢迎 Star ⭐ 让更多人看到**
 
----
+*机场推荐含有AFF返佣链接，但评测标准不受影响*
 
-## 📚 教程
-
-### 什么是 V2ray / Clash / SSR？
-
-- **V2ray**：新一代翻墙协议，抗干扰能力强，隐蔽性好
-- **Clash**：代理客户端，支持多种协议，统一管理规则
-- **SSR**：ShadowsocksR，原版 SS 的分支，有混淆插件
-
-### 如何选择？
-
-| 场景 | 推荐协议 |
-|------|----------|
-| 日常浏览 / 社交媒体 | V2ray / SSR |
-| ChatGPT / 流媒体 | V2ray + TLS |
-| 游戏 / 低延迟需求 | Trojan / V2ray |
+</div>
 
 ---
 
-## ⚠️ 注意事项
-
-1. **请勿用于非法用途**，本项目仅做技术分享
-2. **低价套路**：部分机场月付极低但年付涨价，购买前仔细阅读套餐说明
-3. **备用机场**：建议保留 2-3 个备用机场，防止单一机场跑路
-4. **数据备份**：定期备份订阅链接和配置文件
-
----
-
-## 📅 更新日志
-
-| 日期 | 更新内容 |
-|------|----------|
-| 2026-04-16 | 初始化，推荐贝贝云、WgetCloud、悠兔 |
-| 2026-04-18 | 添加自由猫（自用款）、三十六行、太极 |
-| 2026-04-20 | 补充自由猫特点描述，标记已跑路机场 |
-| 2026-04-21 | 添加 NXO Earth |
-
----
-
-## 🤝 赞助
-
-如果觉得有用，欢迎：
-
-- ⭐ Star 本仓库
-- 分享给需要的朋友
-
----
-
-> **免责声明**：本项目仅供技术交流学习，机场链接为第三方服务，使用前请自行判断风险。
+> *Last updated: 2026-04-25*
