@@ -16,7 +16,7 @@ permalink: /getting-started/purchase-guide/
 
 **本教程以「自由猫 Freecat」为例**，其他机场流程基本一样。
 
-👉 [点击注册自由猫（返佣链接）](https://freecat.cloud/register?code=***)
+👉 [点击注册自由猫](https://freecat.cloud/register?code=***)
 
 ---
 
@@ -159,16 +159,6 @@ https://freecat.cloud/api/v1/client/subscribe?token=xxxxx
 - 机场套餐一般**不可退款**
 - 建议用完当前套餐再换
 - 或者当作备用机场保留
-
----
-
-## 返佣说明
-
-通过我的邀请链接注册并购买，你的价格**不会变多**，机场会从利润中给我返佣（通常是首年费用的 10%-20%）。
-
-这不会影响你的任何权益，却能帮我覆盖运营成本，让我持续测试和更新推荐。
-
-**感谢支持！🙏**
 
 ---
 

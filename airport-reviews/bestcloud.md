@@ -2,19 +2,6 @@
 title: 贝贝云（BestCloud）
 description: 贝贝云机场评测 — 价格便宜的日常浏览机场，学生党首选
 url: https://888.2beibei.com
-aff_url: https://888.2beibei.com/register?code=***
-aff_commission: "待确认"
-protocols: ["待确认"]
-transfer: "中转（具体线路待确认）"
-lines: "待确认"
-node_count: "待确认"
-streaming:
-  netflix: "待确认"
-  disney_plus: "待确认"
-  chatgpt: "待确认"
-  youtube_premium: "待确认"
-pricing:
-  entry: "待确认（价格便宜）"
 tags: [机场, 便宜, 日常浏览, 学生党]
 update_date: "2026-04-25"
 ---
@@ -36,7 +23,7 @@ update_date: "2026-04-25"
 | 项目 | 内容 |
 |------|------|
 | **官网** | [888.2beibei.com](https://888.2beibei.com){target="_blank"} |
-| **注册链接** | [贝贝云注册地址](https://888.2beibei.com/register?code=***){target="_blank"} |
+| **注册链接** | [贝贝云注册地址](***){target="_blank"} |
 | **协议** | 待确认（登录后查看）|
 | **传输方式** | 中转（具体线路待确认）|
 | **流媒体** | ⚠️ 待确认 |

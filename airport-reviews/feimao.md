@@ -2,12 +2,9 @@
 title: 肥猫云
 description: 肥猫云机场评测 — 2021年开业，BGP三线纯专线，不限设备，流媒体全解锁，只能用自家客户端
 url: https://feimao.cloud
-aff_url: https://inv03.fcweba.cc/register?aff=***
-aff_commission: "待确认"
 protocols: ["Trojan"]
 transfer: "BGP三线+纯专线出口"
 lines: "BGP三线优化，纯专线出口"
-node_count: "待确认"
 streaming:
   netflix: "✅ 支持"
   disney_plus: "✅ 支持"
@@ -45,7 +42,7 @@ update_date: "2026-05-03"
 | 项目 | 内容 |
 |------|------|
 | **官网** | [feimao.cloud](https://feimao.cloud){target="_blank"} |
-| **注册链接** | [肥猫云注册地址](https://inv03.fcweba.cc/register?aff=***)（返佣链接） |
+| **注册链接** | [肥猫云注册地址](***) |
 | **协议** | Trojan |
 | **传输方式** | BGP三线优化，纯专线出口，最高端线路 |
 | **流媒体** | ✅ Netflix · ✅ Hulu · ✅ HBO · ✅ Disney+ · ✅ Dazn |
@@ -132,7 +129,7 @@ update_date: "2026-05-03"
 
 ## 如何购买
 
-1. 点击注册链接：[肥猫云注册地址](https://inv03.fcweba.cc/register?aff=***)
+1. 点击注册链接：[肥猫云注册地址](***)
 2. 注册账号
 3. 在后台选择套餐并支付
 4. **下载肥猫云自家客户端**（不是Clash/Shadowrocket）

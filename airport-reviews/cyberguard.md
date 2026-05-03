@@ -2,9 +2,6 @@
 title: Cyberguard
 description: Cyberguard机场评测 — 2020年开业，60+节点，IEPL专线，设备不限，流媒体全解锁
 url: https://www.cyberguard.best
-aff_url: https://cyberguard.best/#/register?code=***
-aff_commission: "待确认"
-protocols: ["待确认"]
 transfer: "IEPL专线"
 lines: "IEPL专线，BGP接入，QUIC协议"
 node_count: "60+ 节点"
@@ -37,7 +34,7 @@ update_date: "2026-05-03"
 | 项目 | 内容 |
 |------|------|
 | **官网** | [cyberguard.best](https://www.cyberguard.best){target="_blank"} |
-| **注册链接** | [Cyberguard注册地址](https://cyberguard.best/#/register?code=***)（返佣链接） |
+| **注册链接** | [Cyberguard注册地址](***) |
 | **协议** | 待确认（登录后查看） |
 | **传输方式** | IEPL专线，BGP接入 |
 | **节点数量** | 60+ 节点 |
@@ -124,7 +121,7 @@ update_date: "2026-05-03"
 
 ## 如何购买
 
-1. 点击注册链接：[Cyberguard注册地址](https://cyberguard.best/#/register?code=***)
+1. 点击注册链接：[Cyberguard注册地址](***)
 2. 注册账号
 3. 在后台选择套餐并支付
 4. 获取订阅链接，导入客户端

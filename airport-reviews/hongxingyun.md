@@ -2,17 +2,6 @@
 title: 红杏云
 description: 红杏云机场评测 — 2021年开业，不限时流量包，设备不限，支持第三方客户端和软路由
 url: https://www.hongxingyun.club
-aff_url: https://hongxingyun.club/web/#/login?code=***
-aff_commission: "待确认"
-protocols: ["待确认"]
-transfer: "待确认"
-lines: "待确认"
-node_count: "待确认"
-streaming:
-  netflix: "待确认"
-  disney_plus: "待确认"
-  chatgpt: "待确认"
-  youtube_premium: "待确认"
 pricing:
   entry: "¥20/月（200G轻量）"
   basic: "¥40/月（500G冲浪）"
@@ -37,7 +26,7 @@ update_date: "2026-05-03"
 | 项目 | 内容 |
 |------|------|
 | **官网** | [hongxingyun.club](https://www.hongxingyun.club){target="_blank"} |
-| **注册链接** | [红杏云注册地址](https://hongxingyun.club/web/#/login?code=***)（返佣链接） |
+| **注册链接** | [红杏云注册地址](***) |
 | **协议** | 待确认（登录后查看） |
 | **传输方式** | 待确认 |
 | **流媒体** | ⚠️ 待确认 |
@@ -120,7 +109,7 @@ update_date: "2026-05-03"
 
 ## 如何购买
 
-1. 点击注册链接：[红杏云注册地址](https://hongxingyun.club/web/#/login?code=***)
+1. 点击注册链接：[红杏云注册地址](***)
 2. 注册账号
 3. 在后台选择套餐并支付
 4. 获取订阅链接，导入客户端（支持Clash等第三方）

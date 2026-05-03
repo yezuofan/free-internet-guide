@@ -2,19 +2,7 @@
 title: 三十六行（nfsqttt）
 description: 三十六行机场评测 — 老牌机场之一，价格实惠的日常中转机场
 url: https://qqq.nfsqttt.com
-aff_url: https://qqq.nfsqttt.com/register?code=***
-aff_commission: "待确认"
-protocols: ["待确认"]
 transfer: "中转"
-lines: "待确认"
-node_count: "待确认"
-streaming:
-  netflix: "待确认"
-  disney_plus: "待确认"
-  chatgpt: "待确认"
-  youtube_premium: "待确认"
-pricing:
-  entry: "待确认"
 tags: [机场, 老牌, 便宜]
 update_date: "2026-04-25"
 ---
@@ -36,7 +24,7 @@ update_date: "2026-04-25"
 | 项目 | 内容 |
 |------|------|
 | **官网** | [qqq.nfsqttt.com](https://qqq.nfsqttt.com){target="_blank"} |
-| **注册链接** | [三十六行注册地址](https://qqq.nfsqttt.com/register?code=***){target="_blank"} |
+| **注册链接** | [三十六行注册地址](***){target="_blank"} |
 | **协议** | 待确认（登录后查看）|
 | **传输方式** | 中转 |
 | **节点数量** | 待确认 |

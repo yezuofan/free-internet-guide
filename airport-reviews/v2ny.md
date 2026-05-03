@@ -2,12 +2,9 @@
 title: 奈云
 description: 奈云机场评测 — 2021年开业，IEPL专线，Shadowsocks/V2ray/Trojan多协议，流媒体全解锁
 url: https://www.v2ny.me
-aff_url: https://6.vip.v2ny.me?path=register&code=***
-aff_commission: "待确认"
 protocols: ["Shadowsocks", "V2ray", "Trojan"]
 transfer: "IEPL专线"
 lines: "IEPL专线，自有机房专柜"
-node_count: "待确认"
 streaming:
   netflix: "✅ 支持"
   disney_plus: "✅ 支持"
@@ -37,7 +34,7 @@ update_date: "2026-05-03"
 | 项目 | 内容 |
 |------|------|
 | **官网** | [v2ny.me](https://www.v2ny.me){target="_blank"} |
-| **注册链接** | [奈云注册地址](https://6.vip.v2ny.me?path=register&code=***)（返佣链接） |
+| **注册链接** | [奈云注册地址](***) |
 | **协议** | Shadowsocks / V2ray / Trojan |
 | **传输方式** | IEPL专线，自有机房专柜 |
 | **流媒体** | ✅ Netflix · ✅ Disney+ · ✅ ChatGPT · ✅ YouTube Premium |
@@ -118,7 +115,7 @@ update_date: "2026-05-03"
 
 ## 如何购买
 
-1. 点击注册链接：[奈云注册地址](https://6.vip.v2ny.me?path=register&code=***)
+1. 点击注册链接：[奈云注册地址](***)
 2. 注册账号
 3. 在后台选择套餐并支付
 4. 获取订阅链接，导入客户端

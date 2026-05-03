@@ -3,16 +3,12 @@ title: 太极/动力港
 description: 太极（动力港）机场评测 — Xboard框架专线机场，GitHub有详细测速数据
 url: https://xn--tfrza853d44tvst.xyz
 backup_url: https://dongligang.me
-aff_url: "https://xn--tfrza853d44tvst.xyz/register?code=***"
-aff_commission: "待确认"
 protocols: ["SS", "V2ray (VMess/VLESS)", "Trojan（推测）"]
 transfer: "IEPL/IPLC 专线（推测）"
 lines: "广港、沪日、京德等（推测）"
-node_count: "待确认"
 streaming:
   netflix: "✅ 有 GitHub 测速记录"
   disney_plus: "✅ 有 GitHub 测速记录"
-  chatgpt: "待确认"
   youtube_premium: "✅ 有 GitHub 测速记录"
 pricing:
   entry: "¥15-30/月（同类参考）"
@@ -38,7 +34,7 @@ update_date: "2026-04-25"
 |------|------|
 | **官网** | [xn--tfrza853d44tvst.xyz](https://xn--tfrza853d44tvst.xyz){target="_blank"} |
 | **备用域名** | [dongligang.me](https://dongligang.me){target="_blank"} |
-| **注册链接** | [太极注册地址](https://xn--tfrza853d44tvst.xyz/register?code=***)|
+| **注册链接** | [太极注册地址](***)|
 | **协议** | SS、V2ray (VMess/VLESS)、Trojan（基于 Xboard 平台推测）|
 | **传输方式** | IEPL/IPLC 专线（推测）|
 | **流媒体** | ✅ 有 GitHub 测速记录（Netflix/Disney+/YouTube）|

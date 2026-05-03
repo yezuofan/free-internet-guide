@@ -2,17 +2,8 @@
 title: NXO Earth
 description: NXO Earth 机场评测 — BGP 中继 + MPTCP 多线程，2000Mbps 高速专线机场
 url: https://nxonearth.com
-aff_url: https://nxonearth.com/signupbyemail.aspx?MemberCode=0fc11e330b274bc6a8dfc2445e56fe0f20260421212953
-aff_commission: "待确认"
-protocols: ["待确认"]
 transfer: "BGP 中继 + MPTCP 多线程"
 lines: "BGP 线路"
-node_count: "待确认"
-streaming:
-  netflix: "待确认"
-  disney_plus: "待确认"
-  chatgpt: "待确认"
-  youtube_premium: "待确认"
 pricing:
   basic: "¥96/月（500GB/31天）"
   standard: "¥123/月（500GB/31天）"
