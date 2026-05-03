@@ -34,7 +34,7 @@ update_date: "2026-05-03"
 | 项目 | 内容 |
 |------|------|
 | **官网** | [v2ny.me](https://www.v2ny.me){target="_blank"} |
-| **注册链接** | [奈云注册地址](***) |
+| **注册链接** | [奈云注册地址](https://6.vip.v2ny.me?path=register&code=tExjICnZ) |
 | **协议** | Shadowsocks / V2ray / Trojan |
 | **传输方式** | IEPL专线，自有机房专柜 |
 | **流媒体** | ✅ Netflix · ✅ Disney+ · ✅ ChatGPT · ✅ YouTube Premium |
@@ -115,7 +115,7 @@ update_date: "2026-05-03"
 
 ## 如何购买
 
-1. 点击注册链接：[奈云注册地址](***)
+1. 点击注册链接：[奈云注册地址](https://6.vip.v2ny.me?path=register&code=tExjICnZ)
 2. 注册账号
 3. 在后台选择套餐并支付
 4. 获取订阅链接，导入客户端

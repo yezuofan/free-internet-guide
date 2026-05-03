@@ -26,7 +26,7 @@ update_date: "2026-05-03"
 | 项目 | 内容 |
 |------|------|
 | **官网** | [hongxingyun.club](https://www.hongxingyun.club){target="_blank"} |
-| **注册链接** | [红杏云注册地址](***) |
+| **注册链接** | [红杏云注册地址](https://hongxingyun.club/web/#/register?code=OBEi3O69) |
 | **协议** | 待确认（登录后查看） |
 | **传输方式** | 待确认 |
 | **流媒体** | ⚠️ 待确认 |
@@ -109,7 +109,7 @@ update_date: "2026-05-03"
 
 ## 如何购买
 
-1. 点击注册链接：[红杏云注册地址](***)
+1. 点击注册链接：[红杏云注册地址](https://hongxingyun.club/web/#/register?code=OBEi3O69)
 2. 注册账号
 3. 在后台选择套餐并支付
 4. 获取订阅链接，导入客户端（支持Clash等第三方）

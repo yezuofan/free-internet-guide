@@ -38,7 +38,7 @@ update_date: "2026-04-25"
 | 项目 | 内容 |
 |------|------|
 | **官网** | [freecat.cloud](https://freecat.cloud){target="_blank"} |
-| **注册链接** | [自由猫注册地址](***) |
+| **注册链接** | [自由猫注册地址](https://freecat.cloud/register?code=USRIiAoO) |
 | **协议** | VLESS+Reality、VMess |
 | **传输方式** | MPTCP（多路复用） |
 | **线路** | CN2 GIA、9929、CMI、Softbank |
@@ -88,7 +88,7 @@ update_date: "2026-04-25"
 
 ## 注册步骤
 
-1. 点击 [自由猫注册地址](***)
+1. 点击 [自由猫注册地址](https://freecat.cloud/register?code=USRIiAoO)
 2. 注册账号（建议用邮箱）
 3. 选择套餐并完成支付
 4. 获取订阅链接，导入客户端使用

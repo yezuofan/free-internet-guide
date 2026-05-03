@@ -28,7 +28,7 @@
 
 ### 一枝红杏
 - **官网**：[yizhihongxing.club](https://www.yizhihongxing.club)
-- **注册**：[立即注册](***)
+- **注册**：[立即注册](https://order.yizhihongxing.club/aff.php?aff=22704)
 - **协议**：Trojan
 - **线路**：IPLC专线（10年老牌）
 - **流媒体**：Netflix ✅ · Disney+ ✅ · ChatGPT ✅ · YouTube Premium ✅
@@ -39,7 +39,7 @@
 
 ### 悠兔
 - **官网**：youtu.me
-- **注册**：[立即注册](***)
+- **注册**：[立即注册](https://youtu.me/auth/register?code=Vfs3Qqkm)
 - **协议**：Shadowsocks / V2ray / Trojan
 - **线路**：IEPL专线，自有机房专柜
 - **流媒体**：Netflix ✅ · Disney+ ✅ · ChatGPT ✅ · YouTube Premium ✅
@@ -50,7 +50,7 @@
 
 ### 奈云
 - **官网**：[v2ny.me](https://www.v2ny.me)
-- **注册**：[立即注册](***)
+- **注册**：[立即注册](https://6.vip.v2ny.me?path=register&code=tExjICnZ)
 - **协议**：Shadowsocks / V2ray / Trojan
 - **线路**：IEPL专线
 - **流媒体**：Netflix ✅ · Disney+ ✅ · ChatGPT ✅ · YouTube Premium ✅
@@ -61,7 +61,7 @@
 
 ### 红杏云
 - **官网**：[hongxingyun.club](https://www.hongxingyun.club)
-- **注册**：[立即注册](***)
+- **注册**：[立即注册](https://hongxingyun.club/web/#/register?code=OBEi3O69)
 - **协议**：待登录确认
 - **线路**：BGP三线优化
 - **流媒体**：⚠️ 待确认
@@ -72,7 +72,7 @@
 
 ### 肥猫云
 - **官网**：[feimao.cloud](https://feimao.cloud)
-- **注册**：[立即注册](***)
+- **注册**：[立即注册](https://inv03.fcweba.cc/register?aff=ie8QEuE1)
 - **协议**：Trojan
 - **线路**：BGP三线+纯专线出口
 - **流媒体**：Netflix ✅ · Disney+ ✅ · ChatGPT ✅ · YouTube Premium ✅

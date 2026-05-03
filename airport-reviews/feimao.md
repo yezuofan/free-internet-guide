@@ -42,7 +42,7 @@ update_date: "2026-05-03"
 | 项目 | 内容 |
 |------|------|
 | **官网** | [feimao.cloud](https://feimao.cloud){target="_blank"} |
-| **注册链接** | [肥猫云注册地址](***) |
+| **注册链接** | [肥猫云注册地址](https://inv03.fcweba.cc/register?aff=ie8QEuE1) |
 | **协议** | Trojan |
 | **传输方式** | BGP三线优化，纯专线出口，最高端线路 |
 | **流媒体** | ✅ Netflix · ✅ Hulu · ✅ HBO · ✅ Disney+ · ✅ Dazn |
@@ -129,7 +129,7 @@ update_date: "2026-05-03"
 
 ## 如何购买
 
-1. 点击注册链接：[肥猫云注册地址](***)
+1. 点击注册链接：[肥猫云注册地址](https://inv03.fcweba.cc/register?aff=ie8QEuE1)
 2. 注册账号
 3. 在后台选择套餐并支付
 4. **下载肥猫云自家客户端**（不是Clash/Shadowrocket）

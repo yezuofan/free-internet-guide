@@ -23,7 +23,7 @@ update_date: "2026-04-25"
 | 项目 | 内容 |
 |------|------|
 | **官网** | [888.2beibei.com](https://888.2beibei.com){target="_blank"} |
-| **注册链接** | [贝贝云注册地址](***){target="_blank"} |
+| **注册链接** | [贝贝云注册地址](https://888.2beibei.com/register?code=Ilet9Gpi){target="_blank"} |
 | **协议** | 待确认（登录后查看）|
 | **传输方式** | 中转（具体线路待确认）|
 | **流媒体** | ⚠️ 待确认 |
