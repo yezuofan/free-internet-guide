@@ -48,7 +48,7 @@
 
 IEPL 专线接入，自有机房专柜，节点质量在同价机场中靠前。晚高峰表现稳定，客服响应及时，适合每天都要稳定看视频或办公的用户。
 
-- **注册**：[立即注册](https://youtu.me/auth/register?code=Vfs3Qqkm)
+- **注册**：[立即注册](https://666.youtu6.shop/register?code=Vfs3Qqkm)
 - **协议**：Shadowsocks / V2ray / Trojan
 - **线路**：IEPL专线，自有机房专柜
 - **流媒体**：Netflix ✅ · Disney+ ✅ · ChatGPT ✅ · YouTube Premium ✅
@@ -62,7 +62,7 @@ IEPL 专线接入，自有机房专柜，节点质量在同价机场中靠前。
 
 ¥168/年起的 IEPL 专线机场，支持 Shadowsocks / V2ray / Trojan 三种协议，兼容性好。月付门槛低，适合想先试用再决定是否长期持有的用户。
 
-- **注册**：[立即注册](https://6.vip.v2ny.me?path=register&code=tExjICnZ)
+- **注册**：[立即注册](http://6.vip.v2ny.me?path=register&code=tExjICnZ)
 - **协议**：Shadowsocks / V2ray / Trojan
 - **线路**：IEPL专线
 - **流媒体**：Netflix ✅ · Disney+ ✅ · ChatGPT ✅ · YouTube Premium ✅

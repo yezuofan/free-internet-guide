@@ -34,7 +34,7 @@ update_date: "2026-05-03"
 | 项目 | 内容 |
 |------|------|
 | **官网** | [v2ny.me](https://www.v2ny.me){target="_blank"} |
-| **注册链接** | [奈云注册地址](https://6.vip.v2ny.me?path=register&code=tExjICnZ) |
+| **注册链接** | [奈云注册地址](http://6.vip.v2ny.me?path=register&code=tExjICnZ) |
 | **协议** | Shadowsocks / V2ray / Trojan |
 | **传输方式** | IEPL专线，自有机房专柜 |
 | **流媒体** | ✅ Netflix · ✅ Disney+ · ✅ ChatGPT · ✅ YouTube Premium |
