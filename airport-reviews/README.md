@@ -27,57 +27,75 @@
 ## 重点推荐
 
 ### 一枝红杏
-- **官网**：[yizhihongxing.club](https://www.yizhihongxing.club)
+
+**适合：第一次买主力 / 想少折腾 / AI + 流媒体都要的人。**
+
+10年老牌，运营历史悠久，跑路风险极低。IPLC专线 + Trojan 协议组合，稳定性有保障，AI 工具和流媒体都能稳定使用。注册后可直接在后台找到节点信息导入客户端。
+
 - **注册**：[立即注册](https://order.yizhihongxing.club/aff.php?aff=22704)
 - **协议**：Trojan
 - **线路**：IPLC专线（10年老牌）
 - **流媒体**：Netflix ✅ · Disney+ ✅ · ChatGPT ✅ · YouTube Premium ✅
 - **起步价**：¥99/年（Trojan Lite）
-- **适合**：第一次买主力、AI + 流媒体综合使用
+
+> ⚠️ 只有年付选项，没有月付。
 
 ---
 
 ### 悠兔
-- **官网**：youtu.me
+
+**适合：更看重晚高峰稳定 / 视频重度用户 / IEPL 专线优先的人。**
+
+IEPL 专线接入，自有机房专柜，节点质量在同价机场中靠前。晚高峰表现稳定，客服响应及时，适合每天都要稳定看视频或办公的用户。
+
 - **注册**：[立即注册](https://youtu.me/auth/register?code=Vfs3Qqkm)
 - **协议**：Shadowsocks / V2ray / Trojan
 - **线路**：IEPL专线，自有机房专柜
 - **流媒体**：Netflix ✅ · Disney+ ✅ · ChatGPT ✅ · YouTube Premium ✅
 - **起步价**：¥39/月起
-- **适合**：晚高峰视频重度用户、IEPL 稳定优先
 
 ---
 
 ### 奈云
-- **官网**：[v2ny.me](https://www.v2ny.me)
+
+**适合：预算敏感 / 想月付试用 / 同时需要 AI 和流媒体的人。**
+
+¥168/年起的 IEPL 专线机场，支持 Shadowsocks / V2ray / Trojan 三种协议，兼容性好。月付门槛低，适合想先试用再决定是否长期持有的用户。
+
 - **注册**：[立即注册](https://6.vip.v2ny.me?path=register&code=tExjICnZ)
 - **协议**：Shadowsocks / V2ray / Trojan
 - **线路**：IEPL专线
 - **流媒体**：Netflix ✅ · Disney+ ✅ · ChatGPT ✅ · YouTube Premium ✅
 - **起步价**：¥168/年（Basic 特惠）
-- **适合**：预算敏感、需要月付试用
 
 ---
 
 ### 红杏云
-- **官网**：[hongxingyun.club](https://www.hongxingyun.club)
+
+**适合：流量用量不确定 / 多设备家庭 / 需要软路由的用户。**
+
+主打不限时流量包，流量用完为止不浪费时间。设备数限制宽松，支持第三方订阅导入和软路由配置，适合有特殊网络需求或多设备共享的家庭用户。
+
 - **注册**：[立即注册](https://hongxingyun.club/web/#/register?code=OBEi3O69)
-- **协议**：待登录确认
+- **协议**：需注册后登录确认
 - **线路**：BGP三线优化
-- **流媒体**：⚠️ 待确认
+- **流媒体**：⚠️ 待实测确认
 - **起步价**：¥20/月（200G）
-- **适合**：流量用量不确定、多设备家庭、软路由用户
 
 ---
 
 ### 肥猫云
-- **官网**：[feimao.cloud](https://feimao.cloud)
+
+**适合：接受自家客户端 / 需要 BGP 三线纯专线 / 重度流媒体用户。**
+
+BGP三线+纯专线出口，理论上多运营商接入体验都较好。只支持自家客户端，不提供通用订阅链接，无法导入 Clash 等第三方工具。
+
 - **注册**：[立即注册](https://inv03.fcweba.cc/register?aff=ie8QEuE1)
 - **协议**：Trojan
 - **线路**：BGP三线+纯专线出口
 - **流媒体**：Netflix ✅ · Disney+ ✅ · ChatGPT ✅ · YouTube Premium ✅
 - **起步价**：¥96/年
-- **注意**：只能使用自家客户端，不支持第三方订阅
+- **注意**：不支持第三方客户端，只能用肥猫云自家客户端
 
 ---
 
