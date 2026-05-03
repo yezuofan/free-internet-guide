@@ -39,7 +39,7 @@ update_date: "2026-04-25"
 | 项目 | 内容 |
 |------|------|
 | **官网** | [invite.wgetcloud.ltd](https://invite.wgetcloud.ltd/auth/register?code=djq10H){target="_blank"} |
-| **注册链接** | [invite.wgetcloud.ltd/register?code=djq10H](https://invite.wgetcloud.ltd/auth/register?code=djq10H){target="_blank"}（AFF 佣金待确认）|
+| **注册链接** | [WGetCloud注册地址](https://invite.wgetcloud.ltd/auth/register?code=djq10H)（已移除推荐）|
 | **协议** | Trojan |
 | **传输方式** | CN2 GIA（旗舰线路）|
 | **节点数量** | 1000+ 节点，全球覆盖 |

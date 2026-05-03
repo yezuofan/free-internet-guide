@@ -36,7 +36,7 @@ update_date: "2026-04-25"
 | 项目 | 内容 |
 |------|------|
 | **官网** | [qqq.nfsqttt.com](https://qqq.nfsqttt.com){target="_blank"} |
-| **注册链接** | [qqq.nfsqttt.com/register?code=JjW59PTY](https://qqq.nfsqttt.com/register?code=JjW59PTY){target="_blank"} |
+| **注册链接** | [三十六行注册地址](https://qqq.nfsqttt.com/register?code=***){target="_blank"} |
 | **协议** | 待确认（登录后查看）|
 | **传输方式** | 中转 |
 | **节点数量** | 待确认 |

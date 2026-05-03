@@ -2,7 +2,7 @@
 title: 一枝红杏
 description: 一枝红杏机场评测 — 10年老牌，IPLC专线，Trojan协议，流媒体全解锁
 url: https://www.yizhihongxing.club
-aff_url: https://order.yizhihongxing.club/aff.php?aff=22704
+aff_url: https://order.yizhihongxing.club/aff.php?aff=***
 aff_commission: "待确认"
 protocols: ["Trojan"]
 transfer: "IPLC专线"
@@ -37,7 +37,7 @@ update_date: "2026-05-03"
 | 项目 | 内容 |
 |------|------|
 | **官网** | [yizhihongxing.club](https://www.yizhihongxing.club){target="_blank"} |
-| **注册链接** | [order.yizhihongxing.club/aff.php?aff=22704](https://order.yizhihongxing.club/aff.php?aff=22704)（返佣链接） |
+| **注册链接** | [一枝红杏注册地址](https://order.yizhihongxing.club/aff.php?aff=***)（返佣链接） |
 | **协议** | Trojan |
 | **传输方式** | IPLC专线 |
 | **流媒体** | ✅ Netflix · ✅ Disney+ · ✅ ChatGPT · ✅ YouTube Premium |
@@ -109,7 +109,7 @@ update_date: "2026-05-03"
 
 ## 如何购买
 
-1. 点击注册链接：[https://order.yizhihongxing.club/aff.php?aff=22704](https://order.yizhihongxing.club/aff.php?aff=22704)
+1. 点击注册链接：[一枝红杏注册地址](https://order.yizhihongxing.club/aff.php?aff=***)
 2. 注册账号
 3. 在后台选择套餐并支付（支付宝/微信）
 4. 获取订阅链接或节点信息

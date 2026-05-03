@@ -2,7 +2,7 @@
 title: 自由猫 Freecat
 description: 自由猫 Freecat 机场评测 — IEPL专线，稳定快速，叶老大自用主力机场
 url: https://freecat.cloud
-aff_url: https://freecat.cloud/register?code=USRIiAoO
+aff_url: https://freecat.cloud/register?code=***
 aff_commission: "20%（首年）"
 protocols: ["VLESS+Reality", "VMess"]
 transfer: "MPTCP"
@@ -40,7 +40,7 @@ update_date: "2026-04-25"
 | 项目 | 内容 |
 |------|------|
 | **官网** | [freecat.cloud](https://freecat.cloud){target="_blank"} |
-| **注册链接** | [freecat.cloud/register?code=USRIiAoO](https://freecat.cloud/register?code=USRIiAoO){target="_blank"}（AFF 20% 首年）|
+| **注册链接** | [自由猫注册地址](https://freecat.cloud/register?code=***)（20%首年返佣）|
 | **协议** | VLESS+Reality、VMess |
 | **传输方式** | MPTCP（多路复用） |
 | **线路** | CN2 GIA、9929、CMI、Softbank |
@@ -130,7 +130,7 @@ update_date: "2026-04-25"
 
 ## 如何购买
 
-1. 点击注册链接：[https://freecat.cloud/register?code=USRIiAoO](https://freecat.cloud/register?code=USRIiAoO)
+1. 点击 [自由猫注册地址](https://freecat.cloud/register?code=***)
 2. 注册账号（建议用邮箱）
 3. 进入「订阅」页面，选择套餐并支付（支付宝/微信）
 4. 支付完成后，在「订阅」页面复制订阅链接

@@ -36,7 +36,7 @@ update_date: "2026-04-25"
 | 项目 | 内容 |
 |------|------|
 | **官网** | [666.youtu6.shop](https://666.youtu6.shop){target="_blank"} |
-| **注册链接** | [666.youtu6.shop/register?code=Vfs3Qqkm](https://666.youtu6.shop/register?code=Vfs3Qqkm){target="_blank"} |
+| **注册链接** | [悠兔注册地址](https://666.youtu6.shop/register?code=***){target="_blank"} |
 | **协议** | 待确认（登录后查看）|
 | **传输方式** | 中转 |
 | **节点数量** | 较多（具体数量待确认）|

@@ -38,7 +38,7 @@ update_date: "2026-04-25"
 |------|------|
 | **官网** | [xn--tfrza853d44tvst.xyz](https://xn--tfrza853d44tvst.xyz){target="_blank"} |
 | **备用域名** | [dongligang.me](https://dongligang.me){target="_blank"} |
-| **注册链接** | [xn--tfrza853d44tvst.xyz/register?code=hm0iLlzT](https://xn--tfrza853d44tvst.xyz/register?code=hm0iLlzT){target="_blank"} |
+| **注册链接** | [太极注册地址](https://xn--tfrza853d44tvst.xyz/register?code=***)|
 | **协议** | SS、V2ray (VMess/VLESS)、Trojan（基于 Xboard 平台推测）|
 | **传输方式** | IEPL/IPLC 专线（推测）|
 | **流媒体** | ✅ 有 GitHub 测速记录（Netflix/Disney+/YouTube）|
