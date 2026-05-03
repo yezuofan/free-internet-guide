@@ -26,7 +26,7 @@ permalink: /getting-started/how-to-choose/
 
 ### 🏷️ 场景一：预算有限，日常浏览
 
-**推荐：[贝贝云](https://888.2beibei.com/register?code=Ilet9Gpi)（备用）/ [三十六行](https://qqq.nfsqttt.com/register?code=JjW59PTY)（尝鲜）**
+**推荐：[贝贝云](https://888.2beibei.com/register?code=***)（备用）/ [三十六行](https://qqq.nfsqttt.com/register?code=***)（尝鲜）**
 
 **月费参考：** ¥10-15/月
 
@@ -49,7 +49,7 @@ permalink: /getting-started/how-to-choose/
 
 ### 🎬 场景二：重度流媒体（Netflix / Disney+ / YouTube）
 
-**推荐：[自由猫 Freecat](https://freecat.cloud/register?code=USRIiAoO)（⭐首选）**
+**推荐：[自由猫 Freecat](https://freecat.cloud/register?code=***)（⭐首选）**
 
 **月费参考：** ¥35+/月
 
@@ -69,7 +69,7 @@ permalink: /getting-started/how-to-choose/
 
 ### 🛒 场景三：跨境电商 / 多账号环境
 
-**推荐：[自由猫 Freecat](https://freecat.cloud/register?code=USRIiAoO) 或 [WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=djq10H)**
+**推荐：[自由猫 Freecat](https://freecat.cloud/register?code=***) 或 [WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=***)**
 
 **这个场景的核心需求：**
 - IP 干净，不容易被平台风控
@@ -90,7 +90,7 @@ permalink: /getting-started/how-to-choose/
 
 ### ⚙️ 场景四：技术用户 / 定制需求
 
-**推荐：[太极](https://xn--tfrza853d44tvst.xyz/register?code=hm0iLlzT) / [NXO Earth](https://nxonearth.com/signupbyemail.aspx?MemberCode=0fc11e330b274bc6a8dfc2445e56fe0f20260421212953)**
+**推荐：[太极](https://xn--tfrza853d44tvst.xyz/register?code=***) / [NXO Earth](https://nxonearth.com/signupbyemail.aspx?MemberCode=0fc11e330b274bc6a8dfc2445e56fe0f20260421212953)**
 
 **适合你：**
 - 需要 V2ray / Trojan / Shadowsocks 多种协议

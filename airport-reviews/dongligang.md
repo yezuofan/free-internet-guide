@@ -3,7 +3,7 @@ title: 太极/动力港
 description: 太极（动力港）机场评测 — Xboard框架专线机场，GitHub有详细测速数据
 url: https://xn--tfrza853d44tvst.xyz
 backup_url: https://dongligang.me
-aff_url: "https://xn--tfrza853d44tvst.xyz/register?code=hm0iLlzT"
+aff_url: "https://xn--tfrza853d44tvst.xyz/register?code=***"
 aff_commission: "待确认"
 protocols: ["SS", "V2ray (VMess/VLESS)", "Trojan（推测）"]
 transfer: "IEPL/IPLC 专线（推测）"

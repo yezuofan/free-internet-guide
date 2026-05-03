@@ -2,7 +2,7 @@
 title: 奈云
 description: 奈云机场评测 — 2021年开业，IEPL专线，Shadowsocks/V2ray/Trojan多协议，流媒体全解锁
 url: https://www.v2ny.me
-aff_url: https://6.vip.v2ny.me?path=register&code=tExjICnZ
+aff_url: https://6.vip.v2ny.me?path=register&code=***
 aff_commission: "待确认"
 protocols: ["Shadowsocks", "V2ray", "Trojan"]
 transfer: "IEPL专线"

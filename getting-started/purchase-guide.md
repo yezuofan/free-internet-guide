@@ -16,7 +16,7 @@ permalink: /getting-started/purchase-guide/
 
 **本教程以「自由猫 Freecat」为例**，其他机场流程基本一样。
 
-👉 [点击注册自由猫（返佣链接）](https://freecat.cloud/register?code=USRIiAoO)
+👉 [点击注册自由猫（返佣链接）](https://freecat.cloud/register?code=***)
 
 ---
 

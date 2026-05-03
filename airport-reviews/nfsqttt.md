@@ -2,7 +2,7 @@
 title: 三十六行（nfsqttt）
 description: 三十六行机场评测 — 老牌机场之一，价格实惠的日常中转机场
 url: https://qqq.nfsqttt.com
-aff_url: https://qqq.nfsqttt.com/register?code=JjW59PTY
+aff_url: https://qqq.nfsqttt.com/register?code=***
 aff_commission: "待确认"
 protocols: ["待确认"]
 transfer: "中转"

@@ -2,7 +2,7 @@
 title: 贝贝云（BestCloud）
 description: 贝贝云机场评测 — 价格便宜的日常浏览机场，学生党首选
 url: https://888.2beibei.com
-aff_url: https://888.2beibei.com/register?code=Ilet9Gpi
+aff_url: https://888.2beibei.com/register?code=***
 aff_commission: "待确认"
 protocols: ["待确认"]
 transfer: "中转（具体线路待确认）"

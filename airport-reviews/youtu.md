@@ -2,7 +2,7 @@
 title: 悠兔（YouTu）
 description: 悠兔机场评测 — 节点覆盖广的中转机场，适合多地区切换需求
 url: https://666.youtu6.shop
-aff_url: https://666.youtu6.shop/register?code=Vfs3Qqkm
+aff_url: https://666.youtu6.shop/register?code=***
 aff_commission: "待确认"
 protocols: ["待确认"]
 transfer: "中转"
