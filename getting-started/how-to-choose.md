@@ -145,4 +145,4 @@ permalink: /getting-started/how-to-choose/
 
 ---
 
-*⏱️ 最后自动检测：2026-04-25 19:46:08（6/7正常） | [查看完整机场评测列表](../airport-reviews/README.md)*
+*⏱️ 最后自动检测：2026-05-03 16:30（5/6正常，WGetCloud已移除） | [查看完整机场评测列表](../airport-reviews/README.md)*

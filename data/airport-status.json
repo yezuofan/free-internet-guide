@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-25 19:46:08",
+  "last_updated": "2026-05-03 16:30:00",
   "timezone": "Asia/Shanghai",
-  "total": 7,
-  "up": 6,
-  "down": 1,
-  "degraded": 0,
+  "total": 6,
+  "up": 5,
+  "down": 0,
+  "degraded": 1,
   "airports": [
     {
       "name": "自由猫 Freecat",
@@ -27,14 +27,14 @@
       "note": ""
     },
     {
-      "name": "WgetCloud",
+      "name": "WGetCloud",
       "url": "https://invite.wgetcloud.ltd",
-      "aff": "https://invite.wgetcloud.ltd/auth/register?code=djq10H",
-      "status": "down",
+      "aff": "https://invite.wgetcloud.ltd/auth/register?code=***",
+      "status": "removed",
       "status_code": null,
       "response_ms": null,
-      "last_checked": "2026-04-25T19:45:54.777814+08:00",
-      "note": "The read operation timed out"
+      "last_checked": "2026-05-03",
+      "note": "已移除——连续2周检测异常，疑似跑路或长期维护"
     },
     {
       "name": "悠兔",
@@ -50,11 +50,11 @@
       "name": "三十六行",
       "url": "https://qqq.nfsqttt.com",
       "aff": "https://qqq.nfsqttt.com/register?code=JjW59PTY",
-      "status": "up",
+      "status": "degraded",
       "status_code": 200,
-      "response_ms": 790,
-      "last_checked": "2026-04-25T19:46:00.694722+08:00",
-      "note": ""
+      "response_ms": 1397,
+      "last_checked": "2026-05-03T01:00:00+08:00",
+      "note": "307跳转后需过WAF/Cloudflare人机验证"
     },
     {
       "name": "太极",

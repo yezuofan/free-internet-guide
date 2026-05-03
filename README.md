@@ -24,7 +24,7 @@
 
 | 你的困惑 | 这份指南能给你 |
 |---------|--------------|
-| 不知道哪个机场靠谱，怕跑路 | 7个机场实测评测，含稳定性评分和跑路风险分析 |
+| 不知道哪个机场靠谱，怕跑路 | 6个机场实测评测，含稳定性评分和跑路风险分析 |
 | 买了机场晚上卡成PPT | 教你分辨 IEPL专线 vs 中转线路 的区别 |
 | 想看 Netflix/ChatGPT 但打不开 | 每个机场标注流媒体解锁能力 |
 | 不知道该充多少钱 | 新手从月付10元起，榨干每一分钱的方案 |
@@ -39,13 +39,12 @@
 | 机场 | 线路 | 稳定性 | 流媒体 | 价格 | 适合谁 |
 |------|------|--------|--------|------|-------|
 | [自由猫 Freecat ⭐](airport-reviews/README.md#1-自由猫-freecat--) | IEPL专线 | ⭐⭐⭐⭐⭐ | ✅全解锁 | ¥35+/月 | 生产力主力首选 |
-| [WgetCloud ⚠️](airport-reviews/README.md#2-wgetcloud) | CN2 GIA | ⭐⭐⭐⭐ | ✅主流 | ¥25+/月 | 游戏/低延迟 |
 | [贝贝云](airport-reviews/README.md#3-贝贝云) | 中转 | ⭐⭐ | ❌差 | ¥10/月 | 入门备用 |
 | [悠兔](airport-reviews/README.md#4-悠兔) | 中转+专线 | ⭐⭐⭐ | ⚠️一般 | ¥15+/月 | 多地区覆盖 |
+| [三十六行 ⚠️](airport-reviews/README.md#5-三十六行) | 中转 | ⭐⭐⭐ | ⚠️一般 | 待确认 | 老牌日常 ⚠️WAF验证 |
 
-*[查看全部7个机场评测 →](airport-reviews/README.md)* | *[按场景选机场 →](getting-started/how-to-choose.md)* | *[购买教程 →](getting-started/purchase-guide.md)*
+*[查看全部6个机场评测 →](airport-reviews/README.md)* | *[按场景选机场 →](getting-started/how-to-choose.md)* | *[购买教程 →](getting-started/purchase-guide.md)*
 
-> ⚠️ WgetCloud 当前检测异常（超时），建议注册后先测试再充值
 
 ### 🛠️ 自建梯子
 
@@ -119,4 +118,4 @@ IEPL专线是必须的
 
 ---
 
-> *Last updated: 2026-04-25*
+> *Last updated: 2026-05-03*
