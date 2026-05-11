@@ -7,5 +7,3 @@ Xboard框架专线机场，IEPL/IPLC专线，支持SS/V2ray/Trojan多协议。Gi
 >线路：IEPL/IPLC专线
 >协议：SS、V2ray、Trojan
 >流媒体：有GitHub测速记录
-
-**适合人群：** 技术用户 / 需要专线

@@ -1,12 +1,14 @@
 # 奈云
 
-2021年开业，IEPL专线，Shadowsocks/V2ray/Trojan多协议，流媒体全解锁。自有机房专柜，环球多地接入。性价比较高，¥168/年起能用到IEPL专线。
+2021年开业，IEPL专线，Shadowsocks/V2ray/Trojan多协议，流媒体全解锁。自有机房专柜，环球多地接入。¥168/年起的定价在IEPL专线里性价比较高。
+
+机场官网是很容易被污染的，打不开使用全局代理。
 
 [奈云官网地址1](http://6.vip.v2ny.me?path=register&code=tExjICnZ)
 [奈云官网地址2](https://www.v2ny.me/register?code=tExjICnZ)
 
 >开业时间：2021
->入口与过境线路：IEPL专线自有机房专柜
+>线路：IEPL专线，自有机房专柜
 >协议：Shadowsocks / V2ray / Trojan
 >流媒体：Netflix ✅ · Disney+ ✅ · ChatGPT ✅ · YouTube Premium ✅
 >支付方式：支付宝、微信、USDT
@@ -29,5 +31,3 @@
 | 专业包 | ¥598 | 2048G |
 
 >按量计费流量用完为止不限时间，多次购买不叠加。
-
-**适合人群：** 性价比优先 / 流媒体爱好者 / 多设备用户
