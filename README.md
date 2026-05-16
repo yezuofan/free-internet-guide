@@ -326,6 +326,7 @@ BGP中继 + MPTCP多线程，2000Mbps高速专线。高端定位。
 - [购买教程](./getting-started/purchase-guide.md)
 - [Claude国内怎么用](./getting-started/claude-access-guide.md)
 - [ChatGPT国内怎么用](./getting-started/chatgpt-access-guide.md)
+- [AI效率工作流：用AI写周报、做PPT、写代码](./getting-started/ai-workflow-guide.md)
 
 ---
 
