@@ -1,0 +1,35 @@
+name: Airport Status Check
+
+on:
+  schedule:
+    # 每周一早上9点（北京时间）自动运行
+    - cron: '0 1 * * 1'
+  workflow_dispatch:    # 也支持手动触发（GitHub页面点Run workflow）
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run airport check script
+        run: |
+          python .github/scripts/airport_check.py
+
+      - name: Commit updated status
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 更新 README 中的最后检测时间
+          python .github/scripts/update_readme_time.py
+
+          git add data/airport-status.json README.md getting-started/how-to-choose.md airport-reviews/README.md
+          git diff --quiet || git commit -m "📡 自动更新机场状态 $(date +'%Y-%m-%d')"
+          git push
