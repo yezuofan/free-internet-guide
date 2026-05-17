@@ -395,6 +395,7 @@ SS大流量，¥9.9/384G起。
 - [Claude国内怎么用](./getting-started/claude-access-guide.md)
 - [ChatGPT国内怎么用](./getting-started/chatgpt-access-guide.md)
 - [AI效率工作流：用AI写周报、做PPT、写代码](./getting-started/ai-workflow-guide.md)
+- [DeepSeek入门到精通：2026年最新使用指南](./getting-started/deepseek-guide.md)
 
 ---
 
