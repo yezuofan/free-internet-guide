@@ -1,0 +1,42 @@
+# ====== GitHub Pages SEO 配置 ======
+# 不修改任何现有文件，只增加SEO支持
+
+title: 精品机场推荐 2026 | 稳定翻墙机场排名
+tagline: 真实体验、长期实测的翻墙机场推荐指南。包含自由猫、WGetCloud等十几家机场的详细测评、价格对比和优惠码。
+description: 2026年最新翻墙机场推荐排行，实测自由猫、贝贝云、WGetCloud、瑶瑶领先等十几家机场的速度、稳定性和流媒体解锁能力。提供免费试用和优惠码。
+url: "https://yezuofan.github.io"
+baseurl: "/free-internet-guide"
+
+# SEO 关键词（重要）
+keywords: >
+  机场推荐, 翻墙机场, VPN推荐, 科学上网, 机场评测, 
+  自由猫, WGetCloud, 贝贝云, 瑶瑶领先, 龙猫云, 
+  便宜机场, 稳定机场, 翻墙工具, 2026机场排名
+
+author: 叶老大
+lang: zh-CN
+
+# 主题（用默认主题，不改样式）
+theme: jekyll-theme-minimal
+
+# 插件
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# 社交
+social:
+  name: 机场推荐指南
+  links:
+    - https://github.com/yezuofan/free-internet-guide
+
+# Google Analytics（不设追踪，纯SEO）
+google_analytics:
+
+# 默认文章设置
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      author: 叶老大

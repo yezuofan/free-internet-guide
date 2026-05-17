@@ -1,0 +1,85 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- SEO Meta -->
+  <title>{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <meta name="keywords" content="{{ site.keywords }}">
+  <meta name="author" content="{{ site.author }}">
+  <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}/">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:description" content="{{ site.tagline }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}/">
+  <meta property="og:locale" content="zh_CN">
+
+  <!-- Schema.org -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ site.title }}",
+    "description": "{{ site.description }}",
+    "author": {
+      "@type": "Person",
+      "name": "{{ site.author }}"
+    },
+    "dateModified": "{{ site.time | date_to_xmlschema }}"
+  }
+  </script>
+
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans SC', sans-serif;
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 20px;
+      line-height: 1.8;
+      color: #333;
+    }
+    h1, h2, h3 { color: #1a1a1a; }
+    h1 { border-bottom: 3px solid #0366d6; padding-bottom: 10px; }
+    h2 { border-bottom: 1px solid #e1e4e8; padding-bottom: 5px; margin-top: 30px; }
+    a { color: #0366d6; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    img { max-width: 100%; height: auto; }
+    table { border-collapse: collapse; width: 100%; margin: 15px 0; }
+    th, td { border: 1px solid #ddd; padding: 8px 12px; text-align: left; }
+    th { background: #f6f8fa; }
+    blockquote { 
+      border-left: 4px solid #0366d6; 
+      margin: 0; 
+      padding: 0 15px; 
+      color: #555; 
+      background: #f8f9fa;
+    }
+    code { background: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 0.9em; }
+    pre code { background: none; padding: 0; }
+    footer {
+      margin-top: 50px;
+      padding: 20px 0;
+      border-top: 1px solid #e1e4e8;
+      text-align: center;
+      color: #777;
+      font-size: 0.9em;
+    }
+    @media (max-width: 600px) {
+      body { padding: 10px; }
+    }
+  </style>
+</head>
+<body>
+  {{ content }}
+  <footer>
+    <p>© {{ site.time | date: "%Y" }} {{ site.author }} — 持续更新实测数据</p>
+  </footer>
+</body>
+</html>
