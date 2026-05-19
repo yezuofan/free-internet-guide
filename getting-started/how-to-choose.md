@@ -63,7 +63,7 @@
 
 ### 🛒 场景三：跨境电商 / 多账号环境
 
-**推荐：[自由猫 Freecat](https://freecat.cloud/register?code=USRIiAoO) 或 [WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=djq10H)**
+**推荐：[自由猫 Freecat](https://freecat.cloud/register?code=USRIiAoO) 或 [WgetCloud](https://wgetcloud.com/web/#/register?code=djq10H)**
 
 **这个场景的核心需求：**
 - IP 干净，不容易被平台风控

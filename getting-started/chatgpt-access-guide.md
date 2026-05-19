@@ -63,7 +63,7 @@ ChatGPT 由 OpenAI 开发，`chatgpt.com` 未对中国大陆开放。直连会�
 
 👉 [龙猫云官网](https://inv06.lmaff01.cc/register?aff=dqNRmvru)
 👉 [万达云官网](https://link.wdyserver.com/register?code=6z6PNS5r)
-👉 [WgetCloud官网](https://invite.wgetcloud.ltd/auth/register?code=djq10H)
+👉 [WgetCloud官网](https://wgetcloud.com/web/#/register?code=djq10H)
 👉 [瑶瑶领先官网](https://yyssr.org/auth/register?code=d326dda059)
 
 ---

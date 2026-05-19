@@ -321,7 +321,7 @@ BGP中继 + MPTCP多线程，2000Mbps高速专线。高端定位。
 
 精品专线29节点，500Mbps，流媒体+AI全解锁，SLA保障。
 
-[👉 访问官网](https://invite.wgetcloud.ltd/auth/register?code=djq10H)
+[👉 访问官网](https://wgetcloud.com/web/#/register?code=djq10H)
 
 | 套餐 | 价格 | 流量/月 |
 |:----|:-----|:--------|

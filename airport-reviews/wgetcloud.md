@@ -1,7 +1,7 @@
 ---
 title: WgetCloud
 description: WgetCloud 机场评测 — 精品专线29节点年付套餐，500Mbps带宽，流媒体+AI工具解锁
-url: https://invite.wgetcloud.ltd/auth/register?code=djq10H
+url: https://wgetcloud.com/web/#/register?code=djq10H
 tags: [机场, 精品, 专线, 流媒体, AI解锁]
 update_date: "2026-05-12"
 ---
@@ -34,4 +34,4 @@ AI工具重度用户、流媒体4K、商务办公、多设备
 **优点：** 精品线路稳定、AI+流媒全解锁、SLA保障
 **缺点：** 仅年付门槛较高、基础版节点少
 
-[👉 访问官网](https://invite.wgetcloud.ltd/auth/register?code=djq10H)
+[👉 访问官网](https://wgetcloud.com/web/#/register?code=djq10H)
