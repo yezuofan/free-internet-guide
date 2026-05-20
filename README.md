@@ -473,6 +473,7 @@ BGP三网专线传输，Netflix/Hulu/HBO/Disney+秒开4K，原生IP解锁ChatGPT
 - [购买教程](./getting-started/purchase-guide.md)
 - [Claude国内怎么用](./getting-started/claude-access-guide.md)
 - [ChatGPT国内怎么用](./getting-started/chatgpt-access-guide.md)
+- [机场到期了怎么办](./getting-started/airport-subscription-expired-guide.md)
 - [AI效率工作流：用AI写周报、做PPT、写代码](./getting-started/ai-workflow-guide.md)
 - [DeepSeek入门到精通：2026年最新使用指南](./getting-started/deepseek-guide.md)
 - [Cursor入门到精通：AI编程的正确姿势（2026教程）](./getting-started/cursor-guide.md)
