@@ -1,5 +1,7 @@
 name: Airport Status Check
 
+permissions: contents: write
+
 on:
   schedule:
     # 每周一早上9点（北京时间）自动运行
