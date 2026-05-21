@@ -18,8 +18,8 @@ AIRPORTS = [
     {"name": "贝贝云", "url": "https://888.2beibei.com", "aff": "https://888.2beibei.com/register?code=qwqDFEUW"},
     {"name": "WgetCloud", "url": "https://invite.wgetcloud.ltd", "aff": "https://invite.wgetcloud.ltd/auth/register?code=djq10H"},
     {"name": "悠兔", "url": "https://666.youtu6.shop", "aff": "https://666.youtu6.shop/register?code=Vfs3Qqkm"},
-    {"name": "三十六行", "url": "https://qqq.nfsqttt.com", "aff": "https://qqq.nfsqttt.com/register?code=***"},
-    {"name": "太极", "url": "https://xn--tfrza853d44tvst.xyz", "aff": "https://xn--tfrza853d44tvst.xyz/register?code=***"},
+    {"name": "三十六行", "url": "https://qqq.nfsqttt.com", "aff": "https://qqq.nfsqttt.com/register?code=Ilet9Gpi"},
+    {"name": "太极", "url": "https://xn--tfrza853d44tvst.xyz", "aff": "https://xn--tfrza853d44tvst.xyz/register?code=JjW59PTY"},
     {"name": "NXO Earth", "url": "https://nxonearth.com", "aff": "https://nxonearth.com/signupbyemail.aspx?MemberCode=0fc11e330b274bc6a8dfc2445e56fe0f20260421212953"},
 ]
 
