@@ -198,7 +198,7 @@
 |:----|:-----|:---------|
 | 自由猫 Freecat | 主力 | [👉 注册](https://freecat.cloud/register?code=USRIiAoO) |
 | WGetCloud | 主力 | [👉 注册](https://wgetcloud.com/web/#/register?code=djq10H) |
-| BestCloud | 主力 | [👉 注册](https://bestcloud.best/auth/register?code=***) |
+| BestCloud | 主力 | [👉 注册](https://bestcloud.best) |
 | NXO Earth | 技术 | [👉 注册](https://nxonearth.com/signupbyemail.aspx?MemberCode=JjW59PTY) |
 | 贝贝云 Beibei | 备用 | [👉 注册](https://888.2beibei.com/register?code=qwqDFEUW) |
 | 悠兔 YouTu | 备用 | [👉 注册](https://yoo.tuu.cc/register?code=Vfs3Qqkm) |
