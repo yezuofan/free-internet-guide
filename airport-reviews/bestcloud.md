@@ -18,7 +18,7 @@
 | 设备限制 | 3-10台（依套餐） |
 | 第三方导入 | 支持（Clash/Surge/Stash） |
 
-**官网地址：** [👉 访问官网](https://bestcloud.best/auth/register
+**官网地址：** [👉 访问官网](https://bestcloud.best/auth/register)
 
 ---
 
