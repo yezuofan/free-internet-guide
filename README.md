@@ -319,6 +319,8 @@ BGP中继 + MPTCP多线程，2000Mbps高速专线。高端定位。
 
 ## 十、WGetCloud（新收录）
 
+> ⚠️ **WGetCloud当前全域名不可访问（403/超时），已从推荐位移除，请等待恢复通知。**
+
 精品专线29节点，500Mbps，流媒体+AI全解锁，SLA保障。
 
 [👉 访问官网](https://wgetcloud.com/web/#/register?code=djq10H)
