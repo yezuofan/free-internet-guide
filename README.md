@@ -214,8 +214,8 @@
 
 2021年开业，BGP三线纯专线，不限设备，流媒体全解锁。只能用自家客户端，不支持Clash等第三方工具。
 
-[肥猫云官网地址1](https://inv03.fcweba.cc/register?aff=ie8QEuE1)
-[肥猫云官网地址2](https://feimao.cloud/register?aff=ie8QEuE1)
+[肥猫云官网](https://inv03.fcweba.cc/register?aff=ie8QEuE1)（主）
+[备用域名](https://feimao.cloud/register?aff=ie8QEuE1)（已停用）
 
 >线路：BGP三线优化+纯专线出口
 >协议：Trojan
