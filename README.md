@@ -534,6 +534,7 @@ SS协议+专线方案，7折优惠码 GNT70 限时有效，入门套餐低至18�
 ## 入门指南
 
 - [场景选购指南](./getting-started/how-to-choose.md)
+- [618后怎么选机场](./getting-started/airport-shopping-guide-2026.md)
 - [购买教程](./getting-started/purchase-guide.md)
 - [Claude国内怎么用](./getting-started/claude-access-guide.md)
 - [ChatGPT国内怎么用](./getting-started/chatgpt-access-guide.md)
