@@ -330,10 +330,13 @@ BGP中继 + MPTCP多线程，2000Mbps高速专线。高端定位。
 - [DeepSeek入门到精通：2026年最新使用指南](./getting-started/deepseek-guide.md)
 - [Cursor入门到精通：AI编程的正确姿势（2026教程）](./getting-started/cursor-guide.md)
 - [Suno AI音乐生成教程：2026年最新指南](./getting-started/suno-music-guide.md)
+- [AI Agent完全指南：2026年从入门到实战](./getting-started/ai-agent-guide-2026.md)
 
 ---
 
-## 十、WgetCloud（新收录）
+## 十、WGetCloud ⚠️（域名已失效，仅作存档）
+
+> **⚠️ 2026-05-29 更新：** WGetCloud 主域名 `wgetcloud.com` 返回 403，`invite.wgetcloud.ltd` 返回 522（超时），**服务可能已下线或域名已更换**。建议谨慎使用，或联系叶老大确认最新入口。
 
 精品专线29节点，500Mbps，流媒体+AI全解锁，SLA保障。
 
