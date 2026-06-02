@@ -543,6 +543,7 @@ SS协议+专线方案，7折优惠码 GNT70 限时有效，入门套餐低至18�
 - [Cursor入门到精通：AI编程的正确姿势（2026教程）](./getting-started/cursor-guide.md)
 - [Kimi AI助手入门：2026年最新教程](./getting-started/kimi-ai-guide.md)
 - [国内用AI的N种方式：2026年最新指南](./getting-started/domestic-ai-china-guide.md)
+- [AI搜索工具横评：Perplexity vs ChatGPT Search vs Gemini](./getting-started/ai-search-tools-comparison-2026.md)
 
 ---
 
