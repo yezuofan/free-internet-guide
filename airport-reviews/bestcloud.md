@@ -2,6 +2,10 @@
 
 > BestCloud 是一家主打 IEPL/IPLC 专线的高端机场，目标用户是对网络质量有极致要求的商务用户和跨境从业者。价格偏高，但稳定性和晚高峰表现确实优于普通中转机场。
 
+> **⚠️ 服务已下线：此机场于2026年5月停止服务，不推荐新用户注册。**
+> 如需IEPL专线机场，可考虑[悠兔](https://api.huanghaiwan.com/go/悠兔)或[Cyberguard](https://api.huanghaiwan.com/go/Cyberguard)。
+
+
 ---
 
 ## 基本信息
