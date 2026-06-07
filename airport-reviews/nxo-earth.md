@@ -1,6 +1,6 @@
-# NXO Earth（太极）
+# NXO Earth（太极/动力港）
 
-BGP中继 + MPTCP多线程，2000Mbps高速专线。高端定位，适合对速度和线路质量有要求的用户。
+Xboard框架专线机场，BGP中继 + MPTCP多线程，2000Mbps高速专线。支持SS/V2ray/Trojan多协议。高端定位，适合对速度和线路质量有要求的用户。
 
 > ⚠️ **AFF优惠码暂缺，暂无专属推广链接。可通过官网直链注册：https://nxonearth.com/signupbyemail.aspx?MemberCode=JjW59PTY)
 
