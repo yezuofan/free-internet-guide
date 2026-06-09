@@ -548,7 +548,8 @@ SS协议+专线方案，7折优惠码 GNT70 限时有效，入门套餐低至18�
 - [Kimi AI助手入门：2026年最新教程](./getting-started/kimi-ai-guide.md)
 - [国内用AI的N种方式：2026年最新指南](./getting-started/domestic-ai-china-guide.md)
 - [AI搜索工具横评：Perplexity vs ChatGPT Search vs Gemini](./getting-started/ai-search-tools-comparison-2026.md)
+- [AI写作工具横评：ChatGPT vs Claude vs Kimi vs DeepSeek vs Gemini](./getting-started/ai-writing-tools-comparison-2026.md)
 
 ---
 
-*内容最后更新：2026年05月*
+*内容最后更新：2026年06月*
