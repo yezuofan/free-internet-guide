@@ -331,6 +331,7 @@ BGP中继 + MPTCP多线程，2000Mbps高速专线。高端定位。
 - [Cursor入门到精通：AI编程的正确姿势（2026教程）](./getting-started/cursor-guide.md)
 - [Suno AI音乐生成教程：2026年最新指南](./getting-started/suno-music-guide.md)
 - [AI Agent完全指南：2026年从入门到实战](./getting-started/ai-agent-guide-2026.md)
+- [2026年机场横向对比：12家主流机场该怎么选？](./getting-started/airport-comparison-2026.md)
 
 ---
 
