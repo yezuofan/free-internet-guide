@@ -18,6 +18,7 @@
 6. 🏠 **[全屋科学上网方案对比 →](getting-started/home-network-setup-guide-2026.md)** 软路由/旁路由/刷机/客户端4种方案对比，暑假回家帮全家配网。
 7. 🎯 **[Claude Code 入门指南 →](getting-started/claude-code-guide-2026.md)** Anthropic 官方 AI 编程智能体，终端/VS Code/桌面三端完整使用教程
 8. 💰 **[2026学生党AI工具省钱攻略 →](getting-started/student-ai-budget-guide-2026.md)** 13款免费/低价AI工具推荐，¥0-50/月预算方案对比
+9. 🌏 **[暑假海外AI工具访问指南 →](getting-started/student-overseas-ai-access-2026.md)** 国内替代+网络环境+API中转三方案，学生月付¥9起
 
 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥9/月起，100+节点，流媒体全解锁
