@@ -21,6 +21,7 @@
 9. 🌏 **[暑假海外AI工具访问指南 →](getting-started/student-overseas-ai-access-2026.md)** 国内替代+网络环境+API中转三方案，学生月付¥9起
 10. 📝 **[AI会议纪要工具横评2026 →](getting-started/ai-meeting-notes-guide-2026.md)** 讯飞听见/通义听悟/飞书妙记/Fireflies/Otter/Notion AI六款深度对比
 11. ✈️ **[2026暑假出境游网络指南 →](getting-started/summer-travel-network-guide-2026.md)** eSIM/机场/国际漫游方案全对比，日本/泰国/欧美出行上网省钱攻略
+12. 🎨 **[Midjourney 生图教程 2026 →](getting-started/midjourney-guide.md)** 从注册/订阅到提示词编写/参数调优，AI生图新手必读入门到精通指南
 
 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥9/月起，100+节点，流媒体全解锁
