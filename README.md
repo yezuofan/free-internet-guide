@@ -23,8 +23,9 @@
 11. ✈️ **[2026暑假出境游网络指南 →](getting-started/summer-travel-network-guide-2026.md)** eSIM/机场/国际漫游方案全对比，日本/泰国/欧美出行上网省钱攻略
 12. 🎨 **[Midjourney 生图教程 2026 →](getting-started/midjourney-guide.md)** 从注册/订阅到提示词编写/参数调优，AI生图新手必读入门到精通指南
 13. 🤖 **[GPT-5.5 完全指南 2026 →](getting-started/gpt-5-5-guide-2026.md)** OpenAI 最新最强模型深度评测：性能对比、定价方案、8个实战Prompt模板
+14. 📱 **[科学上网客户端配置全攻略 →](getting-started/client-setup-guide-2026.md)** Clash Verge/Stash/Shadowrocket/v2rayN全平台下载安装配置教程
 
-太长不看版：
+| 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥9/月起，100+节点，流媒体全解锁
 2) 想稳定，买上面推荐的，最好20块/月起的
 3) 想要便宜的，10块/月左右：贝贝云(24.9/月100G)、悠兔(200一年200G)
