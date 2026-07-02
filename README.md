@@ -27,7 +27,7 @@
 | 15. 🔄 **[2026年中AI工具盘点 →](getting-started/ai-2026-h1-roundup.md)** 上半年最值得关注的8大AI方向：GPT-5.6、Claude Tag、AI Agent落地、算力瓶颈全解读
 | 16. 📖 **[2026机场避坑与选择攻略 →](getting-started/airport-selection-guide-2026.md)** 线路类型·协议·套餐计算·避坑指南，从新手到进阶一篇看懂
 | 17. 🏆 **[2026年7月机场推荐排名 →](getting-started/airport-ranking-july-2026.md)** 15家机场按需求场景横向对比：游戏/流媒体/TikTok/办公/性价比，附各场景最优推荐+组合方案
-|
+| 18. 🤖 **[Claude Sonnet 5 完全指南 →](getting-started/claude-sonnet-5-guide-2026.md)** Anthropic最新模型深度评测：性能对比/Agent能力/使用教程/定价全解析
 | 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥9/月起，100+节点，流媒体全解锁
 2) 想稳定，买上面推荐的，最好20块/月起的
