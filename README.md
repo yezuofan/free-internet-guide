@@ -29,7 +29,8 @@
 | 17. 🏆 **[2026年7月机场推荐排名 →](getting-started/airport-ranking-july-2026.md)** 15家机场按需求场景横向对比：游戏/流媒体/TikTok/办公/性价比，附各场景最优推荐+组合方案
 | 18. 🤖 **[Claude Sonnet 5 完全指南 →](getting-started/claude-sonnet-5-guide-2026.md)** Anthropic最新模型深度评测：性能对比/Agent能力/使用教程/定价全解析
 | 19. 🎨 **[Claude Fable 5 回归指南 →](getting-started/claude-fable-5-guide-2026.md)** Anthropic创意模型能力解析与使用教程：回归背景/创意写作/安全护栏/选购建议
-| 20. 🔒 **[机场账号安全与隐私保护指南 →](getting-started/airport-security-privacy-guide-2026.md)** 防封号/防诈骗/隐私保护：密码管理、支付安全、备灾策略全覆盖
+|| 20. 🔒 **[机场账号安全与隐私保护指南 →](getting-started/airport-security-privacy-guide-2026.md)** 防封号/防诈骗/隐私保护：密码管理、支付安全、备灾策略全覆盖
+|| 21. 🚀 **[$60亿收购后的AI编程格局 →](getting-started/ai-coding-landscape-after-cursor-acquisition-2026.md)** Cursor被SpaceX收购后，Claude Code vs GitHub Copilot vs Cursor三强争霸深度解读
 | 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥9/月起，100+节点，流媒体全解锁
 2) 想稳定，买上面推荐的，最好20块/月起的
