@@ -33,6 +33,7 @@
 21. 🚀 **[$60亿收购后的AI编程格局 →](getting-started/ai-coding-landscape-after-cursor-acquisition-2026.md)** Cursor被SpaceX收购后，Claude Code vs GitHub Copilot vs Cursor三强争霸深度解读
 | 22. 🐱 **[自由猫 FreeCat 2026年中更新评测 →](getting-started/freecat-mid-2026-review.md)** MPTCP多路复用+套餐全面升级（加量不加价），半年后还值得买吗？
 | 23. 📰 **[2026年7月AI圈大事记 →](getting-started/july-2026-ai-news-roundup.md)** 微软Copilot OS泄露、Anthropic 190亿超算、Midjourney反诉好莱坞，7月第一周AI圈6大热点速览
+24. 🌞 **[2026暑假科学上网完全指南 →](getting-started/summer-internet-guide-2026.md)** 学生党从零开始的7步实战：选机场→配客户端→多设备同步，¥9起搞定暑假上网。姊妹篇（暑假实战版）
 ||| 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥9/月起，100+节点，流媒体全解锁
 2) 想稳定，买上面推荐的，最好20块/月起的
