@@ -35,6 +35,7 @@
 | 23. 📰 **[2026年7月AI圈大事记 →](getting-started/july-2026-ai-news-roundup.md)** 微软Copilot OS泄露、Anthropic 190亿超算、Midjourney反诉好莱坞，7月第一周AI圈6大热点速览
 24. 🌞 **[2026暑假科学上网完全指南 →](getting-started/summer-internet-guide-2026.md)** 学生党从零开始的7步实战：选机场→配客户端→多设备同步，¥9起搞定暑假上网。姊妹篇（暑假实战版）
 | 25. 🤖 **[GPT-5.6 完全指南 2026 →](getting-started/gpt-5-6-guide-2026.md)** Sol/Terra/Luna三大模型能力解析+使用教程，OpenAI最新模型全解读
+| 26. 🐉 **[万达云 2026年中评测更新 →](airport-reviews/wandayun-mid-2026-review.md)** IEPL专线+MPTCP隧道技术加持，¥16.8/月入门价不变但引入设备限制，含竞品对比
 ||| 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥9/月起，100+节点，流媒体全解锁
 2) 想稳定，买上面推荐的，最好20块/月起的
