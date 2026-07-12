@@ -37,6 +37,7 @@
 | 25. 🤖 **[GPT-5.6 完全指南 2026 →](getting-started/gpt-5-6-guide-2026.md)** Sol/Terra/Luna三大模型能力解析+使用教程，OpenAI最新模型全解读
 | 26. 🐉 **[万达云 2026年中评测更新 →](airport-reviews/wandayun-mid-2026-review.md)** IEPL专线+MPTCP隧道技术加持，¥16.8/月入门价不变但引入设备限制，含竞品对比
 | 27. 🏢 **[ChatGPT Work 完全指南 2026 →](getting-started/chatgpt-work-guide-2026.md)** OpenAI全新AI工作台：ChatGPT + Codex合体办公，文档/表格/PPT一键生成，免费可用
+| 28. 🐱 **[龙猫云 2026年中更新评测 →](airport-reviews/longmaoyun-mid-2026-review.md)** 全IPLC专线无限速，¥15/月入门，不限设备数，含同价位竞品深度对比
 ||| 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥9/月起，100+节点，流媒体全解锁
 2) 想稳定，买上面推荐的，最好20块/月起的
