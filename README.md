@@ -576,6 +576,7 @@ SS协议+专线方案，7折优惠码 GNT70 限时有效，入门套餐低至18�
 - [AI搜索工具横评：Perplexity vs ChatGPT Search vs Gemini](./getting-started/ai-search-tools-comparison-2026.md)
 - [AI写作工具横评：ChatGPT vs Claude vs Kimi vs DeepSeek vs Gemini](./getting-started/ai-writing-tools-comparison-2026.md)
 - [2026暑假学生党机场推荐：6款高性价比网络工具横向对比](./getting-started/summer-student-airport-guide-2026.md)
+- [Meta Muse Image 完全指南 2026：免费AI图像生成 + Instagram集成](./getting-started/meta-muse-image-guide-2026.md)
 
 ---
 
