@@ -577,6 +577,7 @@ SS协议+专线方案，7折优惠码 GNT70 限时有效，入门套餐低至18�
 - [AI写作工具横评：ChatGPT vs Claude vs Kimi vs DeepSeek vs Gemini](./getting-started/ai-writing-tools-comparison-2026.md)
 - [2026暑假学生党机场推荐：6款高性价比网络工具横向对比](./getting-started/summer-student-airport-guide-2026.md)
 - [Meta Muse Image 完全指南 2026：免费AI图像生成 + Instagram集成](./getting-started/meta-muse-image-guide-2026.md)
+- [一枝红杏 2026年中评测更新：10年老牌IPLC专线，¥99/年还有竞争力吗？](./getting-started/yizhihongxing-mid-2026-review.md)
 
 ---
 
