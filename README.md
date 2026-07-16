@@ -39,6 +39,7 @@
 | 27. 🏢 **[ChatGPT Work 完全指南 2026 →](getting-started/chatgpt-work-guide-2026.md)** OpenAI全新AI工作台：ChatGPT + Codex合体办公，文档/表格/PPT一键生成，免费可用
 || 28. 🐱 **[龙猫云 2026年中更新评测 →](airport-reviews/longmaoyun-mid-2026-review.md)** 全IPLC专线无限速，¥15/月入门，不限设备数，含同价位竞品深度对比
 || 29. 🎵 **[Spotify AI Chatbot 完全指南 2026 →](getting-started/spotify-ai-chatbot-guide-2026.md)** Premium用户AI对话助手：语音/文字操控播放、了解歌曲背景、探索个人听歌历史
+| 30. 🛡️ **[新手避坑指南2026 →](getting-started/newbie-pitfalls-guide-2026.md)** 机场小白最容易踩的10个坑：不备份、只看价格、忽略线路…少交学费少走弯路
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥9/月起，100+节点，流媒体全解锁
 2) 想稳定，买上面推荐的，最好20块/月起的
