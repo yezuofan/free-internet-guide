@@ -39,8 +39,9 @@
 | 27. 🏢 **[ChatGPT Work 完全指南 2026 →](getting-started/chatgpt-work-guide-2026.md)** OpenAI全新AI工作台：ChatGPT + Codex合体办公，文档/表格/PPT一键生成，免费可用
 || 28. 🐱 **[龙猫云 2026年中更新评测 →](airport-reviews/longmaoyun-mid-2026-review.md)** 全IPLC专线无限速，¥15/月入门，不限设备数，含同价位竞品深度对比
 || 29. 🎵 **[Spotify AI Chatbot 完全指南 2026 →](getting-started/spotify-ai-chatbot-guide-2026.md)** Premium用户AI对话助手：语音/文字操控播放、了解歌曲背景、探索个人听歌历史
-| 30. 🛡️ **[新手避坑指南2026 →](getting-started/newbie-pitfalls-guide-2026.md)** 机场小白最容易踩的10个坑：不备份、只看价格、忽略线路…少交学费少走弯路
-|| 太长不看版：
+|| 30. 🛡️ **[新手避坑指南2026 →](getting-started/newbie-pitfalls-guide-2026.md)** 机场小白最容易踩的10个坑：不备份、只看价格、忽略线路…少交学费少走弯路
+|| 31. 🐱 **[肥猫云 2026年中评测更新 →](airport-reviews/feimao-mid-2026-review.md)** BGP三线纯专线+Trojan协议，¥96/年≈¥8/月专线性价比之王，只能自家客户端。同价位竞品深度对比
+||| 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥9/月起，100+节点，流媒体全解锁
 2) 想稳定，买上面推荐的，最好20块/月起的
 3) 想要便宜的，10块/月左右：贝贝云(24.9/月100G)、悠兔(200一年200G)
@@ -241,8 +242,9 @@
 
 2021年开业，BGP三线纯专线，不限设备，流媒体全解锁。只能用自家客户端，不支持Clash等第三方工具。
 
-[肥猫云官网](https://inv03.fcweba.cc/register?aff=ie8QEuE1)（主）
-[备用域名](https://feimao.cloud/register?aff=ie8QEuE1)（已停用）
+> 📖 **[2026年中评测更新 →](airport-reviews/feimao-mid-2026-review.md)** 完整竞品对比+场景推荐+FAQ
+
+[肥猫云官网](https://inv03.fcweba.cc/register?aff=ie8QEuE1)（主，原 feimao.cloud 已停用）
 
 >线路：BGP三线优化+纯专线出口
 >协议：Trojan
