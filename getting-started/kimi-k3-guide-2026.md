@@ -39,5 +39,5 @@
 ---
 
 > 📍 本文发布于 2026-07-18。开源权重预计 2026-07-27 放出。
-> 
-> 网络工具推荐 → 详见博客原文。
+>
+> **网络工具推荐：** [自由猫](https://api.huanghaiwan.com/go/自由猫)（¥9/月主力）· [光年梯](https://api.huanghaiwan.com/go/光年梯)（¥18/月入门）· [万达云](https://api.huanghaiwan.com/go/万达云)（¥16.8/月性价比）· [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO)（¥6.99/月备用）
