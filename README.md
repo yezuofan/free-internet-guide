@@ -41,8 +41,9 @@
 || 29. 🎵 **[Spotify AI Chatbot 完全指南 2026 →](getting-started/spotify-ai-chatbot-guide-2026.md)** Premium用户AI对话助手：语音/文字操控播放、了解歌曲背景、探索个人听歌历史
 || 30. 🛡️ **[新手避坑指南2026 →](getting-started/newbie-pitfalls-guide-2026.md)** 机场小白最容易踩的10个坑：不备份、只看价格、忽略线路…少交学费少走弯路
 || 31. 🐱 **[肥猫云 2026年中评测更新 →](airport-reviews/feimao-mid-2026-review.md)** BGP三线纯专线+Trojan协议，¥96/年≈¥8/月专线性价比之王，只能自家客户端。同价位竞品深度对比
-| 32. 🤖 **[Kimi K3 完全指南 2026 →](getting-started/kimi-k3-guide-2026.md)** 2.8万亿参数开源模型深度评测：Moonshot AI最新发布，Arena前端开发#1，AI指数#3，7/27前开源
-||| 太长不看版：
+|| 32. 🤖 **[Kimi K3 完全指南 2026 →](getting-started/kimi-k3-guide-2026.md)** 2.8万亿参数开源模型深度评测：Moonshot AI最新发布，Arena前端开发#1，AI指数#3，7/27前开源
+||| 33. ☁️ **[酷酷云 2026年中评测更新 →](airport-reviews/kukuyun-mid-2026-review.md)** BGP三网专线+Trojan不限设备，¥20/月60天深度回顾：Hulu原生解锁还稳吗？含5家同价位竞品对比
+|||| 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥9/月起，100+节点，流媒体全解锁
 2) 想稳定，买上面推荐的，最好20块/月起的
 3) 想要便宜的，10块/月左右：贝贝云(24.9/月100G)、悠兔(200一年200G)
