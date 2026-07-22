@@ -44,7 +44,8 @@
 || 32. 🤖 **[Kimi K3 完全指南 2026 →](getting-started/kimi-k3-guide-2026.md)** 2.8万亿参数开源模型深度评测：Moonshot AI最新发布，Arena前端开发#1，AI指数#3，7/27前开源
 | 33. ☁️ **[酷酷云 2026年中评测更新 →](airport-reviews/kukuyun-mid-2026-review.md)** BGP三网专线+Trojan不限设备，¥20/月60天深度回顾：Hulu原生解锁还稳吗？含5家同价位竞品对比
 || 34. 🖥️ **[macOS 27 Siri AI 写作工具完全指南 →](getting-started/macos-27-siri-ai-writing-guide-2026.md)** 解锁 Golden Gate 隐藏AI弹窗：选中文本→改写/校对/摘要/ChatGPT级AI写作，一条Terminal命令启用
-| 太长不看版：
+|| 35. 🛡️ **[Cyberguard 2026年中评测更新 →](getting-started/cyberguard-mid-2026-review.md)** IEPL/IPLC多入口专线升级，¥18/月100GB起步，¥1试用3GB。含5家同定位竞品对比
+|| 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥9/月起，100+节点，流媒体全解锁
 2) 想稳定，买上面推荐的，最好20块/月起的
 3) 想要便宜的，10块/月左右：贝贝云(24.9/月100G)、悠兔(200一年200G)
