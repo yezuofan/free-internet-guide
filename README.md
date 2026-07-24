@@ -46,6 +46,7 @@
 || 34. 🖥️ **[macOS 27 Siri AI 写作工具完全指南 →](getting-started/macos-27-siri-ai-writing-guide-2026.md)** 解锁 Golden Gate 隐藏AI弹窗：选中文本→改写/校对/摘要/ChatGPT级AI写作，一条Terminal命令启用
 || 35. 🛡️ **[Cyberguard 2026年中评测更新 →](getting-started/cyberguard-mid-2026-review.md)** IEPL/IPLC多入口专线升级，¥18/月100GB起步，¥1试用3GB。含5家同定位竞品对比
 || 36. 🤖 **[Google Gemini 2026年7月大更新指南 →](getting-started/gemini-july-2026-update-guide.md)** 3.6 Flash新模型 + Task Automation正式上线，月活9.5亿生态全景解读
+|| 37. 🐰 **[悠兔 2026年中评测更新 →](airport-reviews/youtu-mid-2026-review.md)** IEPL专线老牌稳定，¥200/年200G起步，2026年7月复查：服务在线、域名多重备份、定价不变
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥9/月起，100+节点，流媒体全解锁
 2) 想稳定，买上面推荐的，最好20块/月起的
