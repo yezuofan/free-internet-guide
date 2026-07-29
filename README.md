@@ -49,8 +49,9 @@
 || 37. 🐰 **[悠兔 2026年中评测更新 →](airport-reviews/youtu-mid-2026-review.md)** IEPL专线老牌稳定，¥200/年200G起步，2026年7月复查：服务在线、域名多重备份、定价不变
 || 38. 🎙️ **[ChatGPT GPT-Live 语音模式指南 2026 →](getting-started/chatgpt-gpt-live-voice-guide-2026.md)** 全双工对话+桌面语音操控：查日历、写邮件、准备会议，Free用户也能用
 || 39. 📺 **[电视盒子+游戏机国际网络加速配置指南 2026 →](getting-started/tv-console-network-guide-2026.md)** Apple TV/Android TV/PS5/Xbox/Switch/智能电视配置方法全攻略
-||| 40. 🌙 **[瑶瑶领先 2026年中评测更新 →](airport-reviews/yaoyaolingxian-mid-2026-review.md)** 动态分段计费SS大流量平台：¥9.9/384G入门，白天0.6倍率夜间0.3倍率，4档月付最高3TB。同价位竞品对比
-||| 41. 📰 **[2026年7月底AI圈大事记 →](getting-started/end-july-2026-ai-roundup.md)** Kimi K3如期开源、英伟达500亿投SSI、全硅谷开源论战、微软Project Perception，一周4大事件速览
+|| 40. 🌙 **[瑶瑶领先 2026年中评测更新 →](airport-reviews/yaoyaolingxian-mid-2026-review.md)** 动态分段计费SS大流量平台：¥9.9/384G入门，白天0.6倍率夜间0.3倍率，4档月付最高3TB。同价位竞品对比
+|| 41. 📰 **[2026年7月底AI圈大事记 →](getting-started/end-july-2026-ai-roundup.md)** Kimi K3如期开源、英伟达500亿投SSI、全硅谷开源论战、微软Project Perception，一周4大事件速览
+|| 42. 🌐 **[2026留学生国际网络加速方案横评 →](getting-started/overseas-student-network-guide-2026.md)** 回国访问+海外加速一站式推荐：7大场景深度横评8家服务商，自由猫MPTCP回国实测、肥猫云游戏延迟、SKYLUMO超低价入门，附省钱组合策略
 
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥9/月起，100+节点，流媒体全解锁
