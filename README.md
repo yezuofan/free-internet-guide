@@ -54,6 +54,7 @@
 || 42. 🌐 **[2026留学生国际网络加速方案横评 →](getting-started/overseas-student-network-guide-2026.md)** 回国访问+海外加速一站式推荐：7大场景深度横评8家服务商，自由猫MPTCP回国实测、肥猫云游戏延迟、SKYLUMO超低价入门，附省钱组合策略
 || 43. 🤖 **[Microsoft Copilot超级应用2026指南 →](getting-started/microsoft-copilot-super-app-guide-2026.md)** Chat对话+GitHub编程+Cowork协作+Autopilot智能体四合一，已确认2026年上线，跟ChatGPT Work全面对比
 || 44. ⚙️ **[Clash规则配置完全指南 →](getting-started/clash-rule-config-guide-2026.md)** 从DOMAIN-SUFFIX/GEOIP规则语法到url-test/fallback策略组实战，手把手搭建完整分流规则体系，看完不用再抄别人配置
+|| 45. 📶 **[跨境网络服务测速验收指南 2026 →](getting-started/network-speed-test-guide-2026.md)** 晚高峰下载速度、延迟、丢包率、流媒体解锁四大指标怎么测？附Speedtest/fast.com/Cloudflare工具清单与合格标准，15分钟判断线路值不值得续费
 
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥9/月起，100+节点，流媒体全解锁
