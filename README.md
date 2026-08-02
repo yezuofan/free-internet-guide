@@ -55,6 +55,7 @@
 || 43. 🤖 **[Microsoft Copilot超级应用2026指南 →](getting-started/microsoft-copilot-super-app-guide-2026.md)** Chat对话+GitHub编程+Cowork协作+Autopilot智能体四合一，已确认2026年上线，跟ChatGPT Work全面对比
 || 44. ⚙️ **[Clash规则配置完全指南 →](getting-started/clash-rule-config-guide-2026.md)** 从DOMAIN-SUFFIX/GEOIP规则语法到url-test/fallback策略组实战，手把手搭建完整分流规则体系，看完不用再抄别人配置
 || 45. 📶 **[跨境网络服务测速验收指南 2026 →](getting-started/network-speed-test-guide-2026.md)** 晚高峰下载速度、延迟、丢包率、流媒体解锁四大指标怎么测？附Speedtest/fast.com/Cloudflare工具清单与合格标准，15分钟判断线路值不值得续费
+|| 46. 🐦 **[FlyingBird 2026年中评测更新 →](airport-reviews/flyingbird-mid-2026-review.md)** 全IPLC专线+70+节点：套餐新增季付/半年付/年付、黄金500GB/30天规则统一、官网迁移flyingbird.club，月付¥15起不限设备数
 
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥9/月起，100+节点，流媒体全解锁
