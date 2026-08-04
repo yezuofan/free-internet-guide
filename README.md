@@ -57,6 +57,7 @@
 || 45. 📶 **[跨境网络服务测速验收指南 2026 →](getting-started/network-speed-test-guide-2026.md)** 晚高峰下载速度、延迟、丢包率、流媒体解锁四大指标怎么测？附Speedtest/fast.com/Cloudflare工具清单与合格标准，15分钟判断线路值不值得续费
 || 46. 🐦 **[FlyingBird 2026年中评测更新 →](airport-reviews/flyingbird-mid-2026-review.md)** 全IPLC专线+70+节点：套餐新增季付/半年付/年付、黄金500GB/30天规则统一、官网迁移flyingbird.club，月付¥15起不限设备数
 || 47. 🤖 **[DeepSeek V4-Flash 正式版指南 2026 →](getting-started/deepseek-v4-flash-guide-2026.md)** 284B MoE只重做后训练，9项Agent基准全面反超V4-Pro预览版：API接入（OpenAI/Anthropic/Codex三格式）、官方定价与峰谷计费预告、旧接口10月24日迁移提醒
+|| 48. 🛰️ **[MESL 2026年中评测更新 →](airport-reviews/mesl-mid-2026-review.md)** Premium IEPL专线+云厂商内网架构：登录入口升级getmesl.com地址选择器、新增$3.6美元入门档与3Gbps/5Gbps峰值带宽、5台设备限制明确，附竞品对比与双方案建议
 
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥9/月起，100+节点，流媒体全解锁
