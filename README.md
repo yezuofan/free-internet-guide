@@ -59,6 +59,7 @@
 || 47. 🤖 **[DeepSeek V4-Flash 正式版指南 2026 →](getting-started/deepseek-v4-flash-guide-2026.md)** 284B MoE只重做后训练，9项Agent基准全面反超V4-Pro预览版：API接入（OpenAI/Anthropic/Codex三格式）、官方定价与峰谷计费预告、旧接口10月24日迁移提醒
 || 48. 🛰️ **[MESL 2026年中评测更新 →](airport-reviews/mesl-mid-2026-review.md)** Premium IEPL专线+云厂商内网架构：登录入口升级getmesl.com地址选择器、新增$3.6美元入门档与3Gbps/5Gbps峰值带宽、5台设备限制明确，附竞品对比与双方案建议
 || 49. 🤖 **[Meta Muse Code 上手指南 2026 →](getting-started/meta-muse-code-guide-2026.md)** Meta首款AI编程智能体：基于Muse Spark 1.2协同训练，按量$1.25/$4.25每百万token，贡献者档输出仅$0.20比Claude Code/Codex便宜10倍+，单命令安装+零数据保留，附CLI接入教程
+|| 50. 🛰️ **[NXO Earth（太极）2026年中评测更新 →](airport-reviews/nxo-earth-mid-2026-review.md)** 全面切换Anytls协议（停用SS/Trojan）、套餐重构为基础+附加+商务三轨：Smart Access月付¥123.33/年付折合¥96.46、Premium ¥170.1、Group扩5设备，MPTCP+BGP专线+路由器流媒体解锁，附购买建议
 
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥9/月起，100+节点，流媒体全解锁
