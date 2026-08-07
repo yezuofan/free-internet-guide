@@ -60,6 +60,7 @@
 || 48. 🛰️ **[MESL 2026年中评测更新 →](airport-reviews/mesl-mid-2026-review.md)** Premium IEPL专线+云厂商内网架构：登录入口升级getmesl.com地址选择器、新增$3.6美元入门档与3Gbps/5Gbps峰值带宽、5台设备限制明确，附竞品对比与双方案建议
 || 49. 🤖 **[Meta Muse Code 上手指南 2026 →](getting-started/meta-muse-code-guide-2026.md)** Meta首款AI编程智能体：基于Muse Spark 1.2协同训练，按量$1.25/$4.25每百万token，贡献者档输出仅$0.20比Claude Code/Codex便宜10倍+，单命令安装+零数据保留，附CLI接入教程
 || 50. 🛰️ **[NXO Earth（太极）2026年中评测更新 →](airport-reviews/nxo-earth-mid-2026-review.md)** 全面切换Anytls协议（停用SS/Trojan）、套餐重构为基础+附加+商务三轨：Smart Access月付¥123.33/年付折合¥96.46、Premium ¥170.1、Group扩5设备，MPTCP+BGP专线+路由器流媒体解锁，附购买建议
+|| 51. 🎨 **[Qwen-Image-3.0 上手评测 2026 →](getting-started/qwen-image-3-guide-2026.md)** 阿里8/5发布的国产文生图新王：文生图0.18元/张起、4.5k token超长提示词、10px小字精准渲染、12国语言+20多款字体，Arena.ai榜单国内第一，附Pro/Standard双版本接入教程
 
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥9/月起，100+节点，流媒体全解锁
