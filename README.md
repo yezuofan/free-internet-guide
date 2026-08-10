@@ -63,6 +63,7 @@
 || 51. 🎨 **[Qwen-Image-3.0 上手评测 2026 →](getting-started/qwen-image-3-guide-2026.md)** 阿里8/5发布的国产文生图新王：文生图0.18元/张起、4.5k token超长提示词、10px小字精准渲染、12国语言+20多款字体，Arena.ai榜单国内第一，附Pro/Standard双版本接入教程
 || 52. 🌐 **[2026跨境电商出海网络加速横评 →](getting-started/cross-border-ecommerce-network-guide-2026.md)** TikTok Shop/亚马逊/Shopify独立站运营场景横评：住宅IP（万达云）、80+国家覆盖（SKYLUMO）、不限设备团队方案（自由猫）、IEPL稳定（SS-ID），含按业务规模选购指南与避坑建议
 || 53. 🎨 **[Grok Imagine Image 2.0 上手教程 2026 →](getting-started/grok-imagine-image-2-guide-2026.md)** xAI 8/7发布的图像生成+编辑双修模型：Arena文生图/图像编辑双榜全球第二（仅次于GPT Image 2），魔棒局部编辑、背景移除、5张多参考图、9种比例智能改尺寸、15种电商设计模板，附价格与上手路径
+|| 54. 🎮 **[2026 游戏玩家跨境网络横评 →](getting-started/gamer-network-comparison-2026.md)** Steam/PS5/Xbox/Switch 外服联机延迟高、丢包掉线怎么办：从节点延迟、晚高峰稳定性、UDP兼容、设备数、性价比五维度实测7家服务（含九游网8/5实测数据），按游戏类型+预算给选购建议
 
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥9/月起，100+节点，流媒体全解锁
