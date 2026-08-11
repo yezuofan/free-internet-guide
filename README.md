@@ -64,6 +64,7 @@
 || 52. 🌐 **[2026跨境电商出海网络加速横评 →](getting-started/cross-border-ecommerce-network-guide-2026.md)** TikTok Shop/亚马逊/Shopify独立站运营场景横评：住宅IP（万达云）、80+国家覆盖（SKYLUMO）、不限设备团队方案（自由猫）、IEPL稳定（SS-ID），含按业务规模选购指南与避坑建议
 || 53. 🎨 **[Grok Imagine Image 2.0 上手教程 2026 →](getting-started/grok-imagine-image-2-guide-2026.md)** xAI 8/7发布的图像生成+编辑双修模型：Arena文生图/图像编辑双榜全球第二（仅次于GPT Image 2），魔棒局部编辑、背景移除、5张多参考图、9种比例智能改尺寸、15种电商设计模板，附价格与上手路径
 || 54. 🎮 **[2026 游戏玩家跨境网络横评 →](getting-started/gamer-network-comparison-2026.md)** Steam/PS5/Xbox/Switch 外服联机延迟高、丢包掉线怎么办：从节点延迟、晚高峰稳定性、UDP兼容、设备数、性价比五维度实测7家服务（含九游网8/5实测数据），按游戏类型+预算给选购建议
+|| 55. 🤖 **[Qwen3.8 Max 上手教程 2026 →](getting-started/qwen3-8-max-guide-2026.md)** 阿里8/3发布的2.4万亿参数开源旗舰：稀疏MoE+百万token上下文，自主编程16天跑完430 commits交付oh-my-cli，Max级首次开源权重，PaperBench 93.0分，API输入¥12/输出¥36每百万tokens，附Qwen Studio/Qoder CLI/API三种接入方式
 
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥9/月起，100+节点，流媒体全解锁
