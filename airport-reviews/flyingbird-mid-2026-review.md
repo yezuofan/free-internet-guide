@@ -1,4 +1,4 @@
-# FlyingBird（飞鸟）2026年中评测更新：IPLC专线 + 70+节点，月付¥15起
+# FlyingBird（飞鸟）2026年中评测更新：IPLC专线 + 70+节点，月付¥19.9起
 
 > 本文是 2026-05-31 原始评测的深度更新版。FlyingBird 的核心定位依然是 **「全IPLC专线的平价款」**——不限设备数、全平台适配。
 
@@ -66,7 +66,7 @@
 
 | 服务商 | 线路 | 月费起点 | 适合人群 |
 |:----|:----|:--------|:---------|
-| [自由猫](https://api.huanghaiwan.com/go/自由猫) | IEPL+MPTCP | ¥9/50GB | 重度流媒体/主力 |
+| [自由猫](https://api.huanghaiwan.com/go/自由猫) | IEPL+MPTCP | ¥8/30GB | 重度流媒体/主力 |
 | [悠兔](https://api.huanghaiwan.com/go/悠兔) | IEPL专线 | ¥79/季起 | 稳定备用 |
 | [贝贝云](https://api.huanghaiwan.com/go/贝贝云) | 中转 | ¥24.9/100GB | 预算有限/学生 |
 | [红杏云](https://api.huanghaiwan.com/go/红杏云) | BGP三线 | ¥20/200GB不限时 | 用量不稳定/家庭共享 |

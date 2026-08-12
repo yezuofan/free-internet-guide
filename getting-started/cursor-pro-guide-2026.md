@@ -348,9 +348,9 @@ Cursor依赖Claude、GPT-5等海外AI模型，国内直连延迟高。以下是�
 
 | 机场 | 特点 | 香港节点延迟 | 月费 |
 |:----|:----|:----------:|:----:|
-| [自由猫](https://api.huanghaiwan.com/go/自由猫) | MPTCP多路复用，延迟极低 | 25-35ms | ¥9起 |
+| [自由猫](https://api.huanghaiwan.com/go/自由猫) | MPTCP多路复用，延迟极低 | 25-35ms | ¥8起 |
 | [万达云](https://api.huanghaiwan.com/go/万达云) | IEPL专线，稳定连接 | 30-40ms | ¥16.8起 |
-| [龙猫云](https://api.huanghaiwan.com/go/龙猫云) | 全专线，适合开发场景 | 25-45ms | ¥15起 |
+| [龙猫云](https://api.huanghaiwan.com/go/龙猫云) | 全专线，适合开发场景 | 25-45ms | ¥19.9起 |
 
 > Cursor的Tab补全和Composer请求是连续性的，网络不稳定会导致补全响应变慢。**一个稳定低延迟的网络环境是Cursor体验的基础。**
 

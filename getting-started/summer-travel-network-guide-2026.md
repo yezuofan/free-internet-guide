@@ -10,7 +10,7 @@
 
 | 场景 | 🏆 推荐方案 | 参考费用 | 优点 |
 |:----|:-----------|:--------|:-----|
-| 🧳 **短期旅行（3-7天）** | [自由猫](https://api.huanghaiwan.com/go/自由猫) + 当地免费WiFi | ¥9~15 | 国内已配置好，出国即用 |
+| 🧳 **短期旅行（3-7天）** | [自由猫](https://api.huanghaiwan.com/go/自由猫) + 当地免费WiFi | ¥8~19.9 | 国内已配置好，出国即用 |
 | 🎒 **中长途（1-3周）** | 当地eSIM + [悠兔](https://api.huanghaiwan.com/go/悠兔) 备用 | 约¥30~80 | eSIM量大，机场备用防断 |
 | 🌍 **多国游（3个以上国家）** | [万达云](https://api.huanghaiwan.com/go/万达云) + eSIM | 约¥50~100 | 机场全球节点覆盖 |
 | 💼 **商务出差** | 国际漫游 + [一枝红杏](https://api.huanghaiwan.com/go/一枝红杏) 保障 | ¥100~300 | 保号+稳定线路 |
@@ -50,7 +50,7 @@
 
 | 出行天数 | 推荐组合 | 总费用 |
 |:--------|:---------|:------|
-| 3-5天 | [自由猫入门](https://api.huanghaiwan.com/go/自由猫) ¥9/50GB | ¥9 |
+| 3-5天 | [自由猫入门](https://api.huanghaiwan.com/go/自由猫) ¥8/30GB | ¥8 |
 | 7-10天 | [万达云入门](https://api.huanghaiwan.com/go/万达云) ¥16.8/100GB | ¥16.8 |
 | 2周以上 | [悠兔年付](https://api.huanghaiwan.com/go/悠兔) ¥199/200GB/年 | 折算¥16.5/月 |
 
@@ -144,7 +144,7 @@ A：酒店WiFi差是全球性问题。解决方案：
 - 华为/三星手机有"WiFi+移动数据双通道加速"功能
 
 **Q：去日本应该买哪种方案？**
-A：日本是eSIM最划算的目的地之一。推荐组合：**Airalo日本7天5GB（¥38）+ [自由猫¥9/月](https://api.huanghaiwan.com/go/自由猫) 做备用**，总计¥47覆盖全程，比开通¥25/天漫游便宜5倍。
+A：日本是eSIM最划算的目的地之一。推荐组合：**Airalo日本7天5GB（¥38）+ [自由猫¥8/月](https://api.huanghaiwan.com/go/自由猫) 做备用**，总计¥47覆盖全程，比开通¥25/天漫游便宜5倍。
 
 **Q：多国游（如日韩泰一起走）怎么选？**
 A：eSIM选多国通用的（如Holafly亚洲版¥68/10天），机场选[万达云](https://api.huanghaiwan.com/go/万达云)或[自由猫](https://api.huanghaiwan.com/go/自由猫)这种多节点覆盖的，到哪个国家就切哪个节点。
@@ -158,7 +158,7 @@ A：[SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) ¥6.99/月起，80+国家�
 
 | 出行场景 | 推荐方案 | 预计花费 | 一句话 |
 |:--------|:---------|:--------|:-------|
-| 短期旅行（3天） | [自由猫¥9](https://api.huanghaiwan.com/go/自由猫) 足矣 | ¥9 | 国内配好，出国即用 |
+| 短期旅行（3天） | [自由猫¥8](https://api.huanghaiwan.com/go/自由猫) 足矣 | ¥8 | 国内配好，出国即用 |
 | 1周旅行 | eSIM主网 + [悠兔](https://api.huanghaiwan.com/go/悠兔)备用 | ¥30~80 | 主备搭配，信号不慌 |
 | 多国游 | 多国eSIM + [万达云](https://api.huanghaiwan.com/go/万达云) | ¥50~100 | 机场换节点，一个账号通吃 |
 | 穷游/学生 | [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) ¥6.99 | ¥6.99 | 最低预算无痛上网 |

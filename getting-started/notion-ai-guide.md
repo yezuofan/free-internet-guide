@@ -605,7 +605,7 @@ Notion AI 的核心价值：**让 AI 成为你笔记工作流的一部分，而�
 
 | 机场 | 推荐度 | 月费 | 特点 |
 |:----|:-----:|:----:|:-----|
-| [自由猫](https://freecat.cloud/register?code=USRIiAoO) | ⭐⭐⭐⭐⭐ | ¥9起 | 流媒体全解锁、100+节点 |
+| [自由猫](https://freecat.cloud/register?code=USRIiAoO) | ⭐⭐⭐⭐⭐ | ¥8起 | 流媒体全解锁、100+节点 |
 | [悠兔](https://666.youtu6.shop/register?code=Vfs3Qqkm) | ⭐⭐⭐⭐ | ¥25起 | 专线稳定、老板靠谱 |
 | [贝贝云](https://888.2beibei.com/register?code=qwqDFEUW) | ⭐⭐⭐ | ¥25起 | 便宜备用 |
 

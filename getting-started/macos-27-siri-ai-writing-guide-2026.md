@@ -61,7 +61,7 @@ sudo mkdir -p /Library/Preferences/FeatureFlags/Domain && sudo defaults write /L
 如需访问 ChatGPT/Claude 等工具配合使用，推荐以下网络方案：
 
 - [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) — 轻量入门 ¥6.99/月
-- [自由猫](https://api.huanghaiwan.com/go/自由猫) — 主力办公 ¥9/月起
+- [自由猫](https://api.huanghaiwan.com/go/自由猫) — 主力办公 ¥8/月起
 - [万达云](https://api.huanghaiwan.com/go/万达云) — 多设备 ¥16.8/月
 - [瑶瑶领先](https://api.huanghaiwan.com/go/瑶瑶领先) — 备用 ¥9.9/月
 - [SS-ID](https://api.huanghaiwan.com/go/SS-ID) — 全场景 ¥20/月

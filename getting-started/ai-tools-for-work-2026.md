@@ -180,7 +180,7 @@ A：先确定你最花时间的1-2个场景，只学对应工具。比同时学�
 
 | 机场 | 线路 | 月费 | 适合 |
 |:-----|:-----|:-----|:-----|
-| [自由猫 Freecat](https://api.huanghaiwan.com/go/自由猫) | IEPL+MPTCP | ¥9/50GB起 | 重度AI用户/主力 |
+| [自由猫 Freecat](https://api.huanghaiwan.com/go/自由猫) | IEPL+MPTCP | ¥8/30GB起 | 重度AI用户/主力 |
 | [悠兔](https://api.huanghaiwan.com/go/悠兔) | IEPL专线 | ¥79/季起 | 稳定备用 |
 | [贝贝云](https://api.huanghaiwan.com/go/贝贝云) | 中转 | ¥24.9/100GB起 | 轻度用户/学生党 |
 

@@ -281,9 +281,9 @@ Claude Code 需要稳定的海外网络访问才能连接 Anthropic 的 API。�
 
 | 方案类型 | 推荐服务 | 月费 | 特点 |
 |:--------|:--------|:---:|:----|
-| 🚀 高速专线 | [自由猫](https://api.huanghaiwan.com/go/自由猫) | ¥9/月起 | 100+节点，MPTCP多路复用，适合稳定性要求高的工作 |
+| 🚀 高速专线 | [自由猫](https://api.huanghaiwan.com/go/自由猫) | ¥8/月起 | 100+节点，MPTCP多路复用，适合稳定性要求高的工作 |
 | 💰 性价比 | [万达云](https://api.huanghaiwan.com/go/万达云) | ¥16.8/月起 | IEPL线路+住宅IP，适合预算有限的开发者 |
-| 🔒 稳定中转 | [悠兔](https://api.huanghaiwan.com/go/悠兔) | ¥15/月起 | 专线直连，延迟低 |
+| 🔒 稳定中转 | [悠兔](https://api.huanghaiwan.com/go/悠兔) | ¥19.9/月起 | 专线直连，延迟低 |
 | 🎯 入门体验 | [瑶瑶领先](https://api.huanghaiwan.com/go/瑶瑶领先) | ¥10/月起 | 低月付，适合先体验 |
 
 > 💡 **推荐组合：** 主力用自由猫（稳定+节点多），备用用万达云（性价比高），日常使用完全够用。

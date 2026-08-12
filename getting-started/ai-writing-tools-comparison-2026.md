@@ -353,7 +353,7 @@ Gemini 是 Google 的产品，最大优势是**与谷歌生态无缝集成**。�
 
 | 机场 | 推荐理由 | 月费 | 专属链接 |
 |:----|:--------|:----|:--------|
-| 🏆 **自由猫** | 100+节点，流媒体全解锁，TikTok支持 | ¥9起 | [👉 访问官网](https://api.huanghaiwan.com/go/自由猫) |
+| 🏆 **自由猫** | 100+节点，流媒体全解锁，TikTok支持 | ¥8起 | [👉 访问官网](https://api.huanghaiwan.com/go/自由猫) |
 | 💰 **万达云** | IEPL+住宅IP双线路，性价比高 | ¥16.8起 | [👉 访问官网](https://api.huanghaiwan.com/go/万达云) |
 | 🎯 **贝贝云** | 主流中转线路，晚高峰稳 | ¥24.9/100G | [👉 访问官网](https://api.huanghaiwan.com/go/贝贝云) |
 | 🔒 **悠兔** | IEPL专线，低调稳定，适合备用 | ¥199/年200G | [👉 访问官网](https://api.huanghaiwan.com/go/悠兔) |

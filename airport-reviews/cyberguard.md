@@ -52,11 +52,11 @@ Cyberguard 最大的技术亮点是 **IEPL 专线**。IEPL（International Ether
 | 机场 | 价格/月 | 流量 | 技术 | 推荐度 |
 |:----|:--------|:-----|:-----|:------|
 | **Cyberguard** | ¥32 | 350G | IEPL专线 | ⭐⭐⭐⭐ |
-| 自由猫 | ¥25 | 300G | IEPL+MPTCP | ⭐⭐⭐⭐⭐ |
+| 自由猫 | ¥19.9 | 200GB | IEPL+MPTCP | ⭐⭐⭐⭐⭐ |
 | 悠兔 | ¥15 | 200G | 中转 | ⭐⭐⭐⭐ |
 | 贝贝云 | ¥24.9 | 100G | 中转 | ⭐⭐⭐ |
 
-> 如果追求极致稳定和更广节点覆盖，推荐[自由猫 Freecat](https://api.huanghaiwan.com/go/自由猫)（¥25/300G，MPTCP技术）。Cyberguard 适合作为主力或备用方案，特别是对 IEPL 专线有偏好的用户。
+> 如果追求极致稳定和更广节点覆盖，推荐[自由猫 Freecat](https://api.huanghaiwan.com/go/自由猫)（¥32.8/400GB，MPTCP技术）。Cyberguard 适合作为主力或备用方案，特别是对 IEPL 专线有偏好的用户。
 
 ## 总结
 

@@ -66,7 +66,7 @@ response = client.chat.completions.create(model="moonshot-v1-128k", messages=[{"
 
 | 机场 | 月费 | 流量 | 特点 |
 |:----|:----:|:----:|:-----|
-| [自由猫](https://api.huanghaiwan.com/go/自由猫) | ¥25+ | 100GB+ | IEPL专线，100+节点 |
+| [自由猫](https://api.huanghaiwan.com/go/自由猫) | ¥19.9+ | 200GB+ | IEPL专线，100+节点 |
 | [悠兔](https://api.huanghaiwan.com/go/悠兔) | ¥15+ | 100GB+ | 性价比之选 |
 
 *本文包含推广链接。*

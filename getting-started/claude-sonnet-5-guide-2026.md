@@ -71,8 +71,8 @@ response = client.messages.create(
 
 | 需求 | 推荐 | 月费 | 特点 |
 |:----|:----|:----|:------|
-| 主力推荐 | [自由猫 →](https://api.huanghaiwan.com/go/自由猫) | ¥9/月起 | IEPL专线，MPTCP多路复用 |
-| 高强度 | [万达云 →](https://api.huanghaiwan.com/go/万达云) | ¥15/月起 | IEPL+中转双线 |
+| 主力推荐 | [自由猫 →](https://api.huanghaiwan.com/go/自由猫) | ¥8/月起 | IEPL专线，MPTCP多路复用 |
+| 高强度 | [万达云 →](https://api.huanghaiwan.com/go/万达云) | ¥19.9/月起 | IEPL+中转双线 |
 | 入门 | [龙猫云 →](https://api.huanghaiwan.com/go/龙猫云) | ¥10/月起 | 性价比之选 |
 | 备用 | [一枝红杏 →](https://api.huanghaiwan.com/go/一枝红杏) | ¥9.9/月起 | 10年老牌 |
 

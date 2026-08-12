@@ -79,7 +79,7 @@
 
 | 服务商 | 线路 | 月费起点 | 适合人群 |
 |:----|:----|:--------|:---------|
-| [自由猫](https://api.huanghaiwan.com/go/自由猫) | IEPL+MPTCP多路复用 | ¥9起 | 性价比/主力 |
+| [自由猫](https://api.huanghaiwan.com/go/自由猫) | IEPL+MPTCP多路复用 | ¥8起 | 性价比/主力 |
 | [万达云](https://api.huanghaiwan.com/go/万达云) | IEPL+中转 | 低价 | 入门试水 |
 | [Cyberguard](https://api.huanghaiwan.com/go/Cyberguard) | IEPL专线 | 中端 | 零日志/带宽分级 |
 

@@ -26,7 +26,7 @@
 
 | 服务 | 月费区间 | 线路类型 | 区域覆盖 | 住宅IP | 设备限制 | 跨境亮点 |
 |:----|:--------|:---------|:--------|:------:|:--------|:---------|
-| 🥇 [自由猫](https://api.huanghaiwan.com/go/自由猫) | ¥9-45 | IEPL+MPTCP | 100+线路 | ❌ | 不限 | 多设备、晚高峰稳 |
+| 🥇 [自由猫](https://api.huanghaiwan.com/go/自由猫) | ¥8-59.9 | IEPL+MPTCP | 100+线路 | ❌ | 不限 | 多设备、晚高峰稳 |
 | 🥈 [万达云](https://api.huanghaiwan.com/go/万达云) | ¥16.8-93 | IEPL+住宅IP | 70+线路 | ✅ | 5台起 | TikTok原生环境 |
 | 🥉 [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) | ¥6.99-40 | BGP+专线 | 80+国家 | ❌ | 不限 | 全球覆盖最广 |
 | 4 [SS-ID](https://api.huanghaiwan.com/go/SS-ID) | ¥20起 | IEPL专线 | 60+线路 | ❌ | 5台 | 全天稳定性价比 |
@@ -62,8 +62,8 @@ Anytls 专线 + 2000Mbps 顶配，月付 ¥123 起步，基础档限 2 台设备
 | 业务阶段 | 推荐组合 | 月成本 | 理由 |
 |:--------|:--------|:------:|:-----|
 | 🌱 **个人起步**（月销<$1万） | [MESL](https://api.huanghaiwan.com/go/MESL) 或 [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) 入门档 | ¥7-26 | 低成本试错 |
-| 🚀 **成长卖家**（月销$1-5万） | [万达云](https://api.huanghaiwan.com/go/万达云) 标准版 + [自由猫](https://api.huanghaiwan.com/go/自由猫) 备用 | ¥25-55 | 住宅IP保TikTok环境，双线备份 |
-| 🏢 **小团队**（3-10人） | [自由猫](https://api.huanghaiwan.com/go/自由猫) ¥45不限设备 + [SS-ID](https://api.huanghaiwan.com/go/SS-ID) 个人备用 | ¥65-85 | 全员共用，人均成本最低 |
+| 🚀 **成长卖家**（月销$1-5万） | [万达云](https://api.huanghaiwan.com/go/万达云) 标准版 + [自由猫](https://api.huanghaiwan.com/go/自由猫) 备用 | ¥36.8-55 | 住宅IP保TikTok环境，双线备份 |
+| 🏢 **小团队**（3-10人） | [自由猫](https://api.huanghaiwan.com/go/自由猫) ¥59.9不限设备 + [SS-ID](https://api.huanghaiwan.com/go/SS-ID) 个人备用 | ¥80-100 | 全员共用，人均成本最低 |
 | 🌏 **多站点铺货** | [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) 不限时包 + [万达云](https://api.huanghaiwan.com/go/万达云) | ¥99买断+¥17 | 全球线路全覆盖 |
 | 🏛️ **中型企业** | [悠兔](https://api.huanghaiwan.com/go/悠兔) 专业版 或 [MESL](https://api.huanghaiwan.com/go/MESL) 团队档 | ¥50-600 | 企业级稳定+SLA |
 

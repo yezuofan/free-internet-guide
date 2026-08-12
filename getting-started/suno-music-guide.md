@@ -74,7 +74,7 @@ Suno 官网对部分地区有限制，国内用户需要借助网络工具访问
 
 **⚠️ 重要提示：** 选择稳定的高速线路至关重要，Suno 音乐生成需要持续的网络连接，中途断线会导致生成失败。
 
-👉 [自由猫 Freecat](https://freecat.cloud/register?code=USRIiAoO) — 100+ 节点覆盖，TikTok/ChatGPT/Suno 等平台全适配，晚高峰依然稳定。¥9/月起。
+👉 [自由猫 Freecat](https://freecat.cloud/register?code=USRIiAoO) — 100+ 节点覆盖，TikTok/ChatGPT/Suno 等平台全适配，晚高峰依然稳定。¥8/月起。
 
 ---
 
@@ -401,7 +401,7 @@ Suno 音乐生成需要：
 
 | 机场 | 特点 | 价格起点 | 推荐度 |
 |:----|:-----|:--------|:------:|
-| [自由猫 Freecat](https://freecat.cloud/register?code=USRIiAoO) | 100+节点，MPTCP多路复用，晚高峰稳 | ¥9/月 | ⭐⭐⭐⭐⭐ |
+| [自由猫 Freecat](https://freecat.cloud/register?code=USRIiAoO) | 100+节点，MPTCP多路复用，晚高峰稳 | ¥8/月 | ⭐⭐⭐⭐⭐ |
 | [悠兔 YouTu](https://youtu.lol/register?code=Vfs3Qqkm) | IEPL专线，多隧道入口 | ¥24.9/月 | ⭐⭐⭐⭐ |
 | [贝贝云 Beibei](https://777.2beibei.com/#/register?code=qwqDFEUW) | 多隧道中转，性价比 | ¥24.9/月 | ⭐⭐⭐⭐ |
 | [红杏云 Hongxingyun](https://hongxingyun.club/web/#/register?code=OBEi3O69) | 不限时流量包，用完为止 | ¥20/月 | ⭐⭐⭐⭐ |

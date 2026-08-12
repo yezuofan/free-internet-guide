@@ -107,7 +107,7 @@ GitHub Copilot背靠微软，在**企业市场有绝对优势**。
 
 | 机场 | 线路类型 | 月费起点 | 适合场景 |
 |:----|:---------|:--------|:---------|
-| [自由猫 Freecat](https://api.huanghaiwan.com/go/自由猫) | IEPL+MPTCP | ¥9/50GB | 开发者工具访问 |
+| [自由猫 Freecat](https://api.huanghaiwan.com/go/自由猫) | IEPL+MPTCP | ¥8/30GB | 开发者工具访问 |
 | [悠兔 YouTu](https://api.huanghaiwan.com/go/悠兔) | IEPL专线 | ¥79/季起 | 稳定备用 |
 | [贝贝云](https://api.huanghaiwan.com/go/贝贝云) | 中转 | ¥24.9/100GB | 预算优先 |
 

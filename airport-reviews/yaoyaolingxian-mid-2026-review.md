@@ -1,4 +1,4 @@
-# 瑶瑶领先 2026年中评测：动态计费+大流量SS，¥9.9起用384G
+# 瑶瑶领先 2026年中评测：动态计费+大流量SS，¥8起用384G
 
 > 本文是对 [瑶瑶领先原始评测](https://huanghaiwan.com/posts/yaoyaolingxian-review/) 的2026年中更新版本。
 > 完整版请访问：[https://huanghaiwan.com/posts/yaoyaolingxian-mid-2026-review/](https://huanghaiwan.com/posts/yaoyaolingxian-mid-2026-review/)

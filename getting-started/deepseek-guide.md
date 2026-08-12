@@ -136,8 +136,8 @@ curl https://api.deepseek.com/chat/completions \
 
 | 机场 | 特点 | 月费 |
 |:----|:----|:----|
-| [👉 自由猫 Freecat](https://freecat.dev/#/register?code=USRIiAoO) | 叶老大自用主力，100+节点 | ¥9起 |
-| [👉 红杏云](https://hongxingyun.club/web/#/register?code=OBEi3O69) | 不限时流量包，低延迟 | ¥15起 |
+| [👉 自由猫 Freecat](https://freecat.dev/#/register?code=USRIiAoO) | 叶老大自用主力，100+节点 | ¥8起 |
+| [👉 红杏云](https://hongxingyun.club/web/#/register?code=OBEi3O69) | 不限时流量包，低延迟 | ¥19.9起 |
 | [👉 WgetCloud](https://inv.easyfastcloud.com/#/register?code=djq10H) | IEPL专线，不掉速 | ¥20起 |
 
 **Q：R1 为什么慢？** 它会在回答前做 30 秒-2 分钟的深度推理。慢但准——简单问题别用 R1。

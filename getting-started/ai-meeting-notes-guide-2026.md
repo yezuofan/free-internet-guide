@@ -267,7 +267,7 @@ AI转录工具**不应当作正式法律证据**。虽然准确率已很高（95
 
 | 需求 | 推荐 | 月费 |
 |:----|:-----|:----|
-| 日常访问Fireflies/Otter/Notion | [自由猫](https://api.huanghaiwan.com/go/自由猫) IEPL专线 | ¥9起 |
+| 日常访问Fireflies/Otter/Notion | [自由猫](https://api.huanghaiwan.com/go/自由猫) IEPL专线 | ¥8起 |
 | 跨境团队会议稳定连接 | [万达云](https://api.huanghaiwan.com/go/万达云) 住宅IP方案 | ¥16.8起 |
 
 详见我们的[海外AI工具访问指南](student-overseas-ai-access-2026.md)。

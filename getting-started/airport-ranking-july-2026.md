@@ -31,7 +31,7 @@
 
 | 排名 | 机场 | 月费区间 | 线路类型 | 节点数 | 流媒体 | 设备限制 | 适合人群 |
 |:---:|:----|:--------|:---------|:-----:|:------|:--------|:---------|
-| 🥇 | [自由猫](https://api.huanghaiwan.com/go/自由猫) | ¥9-45 | MPTCP多路复用 | 100+ | Netflix/ChatGPT/Disney+/TikTok全解 | 不限 | 主力首选、多设备 |
+| 🥇 | [自由猫](https://api.huanghaiwan.com/go/自由猫) | ¥8-59.9 | MPTCP多路复用 | 100+ | Netflix/ChatGPT/Disney+/TikTok全解 | 不限 | 主力首选、多设备 |
 | 🥈 | [万达云](https://api.huanghaiwan.com/go/万达云) | ¥17-93 | IEPL+住宅IP | 70+ | TikTok/Netflix原生解锁 | 未标注 | TikTok运营、跨境 |
 | 🥉 | [SS-ID](https://api.huanghaiwan.com/go/SS-ID) | ¥20起 | IEPL专线 | 60+ | 流媒体全解 | 5设备 | 稳定主力、性价比 |
 | 4 | [悠兔](https://api.huanghaiwan.com/go/悠兔) | ¥39-119 | IEPL+隧道中转 | 35+ | Netflix/Disney+/ChatGPT | 软性5设备 | 企业级稳定 |
@@ -122,12 +122,12 @@
 | 机场 | 最低月付 | 日均成本 | 线路 | 适合 |
 |:----|:--------|:--------|:----|:----|
 | [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) | ¥6.99 | ¥0.23 | 中转 | 极致低价 |
-| [自由猫](https://api.huanghaiwan.com/go/自由猫) | ¥9 | ¥0.30 | MPTCP | 低预算+好体验 |
+| [自由猫](https://api.huanghaiwan.com/go/自由猫) | ¥8 | ¥0.27 | MPTCP | 低预算+好体验 |
 | [龙猫云](https://api.huanghaiwan.com/go/龙猫云) | ¥10 | ¥0.33 | 专线 | 入门优选 |
 | [瑶瑶领先](https://api.huanghaiwan.com/go/瑶瑶领先) | ¥10 | ¥0.33 | 中转 | 入门尝鲜 |
 | [FlyingBird](https://api.huanghaiwan.com/go/FlyingBird) | ¥12 | ¥0.40 | 中转 | 轻量用户 |
 
-**性价比之王：[自由猫](https://api.huanghaiwan.com/go/自由猫)** — ¥9/月起步就能享受MPTCP技术，不限设备，这性价比几乎没有对手。¥9档虽节点少，但质量在线。
+**性价比之王：[自由猫](https://api.huanghaiwan.com/go/自由猫)** — ¥8/月起步就能享受MPTCP技术，不限设备，这性价比几乎没有对手。¥8档虽节点少，但质量在线。
 
 **极致省钱：[SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO)** — ¥6.99/月，80+节点，日均不到三毛钱。适合只需要偶尔用的轻量用户。
 
@@ -140,7 +140,7 @@
 ### 🥇 [自由猫 Freecat](https://api.huanghaiwan.com/go/自由猫)
 | 维度 | 评价 |
 |:----|:-----|
-| ✅ 优点 | MPTCP技术领先；不限设备数；100+节点覆盖广；¥9起性价比极高；流媒体全解锁 |
+| ✅ 优点 | MPTCP技术领先；不限设备数；100+节点覆盖广；¥8起性价比极高；流媒体全解锁 |
 | ❌ 缺点 | 高峰期部分节点偶有波动；无住宅IP（TikTok运营不够用） |
 | 🎯 适合 | 多设备用户、游戏玩家、追求性价比的主力用户 |
 
@@ -175,7 +175,7 @@
 ### [MESL](https://api.huanghaiwan.com/go/MESL)
 | 维度 | 评价 |
 |:----|:-----|
-| ✅ 优点 | IEPL+中转双线路；¥15起入门友好；50+节点覆盖好 |
+| ✅ 优点 | IEPL+中转双线路；¥19.9起入门友好；50+节点覆盖好 |
 | ❌ 缺点 | 流媒体解锁不如头部；高峰期有波动 |
 | 🎯 适合 | 日常办公、上网浏览 |
 
@@ -215,14 +215,14 @@ IEPL专线的机场：[自由猫](https://api.huanghaiwan.com/go/自由猫)、[�
 ### Q4：月预算¥20以内，推荐哪家？
 
 ¥20以内有多家可选，按需求排序：
-1. [自由猫 ¥9起](https://api.huanghaiwan.com/go/自由猫) — MPTCP技术，不限设备，体验最好
+1. [自由猫 ¥8起](https://api.huanghaiwan.com/go/自由猫) — MPTCP技术，不限设备，体验最好
 2. [龙猫云 ¥10起](https://api.huanghaiwan.com/go/龙猫云) — 专线起步，性价比高
 3. [瑶瑶领先 ¥10起](https://api.huanghaiwan.com/go/瑶瑶领先) — 中转线路，入门可用
 4. [SKYLUMO ¥6.99起](https://api.huanghaiwan.com/go/SKYLUMO) — 极致低价
 
 ### Q5：我主要用ChatGPT、Claude这些AI工具，需要什么机场？
 
-AI工具对网络的要求主要是**延迟低+稳定性好**。ChatGPT、Claude等对带宽要求不高，但频繁断连很影响体验。推荐 [SS-ID](https://api.huanghaiwan.com/go/SS-ID)（IEPL专线¥20起，性价比高）或 [自由猫](https://api.huanghaiwan.com/go/自由猫)（¥9起不限设备）。
+AI工具对网络的要求主要是**延迟低+稳定性好**。ChatGPT、Claude等对带宽要求不高，但频繁断连很影响体验。推荐 [SS-ID](https://api.huanghaiwan.com/go/SS-ID)（IEPL专线¥20起，性价比高）或 [自由猫](https://api.huanghaiwan.com/go/自由猫)（¥8起不限设备）。
 
 ### Q6：不同设备（手机/电脑/电视/路由器）怎么选？
 
@@ -234,7 +234,7 @@ AI工具对网络的要求主要是**延迟低+稳定性好**。ChatGPT、Claude
 ### Q7：机场之间可以混用吗？
 
 可以，而且推荐混用！很多有经验的用户会用 **主力+备用** 的组合方案：
-- 🅰️ **主力**：[自由猫](https://api.huanghaiwan.com/go/自由猫) ¥9 — 日常浏览、游戏、多设备
+- 🅰️ **主力**：[自由猫](https://api.huanghaiwan.com/go/自由猫) ¥8 — 日常浏览、游戏、多设备
 - 🅱️ **备用**：[万达云](https://api.huanghaiwan.com/go/万达云) ¥17 — 流媒体、TikTok运营
 - 合计月费仅 ¥26，覆盖所有场景，互备降风险
 
@@ -255,7 +255,7 @@ AI工具对网络的要求主要是**延迟低+稳定性好**。ChatGPT、Claude
 
 | 场景 | 推荐 | 月费 |
 |:----|:----|:---:|
-| 综合最佳 | [自由猫](https://api.huanghaiwan.com/go/自由猫) | ¥9起 |
+| 综合最佳 | [自由猫](https://api.huanghaiwan.com/go/自由猫) | ¥8起 |
 
 自由猫的MPTCP不限设备+流媒体全解+低延迟，一个机场覆盖几乎所有场景。唯一的短板是没有住宅IP，但这对大多数用户来说不是刚需。
 
@@ -263,17 +263,17 @@ AI工具对网络的要求主要是**延迟低+稳定性好**。ChatGPT、Claude
 
 | 场景 | 推荐组合 | 月费合计 |
 |:----|:--------|:-------:|
-| 游戏+浏览+多设备+流媒体 | [自由猫](https://api.huanghaiwan.com/go/自由猫) ¥9 + [万达云](https://api.huanghaiwan.com/go/万达云) ¥17 | **¥26/月** |
-| 办公+AI工具+备用 | [SS-ID](https://api.huanghaiwan.com/go/SS-ID) ¥20 + [自由猫](https://api.huanghaiwan.com/go/自由猫) ¥9 | **¥29/月** |
+| 游戏+浏览+多设备+流媒体 | [自由猫](https://api.huanghaiwan.com/go/自由猫) ¥8 + [万达云](https://api.huanghaiwan.com/go/万达云) ¥17 | **¥25/月** |
+| 办公+AI工具+备用 | [SS-ID](https://api.huanghaiwan.com/go/SS-ID) ¥20 + [自由猫](https://api.huanghaiwan.com/go/自由猫) ¥8 | **¥28/月** |
 | TikTok运营+日常 | [万达云](https://api.huanghaiwan.com/go/万达云) ¥17 + [龙猫云](https://api.huanghaiwan.com/go/龙猫云) ¥10 | **¥27/月** |
 
 ### 🎯 按预算推荐
 
 | 预算 | 推荐 |
 |:---|:----|
-| **¥10/月以下** | [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) ¥6.99 或 [自由猫](https://api.huanghaiwan.com/go/自由猫) ¥9 |
-| **¥10-20/月** | [自由猫](https://api.huanghaiwan.com/go/自由猫) ¥9 或 [龙猫云](https://api.huanghaiwan.com/go/龙猫云) ¥10 |
-| **¥20-30/月** | [自由猫](https://api.huanghaiwan.com/go/自由猫) ¥9 + [万达云](https://api.huanghaiwan.com/go/万达云) ¥17 组合 |
+| **¥10/月以下** | [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) ¥6.99 或 [自由猫](https://api.huanghaiwan.com/go/自由猫) ¥8 |
+| **¥10-20/月** | [自由猫](https://api.huanghaiwan.com/go/自由猫) ¥8 或 [龙猫云](https://api.huanghaiwan.com/go/龙猫云) ¥10 |
+| **¥20-30/月** | [自由猫](https://api.huanghaiwan.com/go/自由猫) ¥8 + [万达云](https://api.huanghaiwan.com/go/万达云) ¥17 组合 |
 | **¥30-50/月** | [SS-ID](https://api.huanghaiwan.com/go/SS-ID) + [自由猫](https://api.huanghaiwan.com/go/自由猫) 或 [Cyberguard](https://api.huanghaiwan.com/go/Cyberguard) |
 | **¥50+/月** | [悠兔](https://api.huanghaiwan.com/go/悠兔) 或 [自由猫](https://api.huanghaiwan.com/go/自由猫) 高级方案 |
 

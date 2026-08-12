@@ -8,7 +8,7 @@ update_date: "2026-06-08"
 
 # 龙猫云 机场评测 | 全IPLC专线无限速，入门仅¥15/月
 
-> 全IPLC专线无限速，只要¥15/月起。原生IP解锁Netflix、ChatGPT、TikTok。深度评测优缺点，看看适不适合你。
+> 全IPLC专线无限速，只要¥19.9/月起。原生IP解锁Netflix、ChatGPT、TikTok。深度评测优缺点，看看适不适合你。
 
 [👉 访问官网](https://api.huanghaiwan.com/go/龙猫云)
 
@@ -86,11 +86,11 @@ IPLC（International Private Leased Circuit）是真正意义上的国际专线�
 | 机场 | 价格/月 | 流量 | 技术 | 推荐度 |
 |:----|:--------|:-----|:-----|:------|
 | **龙猫云** | ¥15 | 100G | 全IPLC | ⭐⭐⭐⭐ |
-| 自由猫 | ¥25 | 300G | IEPL+MPTCP | ⭐⭐⭐⭐⭐ |
+| 自由猫 | ¥19.9 | 200GB | IEPL+MPTCP | ⭐⭐⭐⭐⭐ |
 | 万达云 | ¥16.8 | 100G | IEPL+住宅IP | ⭐⭐⭐⭐ |
 | 贝贝云 | ¥24.9 | 100G | 中转 | ⭐⭐⭐ |
 
-> 如果追求更广节点覆盖和成熟运营，推荐[自由猫 Freecat](https://api.huanghaiwan.com/go/自由猫)（¥25/300G，MPTCP技术）。龙猫云适合IPLC专线需求的入门用户。
+> 如果追求更广节点覆盖和成熟运营，推荐[自由猫 Freecat](https://api.huanghaiwan.com/go/自由猫)（¥32.8/400GB，MPTCP技术）。龙猫云适合IPLC专线需求的入门用户。
 
 ## 总结评分
 

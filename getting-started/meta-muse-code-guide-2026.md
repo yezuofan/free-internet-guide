@@ -57,7 +57,7 @@ Muse Code、Claude Code、Codex 都是海外服务，注册和调用需要稳定
 
 | 使用场景 | 推荐方案 | 月费 | 特点 |
 |:--------|:--------|:---:|:-----|
-| 🥇 主力推荐 | [自由猫](https://api.huanghaiwan.com/go/自由猫) | ¥9-45 | IEPL 专线，100+ 节点，晚高峰稳定 |
+| 🥇 主力推荐 | [自由猫](https://api.huanghaiwan.com/go/自由猫) | ¥8-59.9 | IEPL 专线，100+ 节点，晚高峰稳定 |
 | 💼 API 高频调用 | [万达云](https://api.huanghaiwan.com/go/万达云) | ¥10-28 | IEPL+中转+专线三线路，适合跑 agent 批量任务 |
 | 🎬 流媒体 + 解锁 | [SS-ID](https://api.huanghaiwan.com/go/SS-ID) | ¥20起 | IEPL 专线，5 设备，解锁 ChatGPT + 4K 视频 |
 | 📱 全场景备用 | [闪狐云](https://api.huanghaiwan.com/go/闪狐云) | ¥10-39 | 中转+专线双线路，适合做备用组合 |

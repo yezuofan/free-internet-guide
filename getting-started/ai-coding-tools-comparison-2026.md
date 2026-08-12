@@ -141,7 +141,7 @@ A: 目前不会。这些工具能把写代码的效率提升3-5倍，但不能�
 
 | 需求 | 推荐 | 理由 |
 |:----|:-----|:-----|
-| 🏆 综合最佳 | [自由猫 Freecat](https://api.huanghaiwan.com/go/自由猫) | 100+节点，MPTCP技术，¥9起，不限设备 |
+| 🏆 综合最佳 | [自由猫 Freecat](https://api.huanghaiwan.com/go/自由猫) | 100+节点，MPTCP技术，¥8起，不限设备 |
 | 💰 性价比 | [万达云](https://api.huanghaiwan.com/go/万达云) | IEPL专线+住宅IP，¥16.8/月 |
 | 🔒 稳定主力 | [悠兔](https://api.huanghaiwan.com/go/悠兔) | IEPL专线，运营稳定 |
 | 🎬 AI工作流 | [Cyberguard](https://api.huanghaiwan.com/go/Cyberguard) | IEPL+BGP，60+节点 |

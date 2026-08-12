@@ -49,7 +49,7 @@
 - DeepSeek是绝对主力，把80%的日常任务交给它
 - 需要联网搜索时先用免费Perplexity，不够用再考虑升级
 - 批量写作/翻译可以用DeepSeek的API（¥1-2/百万token，几乎等于免费）
-- 需要稳定访问国际AI工具？推荐[自由猫](https://api.huanghaiwan.com/go/自由猫)，¥9/月起就有稳定网络环境
+- 需要稳定访问国际AI工具？推荐[自由猫](https://api.huanghaiwan.com/go/自由猫)，¥8/月起就有稳定网络环境
 
 | 免费工具 | 月费 | 主要限制 |
 |:--------|:----|:---------|
@@ -91,7 +91,7 @@
 | 工具 | 月费 | 省钱的讲究 |
 |:----|:----|:----------|
 | ChatGPT Plus(拼车) | ~¥30 | 找3-4人共享，比单独开$20/月省一半多 |
-| 稳定网络 | ~¥20 | 可选[自由猫](https://api.huanghaiwan.com/go/自由猫)¥9/月起或[万达云](https://api.huanghaiwan.com/go/万达云)¥16.8/月 |
+| 稳定网络 | ~¥20 | 可选[自由猫](https://api.huanghaiwan.com/go/自由猫)¥8/月起或[万达云](https://api.huanghaiwan.com/go/万达云)¥16.8/月 |
 | **总计** | **~¥50/月** | **最适合入门的选择** |
 
 ---
@@ -131,7 +131,7 @@
 |:----|:----|:----------|
 | ChatGPT Plus | ~¥140 | 或用年度付费优惠（$200/年 = ¥16/月） |
 | Claude Pro | ~¥140 | Pro用户每日送5倍免费对话量 |
-| 稳定网络 | ~¥20 | 推荐[自由猫](https://api.huanghaiwan.com/go/自由猫)或[龙猫云](https://api.huanghaiwan.com/go/龙猫云)，¥9-25/月 |
+| 稳定网络 | ~¥20 | 推荐[自由猫](https://api.huanghaiwan.com/go/自由猫)或[龙猫云](https://api.huanghaiwan.com/go/龙猫云)，¥8-32.8/月 |
 | **总计** | **~¥100/月** | **日常重度使用黄金配比** |
 
 **节省技巧：** 淘宝/闲鱼上ChatGPT Plus共享号¥50-60/月，Claude Pro共享号¥40-50/月。两个加起来¥100出头，是性价比最高的AI投资之一。
@@ -173,7 +173,7 @@
 | Cursor Pro | ~¥140 | 年度付费$192/年（$16/月） |
 | Midjourney(选装) | ~¥70-210 | Basic($10)个人够用，Standard($30)团队用 |
 | Perplexity Pro(选装) | ~¥140 | 年度付费$200/年 |
-| 稳定网络 | ~¥25 | 推荐[自由猫](https://api.huanghaiwan.com/go/自由猫)或[万达云](https://api.huanghaiwan.com/go/万达云) |
+| 稳定网络 | ~¥20 | 推荐[自由猫](https://api.huanghaiwan.com/go/自由猫)或[万达云](https://api.huanghaiwan.com/go/万达云) |
 | **总计** | **~¥200/月** | **生产力拉满的专业配置** |
 
 ---
@@ -278,7 +278,7 @@
 | 零元 | **¥0** | DeepSeek + Kimi + Perplexity Free + Gemini Free |
 | 入门 | ~¥50 | ChatGPT Plus(拼车) + DeepSeek + NotebookLM Free |
 
-**推荐：** 零元方案完全够用。DeepSeek查资料、写论文初稿，Kimi读参考文献，NotebookLM做学习笔记。省下的钱买个[自由猫](https://api.huanghaiwan.com/go/自由猫)的网络套餐就好（¥9/月）。
+**推荐：** 零元方案完全够用。DeepSeek查资料、写论文初稿，Kimi读参考文献，NotebookLM做学习笔记。省下的钱买个[自由猫](https://api.huanghaiwan.com/go/自由猫)的网络套餐就好（¥8/月）。
 
 ---
 
@@ -309,17 +309,17 @@ ChatGPT Plus、Midjourney、Perplexity Pro都支持账号共享。家庭组或�
 
 > 国际AI工具（ChatGPT、Claude、Cursor、Midjourney）都需要访问海外网络。用对网络，AI体验直接翻倍。
 
-**最快方案（¥9-25/月）：**
-- [👑 自由猫](https://api.huanghaiwan.com/go/自由猫) — ¥9/月起，100+节点，IEPL专线，叶老大自用主力
+**最快方案（¥8-32.8/月）：**
+- [👑 自由猫](https://api.huanghaiwan.com/go/自由猫) — ¥8/月起，100+节点，IEPL专线，叶老大自用主力
 - [💰 万达云](https://api.huanghaiwan.com/go/万达云) — ¥16.8/月起，IEPL+住宅IP，性价比突出
-- [🐉 龙猫云](https://api.huanghaiwan.com/go/龙猫云) — ¥25/月起，全IPLC专线，网络稳定
+- [🐉 龙猫云](https://api.huanghaiwan.com/go/龙猫云) — ¥32.8/月起，全IPLC专线，网络稳定
 
 | 预算方案 | 推荐网络搭配 | 网络月费 |
 |:--------|:------------|:--------|
-| ¥0 零元方案 | [自由猫入门版](https://api.huanghaiwan.com/go/自由猫)访问海外工具 | ¥9/月 |
-| ¥50 入门方案 | [自由猫标准版](https://api.huanghaiwan.com/go/自由猫)或[万达云](https://api.huanghaiwan.com/go/万达云) | ¥15-25/月 |
+| ¥0 零元方案 | [自由猫入门版](https://api.huanghaiwan.com/go/自由猫)访问海外工具 | ¥8/月 |
+| ¥50 入门方案 | [自由猫标准版](https://api.huanghaiwan.com/go/自由猫)或[万达云](https://api.huanghaiwan.com/go/万达云) | ¥16.8-19.9/月 |
 | ¥100 主流方案 | [龙猫云](https://api.huanghaiwan.com/go/龙猫云)专线 | ¥25/月 |
-| ¥200 专业方案 | [自由猫](https://api.huanghaiwan.com/go/自由猫)+[龙猫云](https://api.huanghaiwan.com/go/龙猫云)双备份 | ¥35-50/月 |
+| ¥200 专业方案 | [自由猫](https://api.huanghaiwan.com/go/自由猫)+[龙猫云](https://api.huanghaiwan.com/go/龙猫云)双备份 | ¥32.8-50/月 |
 | ¥500+ 全家桶 | 旗舰方案不限速 | ¥50-100/月 |
 
 ---

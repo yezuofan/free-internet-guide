@@ -142,7 +142,7 @@ Clash 规则配置记住三个要点：
 
 | 服务商 | 特点 | 月费 |
 |:-----|:----|:----:|
-| [自由猫](https://api.huanghaiwan.com/go/自由猫) | IEPL专线+MPTCP多路复用，100+节点 | ¥25/月起 |
-| [万达云](https://api.huanghaiwan.com/go/万达云) | IEPL专线，入门友好 | ¥15/月起 |
+| [自由猫](https://api.huanghaiwan.com/go/自由猫) | IEPL专线+MPTCP多路复用，100+节点 | ¥32.8/月起 |
+| [万达云](https://api.huanghaiwan.com/go/万达云) | IEPL专线，入门友好 | ¥19.9/月起 |
 | [肥猫云](https://api.huanghaiwan.com/go/肥猫云) | 专线线路，性价比均衡 | ¥20/月起 |
-| [Cyberguard](https://api.huanghaiwan.com/go/Cyberguard) | IEPL专线，流媒体解锁 | ¥25/月起 |
+| [Cyberguard](https://api.huanghaiwan.com/go/Cyberguard) | IEPL专线，流媒体解锁 | ¥32.8/月起 |

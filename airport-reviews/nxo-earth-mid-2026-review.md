@@ -59,7 +59,7 @@
 | 老用户长期用 | 续 372 天年付 ¥1157.52（折合 ¥96.46/月） |
 | 新用户试水 | 31 天 ¥123.33 起步，确认线路再年付 |
 | 家里设备多 | 基础档 + Group Access（+¥47.41）扩到 5 台 |
-| 追求性价比 | 看自由猫 ¥9-45 档，NXO 定位偏高 |
+| 追求性价比 | 看自由猫 ¥8-59.9 档，NXO 定位偏高 |
 
 **双方案组合：** NXO Earth（主力专线品质）+ 自由猫（备用/大流量）覆盖「日常稳定+大流量下载」。
 
@@ -76,7 +76,7 @@
 | 需求 | 推荐 | 月费参考 |
 |:----|:-----|:--------|
 | 专线品质 + 家庭影音 | [NXO Earth](https://api.huanghaiwan.com/go/NXO Earth) | ¥96-123 |
-| 性价比主力 | [自由猫](https://api.huanghaiwan.com/go/自由猫) | ¥9-45 |
+| 性价比主力 | [自由猫](https://api.huanghaiwan.com/go/自由猫) | ¥8-59.9 |
 | 入门轻量 | [悠兔](https://api.huanghaiwan.com/go/悠兔) | ¥15 起 |
 | 均衡专线 | [Cyberguard](https://api.huanghaiwan.com/go/Cyberguard) | ¥20 档 |
 

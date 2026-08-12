@@ -94,7 +94,7 @@ Grok Imagine Image 2.0 把 AI 生图从"生成玩具"推向了"干活工具"：�
 
 | 需求场景 | 推荐方案 | 月费区间 | 特点 |
 |:--------|:--------|:--------|:----|
-| 主力长期用 | [自由猫](https://api.huanghaiwan.com/go/自由猫) | ¥9-45 | MPTCP 多路复用，100+ 节点，不限设备 |
+| 主力长期用 | [自由猫](https://api.huanghaiwan.com/go/自由猫) | ¥8-59.9 | MPTCP 多路复用，100+ 节点，不限设备 |
 | AI 工具重度用户 | [万达云](https://api.huanghaiwan.com/go/万达云) | ¥17-93 | IEPL 专线，流媒体全解锁 |
 | 稳定办公 | [SS-ID](https://api.huanghaiwan.com/go/SS-ID) | ¥20起 | IEPL 专线，5 设备，性价比高 |
 | 入门尝鲜 | [MESL](https://api.huanghaiwan.com/go/MESL) | ¥15-60 | 价格友好，日常够用 |

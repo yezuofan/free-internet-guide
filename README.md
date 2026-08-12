@@ -18,7 +18,7 @@
 6. 🏠 **[全屋科学上网方案对比 →](getting-started/home-network-setup-guide-2026.md)** 软路由/旁路由/刷机/客户端4种方案对比，暑假回家帮全家配网。
 7. 🎯 **[Claude Code 入门指南 →](getting-started/claude-code-guide-2026.md)** Anthropic 官方 AI 编程智能体，终端/VS Code/桌面三端完整使用教程
 8. 💰 **[2026学生党AI工具省钱攻略 →](getting-started/student-ai-budget-guide-2026.md)** 13款免费/低价AI工具推荐，¥0-50/月预算方案对比
-9. 🌏 **[暑假海外AI工具访问指南 →](getting-started/student-overseas-ai-access-2026.md)** 国内替代+网络环境+API中转三方案，学生月付¥9起
+9. 🌏 **[暑假海外AI工具访问指南 →](getting-started/student-overseas-ai-access-2026.md)** 国内替代+网络环境+API中转三方案，学生月付¥8起
 10. 📝 **[AI会议纪要工具横评2026 →](getting-started/ai-meeting-notes-guide-2026.md)** 讯飞听见/通义听悟/飞书妙记/Fireflies/Otter/Notion AI六款深度对比
 11. ✈️ **[2026暑假出境游网络指南 →](getting-started/summer-travel-network-guide-2026.md)** eSIM/机场/国际漫游方案全对比，日本/泰国/欧美出行上网省钱攻略
 12. 🎨 **[Midjourney 生图教程 2026 →](getting-started/midjourney-guide.md)** 从注册/订阅到提示词编写/参数调优，AI生图新手必读入门到精通指南
@@ -33,7 +33,7 @@
 21. 🚀 **[$60亿收购后的AI编程格局 →](getting-started/ai-coding-landscape-after-cursor-acquisition-2026.md)** Cursor被SpaceX收购后，Claude Code vs GitHub Copilot vs Cursor三强争霸深度解读
 | 22. 🐱 **[自由猫 FreeCat 2026年中更新评测 →](getting-started/freecat-mid-2026-review.md)** MPTCP多路复用+套餐全面升级（加量不加价），半年后还值得买吗？
 | 23. 📰 **[2026年7月AI圈大事记 →](getting-started/july-2026-ai-news-roundup.md)** 微软Copilot OS泄露、Anthropic 190亿超算、Midjourney反诉好莱坞，7月第一周AI圈6大热点速览
-24. 🌞 **[2026暑假科学上网完全指南 →](getting-started/summer-internet-guide-2026.md)** 学生党从零开始的7步实战：选机场→配客户端→多设备同步，¥9起搞定暑假上网。姊妹篇（暑假实战版）
+24. 🌞 **[2026暑假科学上网完全指南 →](getting-started/summer-internet-guide-2026.md)** 学生党从零开始的7步实战：选机场→配客户端→多设备同步，¥8起搞定暑假上网。姊妹篇（暑假实战版）
 | 25. 🤖 **[GPT-5.6 完全指南 2026 →](getting-started/gpt-5-6-guide-2026.md)** Sol/Terra/Luna三大模型能力解析+使用教程，OpenAI最新模型全解读
 | 26. 🐉 **[万达云 2026年中评测更新 →](airport-reviews/wandayun-mid-2026-review.md)** IEPL专线+MPTCP隧道技术加持，¥16.8/月入门价不变但引入设备限制，含竞品对比
 | 27. 🏢 **[ChatGPT Work 完全指南 2026 →](getting-started/chatgpt-work-guide-2026.md)** OpenAI全新AI工作台：ChatGPT + Codex合体办公，文档/表格/PPT一键生成，免费可用
@@ -55,7 +55,7 @@
 || 43. 🤖 **[Microsoft Copilot超级应用2026指南 →](getting-started/microsoft-copilot-super-app-guide-2026.md)** Chat对话+GitHub编程+Cowork协作+Autopilot智能体四合一，已确认2026年上线，跟ChatGPT Work全面对比
 || 44. ⚙️ **[Clash规则配置完全指南 →](getting-started/clash-rule-config-guide-2026.md)** 从DOMAIN-SUFFIX/GEOIP规则语法到url-test/fallback策略组实战，手把手搭建完整分流规则体系，看完不用再抄别人配置
 || 45. 📶 **[跨境网络服务测速验收指南 2026 →](getting-started/network-speed-test-guide-2026.md)** 晚高峰下载速度、延迟、丢包率、流媒体解锁四大指标怎么测？附Speedtest/fast.com/Cloudflare工具清单与合格标准，15分钟判断线路值不值得续费
-|| 46. 🐦 **[FlyingBird 2026年中评测更新 →](airport-reviews/flyingbird-mid-2026-review.md)** 全IPLC专线+70+节点：套餐新增季付/半年付/年付、黄金500GB/30天规则统一、官网迁移flyingbird.club，月付¥15起不限设备数
+|| 46. 🐦 **[FlyingBird 2026年中评测更新 →](airport-reviews/flyingbird-mid-2026-review.md)** 全IPLC专线+70+节点：套餐新增季付/半年付/年付、黄金500GB/30天规则统一、官网迁移flyingbird.club，月付¥19.9起不限设备数
 || 47. 🤖 **[DeepSeek V4-Flash 正式版指南 2026 →](getting-started/deepseek-v4-flash-guide-2026.md)** 284B MoE只重做后训练，9项Agent基准全面反超V4-Pro预览版：API接入（OpenAI/Anthropic/Codex三格式）、官方定价与峰谷计费预告、旧接口10月24日迁移提醒
 || 48. 🛰️ **[MESL 2026年中评测更新 →](airport-reviews/mesl-mid-2026-review.md)** Premium IEPL专线+云厂商内网架构：登录入口升级getmesl.com地址选择器、新增$3.6美元入门档与3Gbps/5Gbps峰值带宽、5台设备限制明确，附竞品对比与双方案建议
 || 49. 🤖 **[Meta Muse Code 上手指南 2026 →](getting-started/meta-muse-code-guide-2026.md)** Meta首款AI编程智能体：基于Muse Spark 1.2协同训练，按量$1.25/$4.25每百万token，贡献者档输出仅$0.20比Claude Code/Codex便宜10倍+，单命令安装+零数据保留，附CLI接入教程
@@ -67,10 +67,10 @@
 || 55. 🤖 **[Qwen3.8 Max 上手教程 2026 →](getting-started/qwen3-8-max-guide-2026.md)** 阿里8/3发布的2.4万亿参数开源旗舰：稀疏MoE+百万token上下文，自主编程16天跑完430 commits交付oh-my-cli，Max级首次开源权重，PaperBench 93.0分，API输入¥12/输出¥36每百万tokens，附Qwen Studio/Qoder CLI/API三种接入方式
 
 || 太长不看版：
-1) **首选自由猫**，叶老大自用主力，¥9/月起，100+节点，流媒体全解锁
+1) **首选自由猫**，叶老大自用主力，¥8/月起，100+节点，流媒体全解锁
 2) 想稳定，买上面推荐的，最好20块/月起的
 3) 想要便宜的，10块/月左右：贝贝云(24.9/月100G)、悠兔(200一年200G)
-4) 试用可以先看自由猫入门套餐(¥9/月50G)
+4) 试用可以先看自由猫入门套餐(¥8/月30G)
 5) 有按量付费的：~~奈云~~（⚠️当前暂停服务）
 6) 小流量备用：悠兔200/年200G
 7) 大流量低价：瑶瑶领先（¥9.9/384G）
@@ -94,7 +94,7 @@
 >入口：香港、日本、新加坡、美国等多地
 >流媒体：Netflix ✅ · Disney+ ✅ · ChatGPT ✅ · YouTube Premium ✅
 >TikTok：✅ 支持
-**优点：** 节点最多（100+）、MPTCP晚高峰稳、TikTok解锁、设备无限制、¥9起步门槛低
+**优点：** 节点最多（100+）、MPTCP晚高峰稳、TikTok解锁、设备无限制、¥8起步门槛低
 **缺点：** 价格比中转机场贵一点、整体来说一分钱一分货
 **整体评价：** 叶老大自用主力。如果你需要全天候稳定、流媒体全解锁、节点覆盖广——自由猫是当前最综合的选择。
 >设备限制：无限制
@@ -104,7 +104,7 @@
 
 | 套餐 | 价格 | 流量/月 |
 |:----|:-----|:--------|
-| 入门 | ¥9/月 | 50GB |
+| 入门 | ¥8/月 | 50GB |
 | 基础 | ¥15/月 | 150GB |
 | 标准 | ¥25/月 | 300GB |
 | 高级 | ¥35/月 | 500GB |
@@ -410,7 +410,7 @@ BGP中继 + MPTCP多线程，2000Mbps高速专线。高端定位。
 
 ## 十二、龙猫云（新收录）
 
-全IPLC专线无限速，¥15/月起。原生IP解锁。
+全IPLC专线无限速，¥19.9/月起。原生IP解锁。
 
 [👉 访问官网](https://inv06.lmaff01.cc/register?aff=dqNRmvru)
 
