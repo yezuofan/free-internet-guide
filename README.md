@@ -66,6 +66,7 @@
 || 54. 🎮 **[2026 游戏玩家跨境网络横评 →](getting-started/gamer-network-comparison-2026.md)** Steam/PS5/Xbox/Switch 外服联机延迟高、丢包掉线怎么办：从节点延迟、晚高峰稳定性、UDP兼容、设备数、性价比五维度实测7家服务（含九游网8/5实测数据），按游戏类型+预算给选购建议
 || 55. 🤖 **[Qwen3.8 Max 上手教程 2026 →](getting-started/qwen3-8-max-guide-2026.md)** 阿里8/3发布的2.4万亿参数开源旗舰：稀疏MoE+百万token上下文，自主编程16天跑完430 commits交付oh-my-cli，Max级首次开源权重，PaperBench 93.0分，API输入¥12/输出¥36每百万tokens，附Qwen Studio/Qoder CLI/API三种接入方式
 || 56. ⚡ **[Grok 4.6 发布快评 2026 →](getting-started/grok-4-6-release-review-2026.md)** SpaceXAI 8/12发布：AA综合指数61分追平GPT-5.6 Sol，GDPval 1753超Claude Fable 5，API定价$2/$6每百万token砍掉六成，Cursor/Grok Build首周双倍用量；同夜DeepSeek V4 Pro正式版突袭上线，附基准对比与4种接入方式
+|| 57. 🤖 **[DeepSeek V4 Pro 正式版指南 2026 →](getting-started/deepseek-v4-pro-guide-2026.md)** DeepSeek 8/13发布的V4系列旗舰正式版：九项Agent基准平均提升25.7分逼近Claude Fable 5，原生支持OpenAI Responses API+Codex一键配置，1M上下文/384K输出；8/17起峰谷定价生效（高峰$1.32/$3.96），过渡价$0.435/$0.87是涨价前最后窗口，附API接入与三档思考模式教程
 
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥8/月起，100+节点，流媒体全解锁
