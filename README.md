@@ -69,6 +69,7 @@
 || 57. 🤖 **[DeepSeek V4 Pro 正式版指南 2026 →](getting-started/deepseek-v4-pro-guide-2026.md)** DeepSeek 8/13发布的V4系列旗舰正式版：九项Agent基准平均提升25.7分逼近Claude Fable 5，原生支持OpenAI Responses API+Codex一键配置，1M上下文/384K输出；8/17起峰谷定价生效（高峰$1.32/$3.96），过渡价$0.435/$0.87是涨价前最后窗口，附API接入与三档思考模式教程
 || 58. 🔓 **[阿里开源 Qwen3.8 全系指南 2026 →](getting-started/qwen3-8-open-source-guide-2026.md)** 8/14晚千问正式开源Qwen3.8全系（Apache 2.0）：270亿参数的Qwen3.8-27B原生多模态、262K→1M上下文，量化后消费级显卡可跑；2.4T旗舰Max权重同步开放（BF16约4.9TB，1-bit量化约397GB，9芯片适配），附两款模型部署门槛、显存参考与选型建议
 || 59. 🧩 **[DeepSeek Harness 上手指南 2026 →](getting-started/deepseek-harness-guide-2026.md)** DeepSeek 8/13开源的官方Agent框架（MIT）：Model + Harness = Agent，一切皆插件架构（模型/工具/UI/主循环全可换），3天star破11万；附一行命令本地部署（npx dsh web）、四种运行模式、与Claude Code对比及开发者预览版适用人群
+|| 60. 📺 **[2026直播跨境网络横评 →](getting-started/livestream-network-comparison-2026.md)** TikTok带货/跨境直播推流卡顿怎么选：推流吃上行+抗抖动（直播专线最稳）、登录用静态住宅IP，7家跨境网络方案按场景对比（带货/推流/反向看国内/连线），附三档预算方案与1080p码率流量参考
 
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥8/月起，100+节点，流媒体全解锁
