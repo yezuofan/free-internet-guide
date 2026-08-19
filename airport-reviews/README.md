@@ -377,6 +377,8 @@ BGP中继 + MPTCP多线程，2000Mbps高速专线。高端定位。
 
 ## 十二、龙猫云（新收录）
 
+> ⚠️ 主域名（longmaoyun.com）当前超时不可访问（第34天），但注册链接可用，可通过上方链接直接注册。
+
 全IPLC专线无限速，¥19.9/月起。原生IP解锁。
 
 [👉 访问官网](https://inv06.lmaff01.cc/register?aff=dqNRmvru)
@@ -468,6 +470,8 @@ Trojan协议年付性价比之选，¥199/年用9折码更低。
 ---
 
 ## 十七、酷酷云
+
+> ⚠️ 主域名（kukuyun.com）当前超时不可访问（第34天），但注册链接可用，可通过上方链接直接注册。
 
 BGP三网专线传输，Netflix/Hulu/HBO/Disney+秒开4K，原生IP解锁ChatGPT。
 
