@@ -71,6 +71,7 @@
 || 59. 🧩 **[DeepSeek Harness 上手指南 2026 →](getting-started/deepseek-harness-guide-2026.md)** DeepSeek 8/13开源的官方Agent框架（MIT）：Model + Harness = Agent，一切皆插件架构（模型/工具/UI/主循环全可换），3天star破11万；附一行命令本地部署（npx dsh web）、四种运行模式、与Claude Code对比及开发者预览版适用人群
 || 60. 📺 **[2026直播跨境网络横评 →](getting-started/livestream-network-comparison-2026.md)** TikTok带货/跨境直播推流卡顿怎么选：推流吃上行+抗抖动（直播专线最稳）、登录用静态住宅IP，7家跨境网络方案按场景对比（带货/推流/反向看国内/连线），附三档预算方案与1080p码率流量参考
 || 61. 🔬 **[智谱 GLM-5.3 发布评测 2026 →](getting-started/glm-5-3-guide-2026.md)** 智谱8/14发布：与5.2同基座纯靠后训练编程能力+50%，Terminal-Bench 3.0从4.6涨到28.3开源第一，网络安全追平Mythos 5；两周后开源权重，API输入8元/输出28元每百万token（1M上下文限时免费），附ZCode/Coding Plan/PhanRouter四种接入方式与竞品对比
+|| 62. 🏢 **[2026远程办公跨境网络横评 →](getting-started/remote-work-network-comparison-2026.md)** 视频会议卡顿/Teams-Zoom连不上怎么选：会议是双向链路（上行下行都吃）、抖动比延迟更伤开会、SaaS长连接（GitHub/Figma/Notion）稳定性决定协作效率；7家按办公视角对比（自由猫MPTCP抗抖动/SS-ID网关方案/万达云住宅IP外贸友好），附三档预算方案与视频会议流量参考
 
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥8/月起，100+节点，流媒体全解锁
