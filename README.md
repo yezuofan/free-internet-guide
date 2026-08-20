@@ -37,12 +37,12 @@
 | 25. 🤖 **[GPT-5.6 完全指南 2026 →](getting-started/gpt-5-6-guide-2026.md)** Sol/Terra/Luna三大模型能力解析+使用教程，OpenAI最新模型全解读
 | 26. 🐉 **[万达云 2026年中评测更新 →](airport-reviews/wandayun-mid-2026-review.md)** IEPL专线+MPTCP隧道技术加持，¥16.8/月入门价不变但引入设备限制，含竞品对比
 | 27. 🏢 **[ChatGPT Work 完全指南 2026 →](getting-started/chatgpt-work-guide-2026.md)** OpenAI全新AI工作台：ChatGPT + Codex合体办公，文档/表格/PPT一键生成，免费可用
-|| 28. 🐱 **[龙猫云 2026年中更新评测 →](airport-reviews/longmaoyun-mid-2026-review.md)** 全IPLC专线无限速，¥15/月入门，不限设备数，含同价位竞品深度对比
+|| 28. 🐱 **[龙猫云 2026年中更新评测 →](airport-reviews/longmaoyun-mid-2026-review.md)** 全IPLC专线无限速，¥15/月入门，不限设备数，含同价位竞品深度对比（⚠️ 主域名超时第35天，注册链接可用）
 || 29. 🎵 **[Spotify AI Chatbot 完全指南 2026 →](getting-started/spotify-ai-chatbot-guide-2026.md)** Premium用户AI对话助手：语音/文字操控播放、了解歌曲背景、探索个人听歌历史
 || 30. 🛡️ **[新手避坑指南2026 →](getting-started/newbie-pitfalls-guide-2026.md)** 机场小白最容易踩的10个坑：不备份、只看价格、忽略线路…少交学费少走弯路
 || 31. 🐱 **[肥猫云 2026年中评测更新 →](airport-reviews/feimao-mid-2026-review.md)** BGP三线纯专线+Trojan协议，¥96/年≈¥8/月专线性价比之王，只能自家客户端。同价位竞品深度对比
 || 32. 🤖 **[Kimi K3 完全指南 2026 →](getting-started/kimi-k3-guide-2026.md)** 2.8万亿参数开源模型深度评测：Moonshot AI最新发布，Arena前端开发#1，AI指数#3，7/27前开源
-| 33. ☁️ **[酷酷云 2026年中评测更新 →](airport-reviews/kukuyun-mid-2026-review.md)** BGP三网专线+Trojan不限设备，¥20/月60天深度回顾：Hulu原生解锁还稳吗？含5家同价位竞品对比
+| 33. ☁️ **[酷酷云 2026年中评测更新 →](airport-reviews/kukuyun-mid-2026-review.md)** BGP三网专线+Trojan不限设备，¥20/月60天深度回顾：Hulu原生解锁还稳吗？含5家同价位竞品对比（⚠️ 主域名超时第35天，注册链接可用）
 || 34. 🖥️ **[macOS 27 Siri AI 写作工具完全指南 →](getting-started/macos-27-siri-ai-writing-guide-2026.md)** 解锁 Golden Gate 隐藏AI弹窗：选中文本→改写/校对/摘要/ChatGPT级AI写作，一条Terminal命令启用
 || 35. 🛡️ **[Cyberguard 2026年中评测更新 →](getting-started/cyberguard-mid-2026-review.md)** IEPL/IPLC多入口专线升级，¥18/月100GB起步，¥1试用3GB。含5家同定位竞品对比
 || 36. 🤖 **[Google Gemini 2026年7月大更新指南 →](getting-started/gemini-july-2026-update-guide.md)** 3.6 Flash新模型 + Task Automation正式上线，月活9.5亿生态全景解读
@@ -417,6 +417,8 @@ BGP中继 + MPTCP多线程，2000Mbps高速专线。高端定位。
 
 ## 十二、龙猫云（新收录）
 
+> ⚠️ 主域名（longmaoyun.com）当前超时不可访问（第35天），但注册链接可用，可通过上方链接直接注册。
+
 全IPLC专线无限速，¥19.9/月起。原生IP解锁。
 
 [👉 访问官网](https://inv06.lmaff01.cc/register?aff=dqNRmvru)
@@ -508,6 +510,8 @@ Trojan协议年付性价比之选，¥199/年用9折码更低。
 ---
 
 ## 十七、酷酷云
+
+> ⚠️ 主域名（kukuyun.com）当前超时不可访问（第35天），但注册链接可用，可通过上方链接直接注册。
 
 BGP三网专线传输，Netflix/Hulu/HBO/Disney+秒开4K，原生IP解锁ChatGPT。
 
