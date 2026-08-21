@@ -73,6 +73,7 @@
 || 61. 🔬 **[智谱 GLM-5.3 发布评测 2026 →](getting-started/glm-5-3-guide-2026.md)** 智谱8/14发布：与5.2同基座纯靠后训练编程能力+50%，Terminal-Bench 3.0从4.6涨到28.3开源第一，网络安全追平Mythos 5；两周后开源权重，API输入8元/输出28元每百万token（1M上下文限时免费），附ZCode/Coding Plan/PhanRouter四种接入方式与竞品对比
 || 62. 🏢 **[2026远程办公跨境网络横评 →](getting-started/remote-work-network-comparison-2026.md)** 视频会议卡顿/Teams-Zoom连不上怎么选：会议是双向链路（上行下行都吃）、抖动比延迟更伤开会、SaaS长连接（GitHub/Figma/Notion）稳定性决定协作效率；7家按办公视角对比（自由猫MPTCP抗抖动/SS-ID网关方案/万达云住宅IP外贸友好），附三档预算方案与视频会议流量参考
 || 63. 💻 **[Meta Muse Glimmer 30B 本地部署指南 →](getting-started/meta-muse-glimmer-local-guide-2026.md)** Meta 8/10开源30B本地智能体模型（Apache 2.0）：4-bit量化后权重<20GB、24GB显存或M4/M5 Max即可离线跑Agent（整理文件/写代码/调工具不上传云端），DFlash投机解码提速3.1倍；附llama.cpp/Ollama/LM Studio三路线部署教程、首批实测数据（4090约50-75 token/s）与Qwen3.8-27B对比选型
+|| 64. 👨‍👩‍👧 **[2026家庭网络加速横评 →](getting-started/family-network-comparison-2026.md)** 全家设备共享怎么选：晚高峰并发、设备数限制、老人小孩零维护三大痛点逐项拆解。自由猫（不限设备+MPTCP抗并发）多数家庭首选，SS-ID路由器网关零维护，悠兔年付折合¥16.6/月预算优选；附三档组合方案+5条避坑建议+FAQ
 
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥8/月起，100+节点，流媒体全解锁
