@@ -75,6 +75,7 @@
 || 63. 💻 **[Meta Muse Glimmer 30B 本地部署指南 →](getting-started/meta-muse-glimmer-local-guide-2026.md)** Meta 8/10开源30B本地智能体模型（Apache 2.0）：4-bit量化后权重<20GB、24GB显存或M4/M5 Max即可离线跑Agent（整理文件/写代码/调工具不上传云端），DFlash投机解码提速3.1倍；附llama.cpp/Ollama/LM Studio三路线部署教程、首批实测数据（4090约50-75 token/s）与Qwen3.8-27B对比选型
 || 64. 👨‍👩‍👧 **[2026家庭网络加速横评 →](getting-started/family-network-comparison-2026.md)** 全家设备共享怎么选：晚高峰并发、设备数限制、老人小孩零维护三大痛点逐项拆解。自由猫（不限设备+MPTCP抗并发）多数家庭首选，SS-ID路由器网关零维护，悠兔年付折合¥16.6/月预算优选；附三档组合方案+5条避坑建议+FAQ
 || 65. 🐂 **[神秘"牛来"大模型 Ox Alpha 快评 →](getting-started/ox-alpha-model-guide-2026.md)** 8/20 OpenRouter 匿名上线，DeepSWE 编程测试 80% 通过率超 GPT-5.6 与 Claude Fable 5。104.8 万 token 上下文、支持图文视频输入，技术指纹指向智谱 GLM-5.x。免费窗口期如何用 OpenRouter / API / OpenCode 体验，附身份溯源证据与实测数据
+|| 66. 🛣️ **[线路类型怎么选：IEPL、IPLC、中转、家宽、BGP 一篇看懂 →](getting-started/network-line-type-guide-2026.md)** 五类线路大白话讲透：专线为什么贵、中转为什么卡、如何识别真假专线（离谱低价直接排除+晚高峰实测最可靠）；附按线路选套餐推荐表（自由猫 IEPL+MPTCP 首选、悠兔年付折合¥16.6、万达云住宅IP、SS-ID 网关方案、SKYLUMO ¥6.99 入门、NXO 顶配）与 FAQ
 
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥8/月起，100+节点，流媒体全解锁
