@@ -78,6 +78,7 @@
 || 66. 🛣️ **[线路类型怎么选：IEPL、IPLC、中转、家宽、BGP 一篇看懂 →](getting-started/network-line-type-guide-2026.md)** 五类线路大白话讲透：专线为什么贵、中转为什么卡、如何识别真假专线（离谱低价直接排除+晚高峰实测最可靠）；附按线路选套餐推荐表（自由猫 IEPL+MPTCP 首选、悠兔年付折合¥16.6、万达云住宅IP、SS-ID 网关方案、SKYLUMO ¥6.99 入门、NXO 顶配）与 FAQ
 || 67. 👁️ **[DeepSeek V4-Flash Vision 视觉版指南 2026 →](getting-started/deepseek-v4-flash-vision-guide-2026.md)** DeepSeek 8/21上线官方首个视觉API（V4系列首款原生看图模型）：纯文本能力与V4-Flash持平不降级，多模态Agent基准接近Opus-4.8（DeepSWE 59.3超Opus）；一张图最多384 token成本不到竞品一半，价格与V4-Flash一致；附Base64/URL/Files三种传图方式、Anthropic兼容接口与detail参数教程
 || 68. 🎬 **[4K观影党网络加速横评 2026 →](getting-started/streaming-4k-network-comparison-2026.md)** Netflix/Disney+/Apple TV+ 多区解锁实测：4K只需15-25Mbps稳定带宽（HEVC），卡顿九成是晚高峰线路问题而非网速；解锁≠流畅（分流插件不保带宽）；7家观影视角横评（自由猫MPTCP主力首选、悠兔年付¥16.6、万达云多区、SS-ID网关、SKYLUMO ¥6.99入门、NXO顶配）+主力备用组合方案
+|| 69. 📋 **[订阅管理完全指南 2026 →](getting-started/subscription-management-guide-2026.md)** Sub-Store 订阅转换与多设备同步：格式不兼容（Clash YAML/Shadowrocket URI/sing-box JSON）的根源与解法；三个方案按需取用（客户端多订阅/在线转换/Sub-Store 本地部署）；Sub-Store 四大能力（转换/合并/正则筛选/托管动态链接）+ Node 部署步骤 + 全家设备一个链接同步；安全提示（sub.store 域名勿信第三方在线转换）
 
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥8/月起，100+节点，流媒体全解锁
