@@ -79,6 +79,7 @@
 || 67. 👁️ **[DeepSeek V4-Flash Vision 视觉版指南 2026 →](getting-started/deepseek-v4-flash-vision-guide-2026.md)** DeepSeek 8/21上线官方首个视觉API（V4系列首款原生看图模型）：纯文本能力与V4-Flash持平不降级，多模态Agent基准接近Opus-4.8（DeepSWE 59.3超Opus）；一张图最多384 token成本不到竞品一半，价格与V4-Flash一致；附Base64/URL/Files三种传图方式、Anthropic兼容接口与detail参数教程
 || 68. 🎬 **[4K观影党网络加速横评 2026 →](getting-started/streaming-4k-network-comparison-2026.md)** Netflix/Disney+/Apple TV+ 多区解锁实测：4K只需15-25Mbps稳定带宽（HEVC），卡顿九成是晚高峰线路问题而非网速；解锁≠流畅（分流插件不保带宽）；7家观影视角横评（自由猫MPTCP主力首选、悠兔年付¥16.6、万达云多区、SS-ID网关、SKYLUMO ¥6.99入门、NXO顶配）+主力备用组合方案
 || 69. 📋 **[订阅管理完全指南 2026 →](getting-started/subscription-management-guide-2026.md)** Sub-Store 订阅转换与多设备同步：格式不兼容（Clash YAML/Shadowrocket URI/sing-box JSON）的根源与解法；三个方案按需取用（客户端多订阅/在线转换/Sub-Store 本地部署）；Sub-Store 四大能力（转换/合并/正则筛选/托管动态链接）+ Node 部署步骤 + 全家设备一个链接同步；安全提示（sub.store 域名勿信第三方在线转换）
+|| 70. 🤖 **[阿里 Qoder 智能体工作台 2026 →](getting-started/qoder-agent-workbench-guide-2026.md)** 不用写代码的 AI 开发工具：自然语言驱动开发，内置 Qwen3.8-Max + Auto 智能调度；Harness 长链路自治（读-改-验证-迭代）；40+ 连接器/70+ 插件/2 万+ 技能；编程/通用双模式；分级权限+工具白名单；600 万用户、10 万+ 企业客户
 
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥8/月起，100+节点，流媒体全解锁
