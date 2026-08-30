@@ -81,6 +81,7 @@
 || 69. 📋 **[订阅管理完全指南 2026 →](getting-started/subscription-management-guide-2026.md)** Sub-Store 订阅转换与多设备同步：格式不兼容（Clash YAML/Shadowrocket URI/sing-box JSON）的根源与解法；三个方案按需取用（客户端多订阅/在线转换/Sub-Store 本地部署）；Sub-Store 四大能力（转换/合并/正则筛选/托管动态链接）+ Node 部署步骤 + 全家设备一个链接同步；安全提示（sub.store 域名勿信第三方在线转换）
 || 70. 🤖 **[阿里 Qoder 智能体工作台 2026 →](getting-started/qoder-agent-workbench-guide-2026.md)** 不用写代码的 AI 开发工具：自然语言驱动开发，内置 Qwen3.8-Max + Auto 智能调度；Harness 长链路自治（读-改-验证-迭代）；40+ 连接器/70+ 插件/2 万+ 技能；编程/通用双模式；分级权限+工具白名单；600 万用户、10 万+ 企业客户
 || 71. 💻 **[2026开发者跨境网络横评 →](getting-started/developer-network-comparison-2026.md)** GitHub clone 慢、npm 超时、Cursor/Claude Code 连不上怎么办？按节点延迟、晚高峰稳定性、SSH 长连接、流量额度、多端设备五维实测 7 家：自由猫（MPTCP 抗晚高峰）> SS-ID（网关团队）> 万达云（住宅IP 账号稳）> 悠兔（年付 ¥16.6/月）> MESL（企业级）> SKYLUMO（¥6.99 入门）> NXO（顶配），附组合策略与 FAQ
+|| 72. 🧭 **[2026 DNS防污染完全指南 →](getting-started/dns-pollution-guide-2026.md)** 节点正常但网页打不开、跳广告、解析到错误IP？DNS 污染是头号隐形故障。三命令自测（nslookup 对比 1.1.1.1）+ 三步解法：客户端 DoH 配置（Clash/Stash/Shadowrocket/sing-box 国内外分流模板）、系统级 DoH/DoT（Windows/Android 私人 DNS）、路由器 AdGuard Home 全局覆盖；附 6 家公共 DoH 服务商对比与 FAQ
 
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥8/月起，100+节点，流媒体全解锁
