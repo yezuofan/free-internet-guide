@@ -36,7 +36,7 @@ description: '打工人必备的AI工具清单来了！覆盖写作/绘画/编�
 
 **对中国用户的建议：** 两个工具需要访问国际网络。如果有稳定机场，建议主力用 Claude（中文体验更好）；日常轻量用 ChatGPT（生态更成熟）。
 
-[👉 访问 ChatGPT](https://api.huanghaiwan.com/go/chatgpt) | [👉 访问 Claude](https://api.huanghaiwan.com/go/claude)
+[👉 访问 ChatGPT](https://chatgpt.com) | [👉 访问 Claude](https://claude.ai)
 
 ---
 
@@ -109,7 +109,7 @@ AI绘画工具已经从"玩具"变成了"生产力工具"。运营、市场、�
 
 **对中国用户的建议：** Perplexity需要访问国际网络。如果只是需要中文搜索，百度/夸克够用；需要英文+综合分析能力，用Perplexity。
 
-[👉 访问 Perplexity](https://api.huanghaiwan.com/go/perplexity)
+[👉 访问 Perplexity](https://www.perplexity.ai)
 
 ---
 
@@ -130,7 +130,7 @@ Kimi是国产品牌，**国内可直接访问**，中文体验优秀，是很多
 - 内容创作者：资料搜集和整理
 - 产品经理：需求文档分析
 
-[👉 访问 Kimi](https://api.huanghaiwan.com/go/kimi)
+[👉 访问 Kimi](https://kimi.moonshot.cn)
 
 ---
 

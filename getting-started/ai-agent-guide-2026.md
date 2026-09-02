@@ -94,7 +94,7 @@ AI Agent能干的事：
 - 插件生态依赖字节系，海外工具接入有限
 - 免费版有并发限制，高频使用需付费
 
-**扣子注册：** 👉 [点击访问扣子](https://api.huanghaiwan.com/go/扣子)
+**扣子注册：** 👉 [点击访问扣子](https://www.coze.cn)
 
 ---
 
@@ -129,7 +129,7 @@ Cursor Agent：
 - 需要有一定编程基础才能用好
 - 免费额度有限（Pro版$20/月）
 
-**Cursor注册：** 👉 [点击访问Cursor](https://api.huanghaiwan.com/go/Cursor)
+**Cursor注册：** 👉 [点击访问Cursor](https://cursor.com)
 
 ---
 
@@ -160,7 +160,7 @@ Claude Agent的核心优势是**超长上下文（100K）+ 超强推理能力**�
 - 无内置插件系统（需要通过API扩展）
 - 代码能力不如Cursor Agent
 
-**Claude注册：** 👉 [点击注册Claude Pro](https://api.huanghaiwan.com/go/Claude)
+**Claude注册：** 👉 [点击注册Claude Pro](https://claude.ai)
 
 ---
 
