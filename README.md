@@ -84,6 +84,7 @@
 || 72. 🧭 **[2026 DNS防污染完全指南 →](getting-started/dns-pollution-guide-2026.md)** 节点正常但网页打不开、跳广告、解析到错误IP？DNS 污染是头号隐形故障。三命令自测（nslookup 对比 1.1.1.1）+ 三步解法：客户端 DoH 配置（Clash/Stash/Shadowrocket/sing-box 国内外分流模板）、系统级 DoH/DoT（Windows/Android 私人 DNS）、路由器 AdGuard Home 全局覆盖；附 6 家公共 DoH 服务商对比与 FAQ
 || 73. 🤖 **[腾讯混元 Hy4 preview 上手教程 2026 →](getting-started/tencent-hunyuan-hy4-guide-2026.md)** 8/28 发布开源的旗舰大模型：总参数 770B/激活 49B/1M 上下文（Apache 2.0）；内部 163 专家 203 任务盲测 2.99/4 略胜 GLM-5.3 与 Kimi K3；软件工程/办公/游戏/科研四大生产力场景；API 输入 6 元/输出 18 元/缓存 0.3 元每百万 Token；元宝/ima 免费体验 + TokenHub/OpenRouter 接入
 || 74. 🎓 **[2026考研学术网络加速横评 →](getting-started/academic-network-comparison-2026.md)** Google Scholar 打不开、arXiv 超时、论文 PDF 下载中断？学术场景五维实测 7 家：晚高峰稳定/论文长连接/学术站点兼容/海外账号环境/学生预算；考研主力自由猫（MPTCP 不限设备 ¥15.92）+ 万达云（住宅 IP 学术账号稳）；组合月均 23-40 元
+|| 75. 🛠️ **[TUN 模式完全指南 2026 →](getting-started/tun-mode-guide-2026.md)** 浏览器能开海外网站，游戏、命令行工具却连不上？系统代理只管「愿意配合的应用」，TUN 虚拟网卡接管全部 TCP/UDP 流量。分客户端开启步骤（Clash Verge Rev/ClashX Pro/Stash/Shadowrocket/sing-box）+ DNS 防泄漏、杀软冲突、热点共存避坑；记住 TUN ≠ 全局，规则分流才是正确姿势
 
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥8/月起，100+节点，流媒体全解锁
