@@ -343,7 +343,7 @@ BGP中继 + MPTCP多线程，2000Mbps高速专线。高端定位。
 
 ## 十、WGetCloud ⚠️（域名已失效，仅作存档）
 
-> **⚠️ 2026-05-29 更新：** WGetCloud 主域名 `wgetcloud.com` 返回 403，`invite.wgetcloud.ltd` 返回 522（超时），**服务可能已下线或域名已更换**。建议谨慎使用，或联系叶老大确认最新入口。
+> **⚠️ 2026-09-05 更新：** 主域 `wgetcloud.com` 仍 403；子域 `b8cfff2a4jquxdbmwbaj.wgetcloud.org` 恢复信号观察中（/auth/register 可达），注册链路部分验证。已从推荐位移除，暂不恢复推荐位。
 
 精品专线29节点，500Mbps，流媒体+AI全解锁，SLA保障。
 

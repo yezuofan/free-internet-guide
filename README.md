@@ -398,7 +398,7 @@ BGP中继 + MPTCP多线程，2000Mbps高速专线。高端定位。
 
 ## 十、WGetCloud（新收录）
 
-> ⚠️ **WGetCloud当前全域名不可访问（403/超时），已从推荐位移除，请等待恢复通知。**
+> ⚠️ **主域 wgetcloud.com 仍403；子域 b8cfff2a4jquxdbmwbaj.wgetcloud.org 恢复信号观察中（/auth/register 可达），注册链路部分验证。已从推荐位移除，暂不恢复推荐位。**
 
 精品专线29节点，500Mbps，流媒体+AI全解锁，SLA保障。
 
