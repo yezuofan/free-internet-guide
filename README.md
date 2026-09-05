@@ -87,6 +87,7 @@
 || 75. 🛠️ **[TUN 模式完全指南 2026 →](getting-started/tun-mode-guide-2026.md)** 浏览器能开海外网站，游戏、命令行工具却连不上？系统代理只管「愿意配合的应用」，TUN 虚拟网卡接管全部 TCP/UDP 流量。分客户端开启步骤（Clash Verge Rev/ClashX Pro/Stash/Shadowrocket/sing-box）+ DNS 防泄漏、杀软冲突、热点共存避坑；记住 TUN ≠ 全局，规则分流才是正确姿势
 || 76. 🤖 **[Gemini 3.8 Flash 上手教程 2026 →](getting-started/gemini-3-8-flash-guide-2026.md)** Google 9月2日发布，六周内第三代 Flash：编码/智能体/多步推理逼近高价旗舰，价格与 3.7 持平（$0.75/$3.75 每百万 Token 优惠到年底，含思考 Token）。AI Studio 免费体验 + Gemini App 订阅 + API 接入 + Antigravity 编程四条上手路径与选型建议
 || 77. 🍎 **[2026苹果全家桶网络加速横评 →](getting-started/apple-ecosystem-network-comparison-2026.md)** App Store 外区下载转圈、美区 Apple ID 登录不上、iCloud 同步卡住、ChatGPT 等海外 App 打不开？苹果生态五维实测 7 家：外区账号环境（住宅 IP 抗美区风控）/晚高峰下载/长连接同步/多设备覆盖/分流体验；主力自由猫（MPTCP 不限设备 ¥15.92）+ 万达云（住宅 IP 外区账号稳）；组合月均 23-40 元
+|| 78. 📱 **[海外社交 App 访问排查教程 2026 →](getting-started/overseas-social-app-access-guide-2026.md)** Telegram 收不到验证码、Discord 语音没声音、WhatsApp 连不上、Instagram 刷不出图片？九成是网络问题。按 App 逐个排查：验证码短信通道被拦就用语音回拨、Discord 语音走 UDP 需开 TUN、Meta 系频繁换 IP 触发风控；附通用五步排查与线路选择（IEPL/UDP 友好）
 
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥8/月起，100+节点，流媒体全解锁
