@@ -37,10 +37,10 @@
 
 | 服务 | 适合 | 特点 |
 |:----|:----|:----|
-| 自由猫 | 主力综合 | MPTCP 聚合线路，晚高峰稳，社交 App + 视频通话一起扛 |
-| 万达云 | IP 稳定党 | IEPL + 住宅 IP，登录注册/风控敏感场景更安心 |
-| 悠兔 | 语音/长连接 | 老牌 IEPL 专线，UDP 友好，Discord 语音不断 |
-| SKYLUMO | 入门体验 | 月付低价档，先跑通 Telegram/WhatsApp 再说 |
+| [自由猫](https://api.huanghaiwan.com/go/自由猫) | 主力综合 | MPTCP 聚合线路，晚高峰稳，社交 App + 视频通话一起扛 |
+| [万达云](https://api.huanghaiwan.com/go/万达云) | IP 稳定党 | IEPL + 住宅 IP，登录注册/风控敏感场景更安心 |
+| [悠兔](https://api.huanghaiwan.com/go/悠兔) | 语音/长连接 | 老牌 IEPL 专线，UDP 友好，Discord 语音不断 |
+| [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) | 入门体验 | 月付低价档，先跑通 Telegram/WhatsApp 再说 |
 
 **选购提示：** 主力日常用 + 登录注册等关键操作锁一个稳定节点，是最省心的组合。别贪便宜用网上流传的「免费线路」或超低价共享中转——社交 App 的登录验证码、账号风控，恰恰最怕 IP 脏和链路抖。
 

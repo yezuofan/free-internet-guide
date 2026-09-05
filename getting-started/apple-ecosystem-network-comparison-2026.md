@@ -41,19 +41,19 @@
 
 ## 7家苹果视角横评
 
-**自由猫（全家桶主力首选）**：MPTCP 多路复用晚高峰抗拥塞，不限设备数，iPhone、iPad、Mac 同时登录不打架。200GB 流量 8 折后月付 ¥15.92，App 下载、iCloud 长连接、AI App 日常访问一套搞定。
+**自由猫（全家桶主力首选）**：MPTCP 多路复用晚高峰抗拥塞，不限设备数，iPhone、iPad、Mac 同时登录不打架。200GB 流量 8 折后月付 ¥15.92，App 下载、iCloud 长连接、AI App 日常访问一套搞定。[👉 访问自由猫官网](https://api.huanghaiwan.com/go/自由猫)
 
-**万达云（外区账号环境最稳）**：IEPL 专线 + 住宅 IP，出口归属稳定。美区 Apple ID 登录、购买、下 App 都不容易被风控盯上；ChatGPT、Claude 这类账号长期登录也稳。在外区账号上投入多的用户比普通中转省心得多。
+**万达云（外区账号环境最稳）**：IEPL 专线 + 住宅 IP，出口归属稳定。美区 Apple ID 登录、购买、下 App 都不容易被风控盯上；ChatGPT、Claude 这类账号长期登录也稳。在外区账号上投入多的用户比普通中转省心得多。[👉 访问万达云官网](https://api.huanghaiwan.com/go/万达云)
 
-**SS-ID（全家桶/Apple TV 网关方案）**：IEPL 网关配置一次，家里的 iPhone、iPad、Mac、Apple TV 全部接管，半年不用再动。适合不想每台设备都装客户端的家庭场景。
+**SS-ID（全家桶/Apple TV 网关方案）**：IEPL 网关配置一次，家里的 iPhone、iPad、Mac、Apple TV 全部接管，半年不用再动。适合不想每台设备都装客户端的家庭场景。[👉 访问SS-ID官网](https://api.huanghaiwan.com/go/SS-ID)
 
-**悠兔（老牌专线性价比）**：自有机房 IEPL 专线，年付折合月付 ¥16.6。iCloud 日常同步、Apple Music、轻量下载都稳，属于"买了就不折腾"的类型。
+**悠兔（老牌专线性价比）**：自有机房 IEPL 专线，年付折合月付 ¥16.6。iCloud 日常同步、Apple Music、轻量下载都稳，属于"买了就不折腾"的类型。[👉 访问悠兔官网](https://api.huanghaiwan.com/go/悠兔)
 
-**MESL（重度用户/团队）**：7 城 PoP 节点、企业级架构，适合下载量大、多设备重度使用或一家人共享的场景，月付 20-30 元档起步。
+**MESL（重度用户/团队）**：7 城 PoP 节点、企业级架构，适合下载量大、多设备重度使用或一家人共享的场景，月付 20-30 元档起步。[👉 访问MESL官网](https://api.huanghaiwan.com/go/MESL)
 
-**SKYLUMO（学生党入门首选）**：月付 ¥6.99 起步，全球 80+ 地区覆盖，先花一杯奶茶钱把外区账号跑通。晚高峰并发表现一般，但日常下 App、同步照片够用。
+**SKYLUMO（学生党入门首选）**：月付 ¥6.99 起步，全球 80+ 地区覆盖，先花一杯奶茶钱把外区账号跑通。晚高峰并发表现一般，但日常下 App、同步照片够用。[👉 访问SKYLUMO官网](https://api.huanghaiwan.com/go/SKYLUMO)
 
-**NXO Earth（顶配兜底）**：¥96-123 月付的高端档位，适合重要账号操作、大文件传输时不想有任何网络意外的场景。
+**NXO Earth（顶配兜底）**：¥96-123 月付的高端档位，适合重要账号操作、大文件传输时不想有任何网络意外的场景。[👉 访问NXO Earth官网](https://api.huanghaiwan.com/go/NXO Earth)
 
 ## 组合方案推荐
 
