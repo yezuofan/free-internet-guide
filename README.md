@@ -88,6 +88,7 @@
 || 76. 🤖 **[Gemini 3.8 Flash 上手教程 2026 →](getting-started/gemini-3-8-flash-guide-2026.md)** Google 9月2日发布，六周内第三代 Flash：编码/智能体/多步推理逼近高价旗舰，价格与 3.7 持平（$0.75/$3.75 每百万 Token 优惠到年底，含思考 Token）。AI Studio 免费体验 + Gemini App 订阅 + API 接入 + Antigravity 编程四条上手路径与选型建议
 || 77. 🍎 **[2026苹果全家桶网络加速横评 →](getting-started/apple-ecosystem-network-comparison-2026.md)** App Store 外区下载转圈、美区 Apple ID 登录不上、iCloud 同步卡住、ChatGPT 等海外 App 打不开？苹果生态五维实测 7 家：外区账号环境（住宅 IP 抗美区风控）/晚高峰下载/长连接同步/多设备覆盖/分流体验；主力自由猫（MPTCP 不限设备 ¥15.92）+ 万达云（住宅 IP 外区账号稳）；组合月均 23-40 元
 || 78. 📱 **[海外社交 App 访问排查教程 2026 →](getting-started/overseas-social-app-access-guide-2026.md)** Telegram 收不到验证码、Discord 语音没声音、WhatsApp 连不上、Instagram 刷不出图片？九成是网络问题。按 App 逐个排查：验证码短信通道被拦就用语音回拨、Discord 语音走 UDP 需开 TUN、Meta 系频繁换 IP 触发风控；附通用五步排查与线路选择（IEPL/UDP 友好）
+|| 79. 🤖 **[GPT-6 Astra 上手指南 2026 →](getting-started/gpt-6-astra-guide-2026.md)** OpenAI 9月4日发布新一代旗舰「星辰」模型：首个以自主干活为核心的 computer-use 智能体，OSWorld 72.6%（Sol 65.7%）、Terminal-Bench 4.0 57.9%、FrontierMath Tier 4 97.6%、ARC-AGI-3 99.9%，并公布素数间隙新证明；API 输入 $10/输出 $50 每百万 Token（Sol 促销价 2.5 倍）；网络安全达 Critical 门槛故公开版受限；ChatGPT Plus 起订阅内可用，附三种上手路径与国内稳定访问选型
 
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥8/月起，100+节点，流媒体全解锁
