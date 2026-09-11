@@ -93,6 +93,7 @@
 || 81. 🤖 **[Claude Fable 5.1 上手指南 2026 →](getting-started/claude-fable-5-1-guide-2026.md)** Anthropic 9/1 新旗舰：缓存读取降价 75% 让典型任务总成本省约 25%、科研 Agent 跑分翻倍（Terminal-Bench-Science 52.6% vs Fable 5 的 24.7%）；讲透四核心变化（缓存降价/护栏误报减 60%/企业 EFS 零保留/反蒸馏限制）、全 benchmark 对比、长时无人值守真实案例，附订阅与 API 上手步骤及与 GPT-6 Astra 的选型对比
 || 82. 🌐 **[IPv6 开关设置指南 2026 →](getting-started/ipv6-settings-guide-2026.md)** 订阅连上了海外网站却打不开/转圈？多半是 IPv6 流量没走加速线路直连出去：主流加速客户端只接管 IPv4，IPv6 走运营商直连又慢又不通，还伴随 IPv6 泄漏（真实地址暴露）。讲清该关还是该留、Clash Verge Rev/ClashX Pro/Stash/Shadowrocket 与 Windows/macOS/Android/路由器各端关闭步骤、test-ipv6 泄漏自查法
 || 83. 🤖 **[AI 办公 Agent 三强对比 2026 →](getting-started/ai-office-agent-comparison-2026.md)** 豆包工作、千问办公、WorkBuddy 在同一个夏天集体转向：从陪你聊天改成替你干活。对比三家定位与能力（多 Agents 并行 / Mac 端操作电脑、零代码多人工作台、开放平台插件化）、计费与适用场景，给出个人与小团队的选型建议，并说明哪些跨境资料检索、海外 SaaS 对接与长时 Agent 任务，仍需 Claude/GPT/Gemini 等海外模型 + 稳定的国际网络链路
+|| 84. 💼 **[2026 秋招网络横评 →](getting-started/job-hunting-network-comparison-2026.md)** 秋招只有一次：线上笔试要双机位同时在线不断线，视频面试要音视频持续连接不抖动，LinkedIn、Workday、HackerRank 这类海外招聘与测评平台要出口 IP 归属稳定不被风控。按笔试面试稳定性、长连接抗抖动、海外平台访问、多设备覆盖、学生预算五个维度横评 7 家跨境网络加速服务（MPTCP、IEPL 专线与住宅 IP 方案），附面试前 24 小时网络自查清单、组合方案与 FAQ
 
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥8/月起，100+节点，流媒体全解锁
