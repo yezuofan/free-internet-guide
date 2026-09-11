@@ -12,7 +12,7 @@
 | 🎬 重度流媒体/TikTok | [万达云](https://api.huanghaiwan.com/go/万达云)（主力）+ [自由猫](https://api.huanghaiwan.com/go/自由猫)（备用） | ¥42-73/月 |
 | 💼 跨境电商/AI工具 | [悠兔](https://api.huanghaiwan.com/go/悠兔)（主力）+ [Cyberguard](https://api.huanghaiwan.com/go/Cyberguard)（备用） | ¥59-89/月 |
 | 💰 预算有限 | [自由猫入门](https://api.huanghaiwan.com/go/自由猫)（主力）+ [龙猫云](https://api.huanghaiwan.com/go/龙猫云)（备用） | ¥29-49/月 |
-| 🏆 极致稳定 | [NXO Earth](https://api.huanghaiwan.com/go/NXO Earth)（主力）+ [悠兔](https://api.huanghaiwan.com/go/悠兔)（备用） | ¥135-195/月 |
+| 🏆 极致稳定 | [NXO Earth](https://api.huanghaiwan.com/go/NXO%20Earth)（主力）+ [悠兔](https://api.huanghaiwan.com/go/悠兔)（备用） | ¥135-195/月 |
 
 ---
 
@@ -128,7 +128,7 @@
 
 | | 推荐 | 月费 | 理由 |
 |:---|:----|:----|:-----|
-| 🏆 **主力** | [NXO Earth](https://api.huanghaiwan.com/go/NXO Earth) | ¥96/月（500GB） | BGP+MPTCP，2000Mbps峰值，顶级线路 |
+| 🏆 **主力** | [NXO Earth](https://api.huanghaiwan.com/go/NXO%20Earth) | ¥96/月（500GB） | BGP+MPTCP，2000Mbps峰值，顶级线路 |
 | 🛡️ **备用** | [悠兔](https://api.huanghaiwan.com/go/悠兔) | ¥39/月（150GB） | IEPL专线，运营多年，低调稳定 |
 
 **总月费：** ¥135/月

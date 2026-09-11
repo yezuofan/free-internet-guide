@@ -32,7 +32,7 @@
 | 4 [SS-ID](https://api.huanghaiwan.com/go/SS-ID) | ¥20起 | IEPL专线 | 60+线路 | ❌ | 5台 | 全天稳定性价比 |
 | 5 [悠兔](https://api.huanghaiwan.com/go/悠兔) | ¥16.6-50/月均 | IEPL专线 | 35+线路 | ❌ | 软性5台 | 企业级自有机房 |
 | 6 [MESL](https://api.huanghaiwan.com/go/MESL) | ¥26起 | IEPL+中转 | 50+线路 | ❌ | 未标注 | 入门友好有团队档 |
-| 7 [NXO Earth](https://api.huanghaiwan.com/go/NXO Earth) | ¥123/月 | Anytls专线 | 2000Mbps | ❌ | 基础2台 | 顶配但贵 |
+| 7 [NXO Earth](https://api.huanghaiwan.com/go/NXO%20Earth) | ¥123/月 | Anytls专线 | 2000Mbps | ❌ | 基础2台 | 顶配但贵 |
 
 ## 逐家点评（跨境运营视角）
 

@@ -130,7 +130,7 @@
 
 **适合谁：** 对价格不敏感、要顶级稳定性的开发者。月费 ¥123 是全场最高，换来的是晚高峰几乎无感的稳定性——适合关键发布、大文件传输、重要演示等不容有失的时刻。1000GB 档对频繁拉镜像、多仓库同步的重度用户也够用。
 
-[👉 访问 NXO Earth 官网](https://api.huanghaiwan.com/go/NXO Earth)
+[👉 访问 NXO Earth 官网](https://api.huanghaiwan.com/go/NXO%20Earth)
 
 ## 组合策略：主力 + 备用双方案
 

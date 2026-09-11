@@ -89,7 +89,7 @@ tags: ["评测", "对比", "流媒体"]
 | 万达云（多区解锁） | [https://api.huanghaiwan.com/go/万达云](https://api.huanghaiwan.com/go/万达云) |
 | SS-ID（网关方案） | [https://api.huanghaiwan.com/go/SS-ID](https://api.huanghaiwan.com/go/SS-ID) |
 | SKYLUMO（入门） | [https://api.huanghaiwan.com/go/SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) |
-| NXO Earth（顶配） | [https://api.huanghaiwan.com/go/NXO Earth](https://api.huanghaiwan.com/go/NXO Earth) |
+| NXO Earth（顶配） | [https://api.huanghaiwan.com/go/NXO%20Earth](https://api.huanghaiwan.com/go/NXO%20Earth) |
 
 原文链接：[https://huanghaiwan.com/posts/streaming-4k-network-comparison-2026/](https://huanghaiwan.com/posts/streaming-4k-network-comparison-2026/)
 

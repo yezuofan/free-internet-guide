@@ -16,7 +16,7 @@
 
 **一句话：** 线路品质没缩水，但月付涨价明显；年付折合 ¥96.46/月回到原价，能年付就别月付。
 
-[👉 访问 NXO Earth](https://api.huanghaiwan.com/go/NXO Earth)
+[👉 访问 NXO Earth](https://api.huanghaiwan.com/go/NXO%20Earth)
 
 ## 协议切换：为什么只剩 Anytls
 
@@ -75,7 +75,7 @@
 
 | 需求 | 推荐 | 月费参考 |
 |:----|:-----|:--------|
-| 专线品质 + 家庭影音 | [NXO Earth](https://api.huanghaiwan.com/go/NXO Earth) | ¥96-123 |
+| 专线品质 + 家庭影音 | [NXO Earth](https://api.huanghaiwan.com/go/NXO%20Earth) | ¥96-123 |
 | 性价比主力 | [自由猫](https://api.huanghaiwan.com/go/自由猫) | ¥8-59.9 |
 | 入门轻量 | [悠兔](https://api.huanghaiwan.com/go/悠兔) | ¥15 起 |
 | 均衡专线 | [Cyberguard](https://api.huanghaiwan.com/go/Cyberguard) | ¥20 档 |

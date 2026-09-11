@@ -17,7 +17,7 @@ tags: ["评测", "对比"]
 | 🏠 **不想每台设备折腾** | [SS-ID](https://api.huanghaiwan.com/go/SS-ID) | [自由猫](https://api.huanghaiwan.com/go/自由猫) | 路由器网关全家走专线，配置一次管半年 |
 | 💰 **预算敏感家庭** | [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) | [悠兔](https://api.huanghaiwan.com/go/悠兔) | ¥6.99 入门+不限设备 |
 | 📺 **电视+盒子重度使用** | [自由猫](https://api.huanghaiwan.com/go/自由猫) | [万达云](https://api.huanghaiwan.com/go/万达云) | 多平台客户端全，4K 不卡 |
-| 💎 **预算充足要顶配** | [NXO Earth](https://api.huanghaiwan.com/go/NXO Earth) | [MESL](https://api.huanghaiwan.com/go/MESL) | 专线质量拉满，关键场景稳 |
+| 💎 **预算充足要顶配** | [NXO Earth](https://api.huanghaiwan.com/go/NXO%20Earth) | [MESL](https://api.huanghaiwan.com/go/MESL) | 专线质量拉满，关键场景稳 |
 
 ## 一、为什么家庭网络不能随便选
 
@@ -45,7 +45,7 @@ tags: ["评测", "对比"]
 | 4 [万达云](https://api.huanghaiwan.com/go/万达云) | ¥16.8-93 | IEPL+住宅IP | 70+线路 | 5台起 | ⭐⭐⭐⭐ | 住宅IP，多设备共享稳 |
 | 5 [MESL](https://api.huanghaiwan.com/go/MESL) | ¥26起 | Premium IEPL | 50+线路 | 未标注 | ⭐⭐⭐⭐ | 企业级架构，重度用户稳 |
 | 6 [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) | ¥6.99-40 | BGP+专线 | 80+国家 | 不限 | ⭐⭐⭐ | 低价入门，全球覆盖广 |
-| 7 [NXO Earth](https://api.huanghaiwan.com/go/NXO Earth) | ¥123/月 | Anytls专线 | 2000Mbps | 基础2台 | ⭐⭐⭐⭐⭐ | 顶配，家庭场景偏贵 |
+| 7 [NXO Earth](https://api.huanghaiwan.com/go/NXO%20Earth) | ¥123/月 | Anytls专线 | 2000Mbps | 基础2台 | ⭐⭐⭐⭐⭐ | 顶配，家庭场景偏贵 |
 
 ## 三、逐家点评：家庭视角
 
@@ -84,7 +84,7 @@ NXO Earth 是 Anytls 专线，2000Mbps 带宽，稳定拉满，但 **¥123/月 +
 | 💰 预算型 | [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) ¥6.99 起步 + [悠兔](https://api.huanghaiwan.com/go/悠兔) 年付 | ¥25 以内 | 预算紧张、用量轻 |
 | ⚖️ 标准型 | [自由猫](https://api.huanghaiwan.com/go/自由猫) ¥25-59.9 档 | ¥25-60 | 多数家庭首选，不限设备 |
 | 🛋️ 省心型 | [SS-ID](https://api.huanghaiwan.com/go/SS-ID) 路由器网关 | ¥20-40 | 不想折腾、设备 ≤5 台 |
-| 💎 顶配型 | [NXO Earth](https://api.huanghaiwan.com/go/NXO Earth) 或 [MESL](https://api.huanghaiwan.com/go/MESL) | ¥100+ | 预算充足、要稳定上限 |
+| 💎 顶配型 | [NXO Earth](https://api.huanghaiwan.com/go/NXO%20Earth) 或 [MESL](https://api.huanghaiwan.com/go/MESL) | ¥100+ | 预算充足、要稳定上限 |
 
 **组合拳建议**：日常全家共享走自由猫（不限设备+抗抖动），外贸/海外账号长期登录用万达云（住宅 IP 稳），月均 ¥60 左右覆盖"全家流畅 + 账号稳定"。
 

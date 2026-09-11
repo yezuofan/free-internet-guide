@@ -12,7 +12,7 @@
 | 🎮 **主机联机（PS5/Xbox/Switch）** | [SS-ID](https://api.huanghaiwan.com/go/SS-ID) | [悠兔](https://api.huanghaiwan.com/go/悠兔) | IEPL 专线稳定，走路由器网关全家设备覆盖 |
 | 📱 **手游外服（原神国际服/PUBG Mobile）** | [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) | [自由猫](https://api.huanghaiwan.com/go/自由猫) | 低价+不限时包，手机随时切线路 |
 | 📥 **Steam 下载/商店/云存档** | [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) | [自由猫](https://api.huanghaiwan.com/go/自由猫) | ¥99 不限时流量包，下载不心疼流量 |
-| 💎 **预算充足要顶配** | [NXO Earth](https://api.huanghaiwan.com/go/NXO Earth) | [悠兔](https://api.huanghaiwan.com/go/悠兔) | 2000Mbps 专线，延迟和稳定性拉满 |
+| 💎 **预算充足要顶配** | [NXO Earth](https://api.huanghaiwan.com/go/NXO%20Earth) | [悠兔](https://api.huanghaiwan.com/go/悠兔) | 2000Mbps 专线，延迟和稳定性拉满 |
 
 ## 为什么游戏网络不能随便选
 
@@ -35,7 +35,7 @@
 | 4 [万达云](https://api.huanghaiwan.com/go/万达云) | ¥16.8-93 | IEPL+住宅IP | 70+线路 | 5台起 | ⭐⭐⭐⭐ | MPTCP 新增，多区域覆盖 |
 | 5 [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) | ¥6.99-40 | BGP+专线 | 80+国家 | 不限 | ⭐⭐⭐ | 全球覆盖最广，手游自由切 |
 | 6 [MESL](https://api.huanghaiwan.com/go/MESL) | ¥26起 | Premium IEPL | 50+线路 | 未标注 | ⭐⭐⭐⭐ | 企业级架构，7城PoP |
-| 7 [NXO Earth](https://api.huanghaiwan.com/go/NXO Earth) | ¥123/月 | Anytls专线 | 2000Mbps | 基础2台 | ⭐⭐⭐⭐⭐ | 顶配，预算党绕行 |
+| 7 [NXO Earth](https://api.huanghaiwan.com/go/NXO%20Earth) | ¥123/月 | Anytls专线 | 2000Mbps | 基础2台 | ⭐⭐⭐⭐⭐ | 顶配，预算党绕行 |
 
 ## 逐家点评要点
 
@@ -59,7 +59,7 @@
 |:------|:-----|:--------|:-----|
 | 🌱 **入门**（<¥30/月） | [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) 入门档 或 [自由猫](https://api.huanghaiwan.com/go/自由猫) ¥8档 | ¥7-15 | 轻度游戏、手游外服 |
 | ⚡ **进阶**（¥30-60/月） | [自由猫](https://api.huanghaiwan.com/go/自由猫) ¥32.8档 + [SS-ID](https://api.huanghaiwan.com/go/SS-ID) 备用 | ¥32.8-40 | 竞技主力、主机联机 |
-| 💎 **顶配**（¥100+/月） | [NXO Earth](https://api.huanghaiwan.com/go/NXO Earth) 或 [悠兔](https://api.huanghaiwan.com/go/悠兔) 专业版 | ¥100-123 | 硬核竞技、预算充足 |
+| 💎 **顶配**（¥100+/月） | [NXO Earth](https://api.huanghaiwan.com/go/NXO%20Earth) 或 [悠兔](https://api.huanghaiwan.com/go/悠兔) 专业版 | ¥100-123 | 硬核竞技、预算充足 |
 
 **组合拳：** 竞技主力自由猫（MPTCP 抗丢包）+ 下载/手游用 SKYLUMO 不限时包（¥99 买断），月均不到 ¥50 覆盖全部游戏场景。
 
@@ -95,6 +95,6 @@ A：自由猫 ¥59.9 档不限设备 4-6 人合开人均 ¥10-15/月；SKYLUMO �
 - **竞技射击/开黑** → [自由猫](https://api.huanghaiwan.com/go/自由猫)
 - **主机联机/家庭网关** → [SS-ID](https://api.huanghaiwan.com/go/SS-ID) 或 [悠兔](https://api.huanghaiwan.com/go/悠兔)
 - **手游外服/Steam 下载** → [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO)
-- **预算充足要顶配** → [NXO Earth](https://api.huanghaiwan.com/go/NXO Earth)
+- **预算充足要顶配** → [NXO Earth](https://api.huanghaiwan.com/go/NXO%20Earth)
 
 先从入门档试起，实测晚高峰延迟和丢包再决定升级——选对服务比买贵的服务更重要。

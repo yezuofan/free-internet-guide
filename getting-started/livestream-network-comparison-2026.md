@@ -10,7 +10,7 @@
 | 🎥 **跨境直播推流（YouTube/Twitch）** | [SS-ID](https://api.huanghaiwan.com/go/SS-ID) | [悠兔](https://api.huanghaiwan.com/go/悠兔) | IEPL 专线上行稳定，独享带宽抖动可控 |
 | 📱 **海外看国内直播（抖音/B站）** | [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) | [自由猫](https://api.huanghaiwan.com/go/自由猫) | 全球节点就近接入，反向加速国内平台 |
 | 💻 **多人连线直播/视频会议** | [自由猫](https://api.huanghaiwan.com/go/自由猫) | [万达云](https://api.huanghaiwan.com/go/万达云) | 设备数宽松，晚高峰双向稳定 |
-| 💎 **预算充足要顶配** | [NXO Earth](https://api.huanghaiwan.com/go/NXO Earth) | [悠兔](https://api.huanghaiwan.com/go/悠兔) | 2000Mbps 专线，上行带宽拉满 |
+| 💎 **预算充足要顶配** | [NXO Earth](https://api.huanghaiwan.com/go/NXO%20Earth) | [悠兔](https://api.huanghaiwan.com/go/悠兔) | 2000Mbps 专线，上行带宽拉满 |
 
 ## 为什么直播网络不能随便选
 
@@ -33,7 +33,7 @@
 | 4 [万达云](https://api.huanghaiwan.com/go/万达云) | ¥16.8-93 | IEPL+住宅IP | 5台起 | ⭐⭐⭐⭐ | 住宅IP，账号环境友好 |
 | 5 [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) | ¥6.99-40 | BGP+专线 | 不限 | ⭐⭐⭐ | 全球覆盖广，观众视角自由切 |
 | 6 [MESL](https://api.huanghaiwan.com/go/MESL) | ¥26起 | Premium IEPL | 未标注 | ⭐⭐⭐⭐ | 企业级架构，7城PoP |
-| 7 [NXO Earth](https://api.huanghaiwan.com/go/NXO Earth) | ¥123/月 | Anytls专线 | 基础2台 | ⭐⭐⭐⭐⭐ | 顶配，上行带宽拉满 |
+| 7 [NXO Earth](https://api.huanghaiwan.com/go/NXO%20Earth) | ¥123/月 | Anytls专线 | 基础2台 | ⭐⭐⭐⭐⭐ | 顶配，上行带宽拉满 |
 
 ## 三档配置方案
 
@@ -41,7 +41,7 @@
 |:------|:-----|:--------|:-----|
 | 🌱 **入门**（<¥30/月） | [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) 入门档 或 [自由猫](https://api.huanghaiwan.com/go/自由猫) ¥8档 | ¥7-15 | 轻量开播、试水、观众视角 |
 | ⚡ **进阶**（¥30-60/月） | [自由猫](https://api.huanghaiwan.com/go/自由猫) ¥32.8档 + [SS-ID](https://api.huanghaiwan.com/go/SS-ID) 备用 | ¥32.8-40 | 直播带货主力、跨境推流 |
-| 💎 **顶配**（¥100+/月） | [NXO Earth](https://api.huanghaiwan.com/go/NXO Earth) 或 [悠兔](https://api.huanghaiwan.com/go/悠兔) 专业版 | ¥100-123 | 大场次、硬核稳定、预算充足 |
+| 💎 **顶配**（¥100+/月） | [NXO Earth](https://api.huanghaiwan.com/go/NXO%20Earth) 或 [悠兔](https://api.huanghaiwan.com/go/悠兔) 专业版 | ¥100-123 | 大场次、硬核稳定、预算充足 |
 
 **组合拳建议：** 推流走自由猫（MPTCP 抗抖动）+ 账号登录用万达云（住宅 IP 环境稳），两者叠加月均不到 ¥60，正好覆盖"推流 + 登录"两段链路。
 
@@ -71,7 +71,7 @@
 - **跨境推流/稳定优先** → [SS-ID](https://api.huanghaiwan.com/go/SS-ID) 或 [悠兔](https://api.huanghaiwan.com/go/悠兔)（IEPL 专线稳定）
 - **账号环境/住宅 IP** → [万达云](https://api.huanghaiwan.com/go/万达云)（推流+账号一鱼两吃）
 - **观众视角/轻量开播** → [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO)（¥99 不限时包）
-- **预算充足要顶配** → [NXO Earth](https://api.huanghaiwan.com/go/NXO Earth)
+- **预算充足要顶配** → [NXO Earth](https://api.huanghaiwan.com/go/NXO%20Earth)
 
 先从入门档试播，实测晚高峰推流和抖动再决定升级——选对服务比买贵的服务更重要。
 

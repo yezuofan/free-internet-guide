@@ -76,7 +76,7 @@ IEPL 网关配置一次，宿舍全屋、实验室多人共享，半年不用再
 
 ### NXO Earth — 顶配冲刺
 
-¥96-123 月付的高端档位，适合关键投稿、顶刊冲刺时不想有任何网络意外的场景。平时用不上，关键时刻靠得住。[👉 访问NXO Earth官网](https://api.huanghaiwan.com/go/NXO Earth)
+¥96-123 月付的高端档位，适合关键投稿、顶刊冲刺时不想有任何网络意外的场景。平时用不上，关键时刻靠得住。[👉 访问NXO Earth官网](https://api.huanghaiwan.com/go/NXO%20Earth)
 
 ---
 

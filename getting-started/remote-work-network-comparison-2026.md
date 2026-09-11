@@ -11,7 +11,7 @@
 | 🌐 **SaaS 海外工具（GitHub/Figma/Notion）** | [自由猫](https://api.huanghaiwan.com/go/自由猫) | [万达云](https://api.huanghaiwan.com/go/万达云) | 晚高峰稳定，长连接不掉线 |
 | 📧 **外贸/海外客户会议** | [万达云](https://api.huanghaiwan.com/go/万达云) | [悠兔](https://api.huanghaiwan.com/go/悠兔) | 住宅IP+专线，双向带宽稳 |
 | 🧑‍💻 **海外出差/反向访问国内** | [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) | [自由猫](https://api.huanghaiwan.com/go/自由猫) | 全球节点就近接入 |
-| 💎 **预算充足要顶配** | [NXO Earth](https://api.huanghaiwan.com/go/NXO Earth) | [悠兔](https://api.huanghaiwan.com/go/悠兔) | 2000Mbps 专线，稳定拉满 |
+| 💎 **预算充足要顶配** | [NXO Earth](https://api.huanghaiwan.com/go/NXO%20Earth) | [悠兔](https://api.huanghaiwan.com/go/悠兔) | 2000Mbps 专线，稳定拉满 |
 
 ## 为什么远程办公网络不能随便选
 
@@ -35,7 +35,7 @@
 | 4 [悠兔](https://api.huanghaiwan.com/go/悠兔) | ¥16.6-50/月均 | IEPL专线 | 软性5台 | ⭐⭐⭐⭐ | 老牌专线，香港节点低延迟 |
 | 5 [MESL](https://api.huanghaiwan.com/go/MESL) | ¥26起 | Premium IEPL | 未标注 | ⭐⭐⭐⭐ | 企业级架构，7城PoP |
 | 6 [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) | ¥6.99-40 | BGP+专线 | 不限 | ⭐⭐⭐ | 全球覆盖广，出差反向加速 |
-| 7 [NXO Earth](https://api.huanghaiwan.com/go/NXO Earth) | ¥123/月 | Anytls专线 | 基础2台 | ⭐⭐⭐⭐⭐ | 顶配，为稳定充值 |
+| 7 [NXO Earth](https://api.huanghaiwan.com/go/NXO%20Earth) | ¥123/月 | Anytls专线 | 基础2台 | ⭐⭐⭐⭐⭐ | 顶配，为稳定充值 |
 
 ## 逐家点评（办公视角）
 
@@ -59,7 +59,7 @@
 |:------|:-----|:--------|:-----|
 | 🌱 **入门**（<¥30/月） | [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) 入门档 或 [自由猫](https://api.huanghaiwan.com/go/自由猫) ¥8-19.9档 | ¥7-20 | 轻量办公、偶尔开会 |
 | ⚡ **进阶**（¥30-60/月） | [自由猫](https://api.huanghaiwan.com/go/自由猫) ¥32.8档 + [万达云](https://api.huanghaiwan.com/go/万达云) 备用 | ¥32.8-50 | 会议主力、外贸办公 |
-| 💎 **顶配**（¥100+/月） | [NXO Earth](https://api.huanghaiwan.com/go/NXO Earth) 或 [悠兔](https://api.huanghaiwan.com/go/悠兔) 专业版 | ¥100-123 | 重要客户会议、预算充足 |
+| 💎 **顶配**（¥100+/月） | [NXO Earth](https://api.huanghaiwan.com/go/NXO%20Earth) 或 [悠兔](https://api.huanghaiwan.com/go/悠兔) 专业版 | ¥100-123 | 重要客户会议、预算充足 |
 
 **组合拳建议：** 日常会议和工具访问走自由猫（MPTCP 抗抖动），登录外贸账号/广告后台用万达云（住宅 IP 环境稳），月均 ¥60 左右覆盖"会议稳定 + 账号稳定"。
 
@@ -94,6 +94,6 @@
 - **外贸/账号环境** → [万达云](https://api.huanghaiwan.com/go/万达云)（住宅 IP 一鱼两吃）
 - **年付党/预算友好** → [悠兔](https://api.huanghaiwan.com/go/悠兔)（老牌专线）
 - **出差/反向访问国内** → [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO)（全球覆盖）
-- **预算充足要顶配** → [NXO Earth](https://api.huanghaiwan.com/go/NXO Earth)
+- **预算充足要顶配** → [NXO Earth](https://api.huanghaiwan.com/go/NXO%20Earth)
 
 先从入门档试一个月，实测晚高峰会议和文件传输再决定升级——办公效率是一天一天攒出来的，选对服务比买贵的服务更重要。

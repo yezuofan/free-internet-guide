@@ -53,7 +53,7 @@
 
 **SKYLUMO（学生党入门首选）**：月付 ¥6.99 起步，全球 80+ 地区覆盖，先花一杯奶茶钱把外区账号跑通。晚高峰并发表现一般，但日常下 App、同步照片够用。[👉 访问SKYLUMO官网](https://api.huanghaiwan.com/go/SKYLUMO)
 
-**NXO Earth（顶配兜底）**：¥96-123 月付的高端档位，适合重要账号操作、大文件传输时不想有任何网络意外的场景。[👉 访问NXO Earth官网](https://api.huanghaiwan.com/go/NXO Earth)
+**NXO Earth（顶配兜底）**：¥96-123 月付的高端档位，适合重要账号操作、大文件传输时不想有任何网络意外的场景。[👉 访问NXO Earth官网](https://api.huanghaiwan.com/go/NXO%20Earth)
 
 ## 组合方案推荐
 

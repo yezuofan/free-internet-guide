@@ -50,9 +50,9 @@
 | 不想装客户端、网关方案 | IEPL 专线 | [SS-ID](https://api.huanghaiwan.com/go/SS-ID) | ¥20起/月 |
 | 长期登录海外账号 | 家宽/住宅IP | [万达云](https://api.huanghaiwan.com/go/万达云)（IEPL+住宅IP） | ¥16.8起/月 |
 | 预算紧张起步 | BGP+中转 | [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) | ¥6.99起/月 |
-| 顶配稳定、预算充足 | 专线高配 | [NXO Earth](https://api.huanghaiwan.com/go/NXO Earth)（Anytls 专线） | ¥123/月 |
+| 顶配稳定、预算充足 | 专线高配 | [NXO Earth](https://api.huanghaiwan.com/go/NXO%20Earth)（Anytls 专线） | ¥123/月 |
 
-**按线路类型总结：** 首选 IEPL → [自由猫](https://api.huanghaiwan.com/go/自由猫)（IEPL+MPTCP，晚高峰抗抖动好）；老牌省心 → [悠兔](https://api.huanghaiwan.com/go/悠兔)（年付折合 ¥16.6/月）；账号安全 → [万达云](https://api.huanghaiwan.com/go/万达云)（住宅 IP）；零折腾 → [SS-ID](https://api.huanghaiwan.com/go/SS-ID)（路由器网关）；入门起步 → [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO)（¥6.99 起）；顶配 → [NXO Earth](https://api.huanghaiwan.com/go/NXO Earth)。
+**按线路类型总结：** 首选 IEPL → [自由猫](https://api.huanghaiwan.com/go/自由猫)（IEPL+MPTCP，晚高峰抗抖动好）；老牌省心 → [悠兔](https://api.huanghaiwan.com/go/悠兔)（年付折合 ¥16.6/月）；账号安全 → [万达云](https://api.huanghaiwan.com/go/万达云)（住宅 IP）；零折腾 → [SS-ID](https://api.huanghaiwan.com/go/SS-ID)（路由器网关）；入门起步 → [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO)（¥6.99 起）；顶配 → [NXO Earth](https://api.huanghaiwan.com/go/NXO%20Earth)。
 
 ## FAQ
 
