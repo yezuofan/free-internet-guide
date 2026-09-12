@@ -94,6 +94,7 @@
 || 82. 🌐 **[IPv6 开关设置指南 2026 →](getting-started/ipv6-settings-guide-2026.md)** 订阅连上了海外网站却打不开/转圈？多半是 IPv6 流量没走加速线路直连出去：主流加速客户端只接管 IPv4，IPv6 走运营商直连又慢又不通，还伴随 IPv6 泄漏（真实地址暴露）。讲清该关还是该留、Clash Verge Rev/ClashX Pro/Stash/Shadowrocket 与 Windows/macOS/Android/路由器各端关闭步骤、test-ipv6 泄漏自查法
 || 83. 🤖 **[AI 办公 Agent 三强对比 2026 →](getting-started/ai-office-agent-comparison-2026.md)** 豆包工作、千问办公、WorkBuddy 在同一个夏天集体转向：从陪你聊天改成替你干活。对比三家定位与能力（多 Agents 并行 / Mac 端操作电脑、零代码多人工作台、开放平台插件化）、计费与适用场景，给出个人与小团队的选型建议，并说明哪些跨境资料检索、海外 SaaS 对接与长时 Agent 任务，仍需 Claude/GPT/Gemini 等海外模型 + 稳定的国际网络链路
 || 84. 💼 **[2026 秋招网络横评 →](getting-started/job-hunting-network-comparison-2026.md)** 秋招只有一次：线上笔试要双机位同时在线不断线，视频面试要音视频持续连接不抖动，LinkedIn、Workday、HackerRank 这类海外招聘与测评平台要出口 IP 归属稳定不被风控。按笔试面试稳定性、长连接抗抖动、海外平台访问、多设备覆盖、学生预算五个维度横评 7 家跨境网络加速服务（MPTCP、IEPL 专线与住宅 IP 方案），附面试前 24 小时网络自查清单、组合方案与 FAQ
+|| 85. 🔐 **[ECH 科普：HTTPS 都加密了，为什么还看得出你在访问哪个网站 →](getting-started/ech-sni-encryption-guide-2026.md)** 小锁只锁内容不锁「你要找谁」：TLS 握手第一阶段的 SNI 域名一直是明文，运营商与局域网监听者据此就能拼出访问轨迹。讲清 ECH 的内外双层 ClientHello 怎么工作（外层只留 CDN 公开名称、内层加密真实域名、GREASE 兜底防降级）、RFC 9849 定稿与安卓 17/OpenSSL 4.0 的支持进展、ECH 与 TLS 指纹（JA3/JA4/uTLS）到底差在哪，以及各端 ECH 检查方法与「IP 依然可见、不改变链路质量」的现实边界
 
 || 太长不看版：
 1) **首选自由猫**，叶老大自用主力，¥8/月起，100+节点，流媒体全解锁
