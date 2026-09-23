@@ -84,7 +84,7 @@
 
 ### ⚙️ 场景四：技术用户 / 定制需求
 
-**推荐：[太极](https://xn--tfrza853d44tvst.xyz/register?code=JjW59PTY / [NXO Earth](https://nxonearth.com/signupbyemail.aspx?MemberCode=JjW59PTY)**
+**推荐：[NXO Earth（太极）](https://nxonearth.com/signupbyemail.aspx?MemberCode=JjW59PTY)**
 
 **适合你：**
 - 需要 V2ray / Trojan / Shadowsocks 多种协议
