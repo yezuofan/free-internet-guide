@@ -1,6 +1,6 @@
 # 海螺AI 免费使用指南 2026：每天白送的额度怎么花，本地跑要多少显存
 
-> 本文最初发布于 [huanghaiwan.com](https://huanghaiwan.com/posts/hailuo-ai-free-guide/)
+> 本文最初发布于 [huanghaiwan.com](https://huanghaiwan.com/ai/hailuo-ai-free-guide/)
 
 先说一件容易踩空的事：**「海螺AI」这个叫法已经淡了，官方 App 现在直接叫 MiniMax。**按老名字去找的人，不少以为产品下线了。实际上它不但还在，2026 年 7 月 31 日还发了新一代模型 H3，8 月初把权重开源了出来——同一个月里，它既把云端能力往前推了一截，又把自己送进了「能下载到本机跑」的名单。
 
