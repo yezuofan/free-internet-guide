@@ -119,6 +119,6 @@ IEPL 网关配置一次，宿舍全屋、实验室多人共享，半年不用再
 预算紧张先上 SKYLUMO 入门；考研主力推荐自由猫（MPTCP 抗晚高峰 + 不限设备）；需要长期登录学术账号的加万达云（住宅 IP 环境稳）。组合方案月均 23-40 元，一顿饭钱换一整年的稳定查文献体验。
 
 - [留学生跨境网络怎么选](https://huanghaiwan.com/posts/overseas-student-network-guide-2026/)
-- [学生党AI工具预算指南](https://huanghaiwan.com/posts/student-ai-budget-guide-2026/)
+- [学生党AI工具预算指南](https://huanghaiwan.com/ai/student-ai-budget-guide-2026/)
 - [网络测速与速度优化指南](https://huanghaiwan.com/posts/network-speed-test-guide-2026/)
 - [跨境网络服务性价比选购指南](https://huanghaiwan.com/posts/airport-value-guide-2026/)

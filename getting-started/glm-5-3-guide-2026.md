@@ -73,4 +73,4 @@
 
 GLM-5.3 是 2026 年 8 月国产模型混战里性价比很高的一张牌：不换基座纯靠后训练，编程能力冲上开源第一，还白捡一个网络安全技能树。两周后开源权重是最大变量——本地部署、微调、自托管届时全部解锁，价格敏感型团队值得等。
 
-相关教程：[DeepSeek V4 Pro 正式版指南 2026](https://huanghaiwan.com/ai/deepseek-v4-pro-guide-2026/) ｜ [Kimi K3 指南 2026](https://huanghaiwan.com/ai/kimi-k3-guide-2026/) ｜ [Grok 4.6 发布评测](https://huanghaiwan.com/posts/grok-4-6-release-review-2026/) ｜ [DeepSeek Harness 上手指南](https://huanghaiwan.com/ai/deepseek-harness-guide-2026/)
+相关教程：[DeepSeek V4 Pro 正式版指南 2026](https://huanghaiwan.com/ai/deepseek-v4-pro-guide-2026/) ｜ [Kimi K3 指南 2026](https://huanghaiwan.com/ai/kimi-k3-guide-2026/) ｜ [Grok 4.6 发布评测](https://huanghaiwan.com/ai/grok-4-6-release-review-2026/) ｜ [DeepSeek Harness 上手指南](https://huanghaiwan.com/ai/deepseek-harness-guide-2026/)
