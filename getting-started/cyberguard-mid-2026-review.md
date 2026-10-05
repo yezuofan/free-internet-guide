@@ -1,6 +1,6 @@
 # Cyberguard 机场 2026 年中更新评测：多线路 IEPL 升级，¥18/月起
 
-> 📅 更新日期：2026-07-22 | 博客原文：[huanghaiwan.com/ai/cyberguard-mid-2026-review/](https://huanghaiwan.com/posts/cyberguard-mid-2026-review/)
+> 📅 更新日期：2026-07-22 | 博客原文：[huanghaiwan.com/posts/cyberguard-mid-2026-review/](https://huanghaiwan.com/posts/cyberguard-mid-2026-review/)
 
 ---
 
