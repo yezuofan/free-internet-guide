@@ -301,7 +301,7 @@ Cursor 需要访问海外 AI 服务（Claude、GPT-4o）。国内用户需要稳
 | 网络工具（低延迟） | ⭐⭐⭐⭐⭐ | ~¥20-30 | 稳定连接 Cursor 服务，香港节点延迟最低 |
 | API 中转 | ⭐⭐⭐ | ¥15-50/按量 | 技术门槛高，不适合新手 |
 
-**推荐网络工具：** 需要稳定、低延迟的网络工具来保证 Cursor 的正常使用。👉 [点击查看推荐的网络工具 →](https://hongxingyun.club/web/#/register?code=OBEi3O69)
+**推荐网络工具：** 需要稳定、低延迟的网络工具来保证 Cursor 的正常使用。👉 [点击查看推荐的网络工具 →](https://hx13s.cc/web/#/register?code=OBEi3O69)
 
 ### Q5: Cursor 支持远程开发吗？
 支持。Cursor 完美兼容 VS Code 的 Remote SSH 和 Dev Containers 插件。本地运行 Cursor，代码在远程服务器，体验和本地完全一致。

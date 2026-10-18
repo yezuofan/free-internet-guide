@@ -42,7 +42,7 @@
 | **龙猫云** | ¥15/月起(100G) | 全IPLC专线，原生IP，AI对话低延迟 | [👉 访问官网](https://www.longmao.biz/web/#/register?aff=dqNRmvru) |
 | **万达云** | ¥16.8/月(150G) | IEPL专线，住宅IP，TikTok+AI双用 | [👉 访问官网](https://wandayun.me/web/#/register?code=6z6PNS5r) |
 | **WgetCloud** | ¥89/月(280G) | 精品专线500Mbps，SLA保障，商务首选 | [👉 访问官网](https://wgetcloud.com/web/#/register?code=djq10H) |
-| **瑶瑶领先** | ¥15/月(100G) | 全IEPL专线，AI工具+流媒体解锁 | [👉 访问官网](https://yaoyaolingxian.com/web/#/register?code=d326dda059) |
+| **瑶瑶领先** | ¥15/月(100G) | 全IEPL专线，AI工具+流媒体解锁 | [👉 访问官网](https://yyssr.org/auth/register?code=d326dda059) |
 
 **方案二（免费/轻量）：使用API中转服务**
 如果只是偶尔用AI，不追求访问其他海外网站，可以用API中转服务。上手难度较高但费用更低。

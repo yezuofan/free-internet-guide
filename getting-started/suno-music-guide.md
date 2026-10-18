@@ -351,7 +351,7 @@ Suno 音乐生成需要：
 
 断线会导致生成中断，已生成的部分可能丢失。
 
-👉 [悠兔 YouTu](https://youtu.lol/register?code=Vfs3Qqkm) — IEPL专线+多隧道入口，晚高峰依然稳定，¥24.9/月起。新用户实测刷Suno流畅。
+👉 [悠兔 YouTu](https://666.youtu6.shop/register?code=Vfs3Qqkm) — IEPL专线+多隧道入口，晚高峰依然稳定，¥24.9/月起。新用户实测刷Suno流畅。
 
 👉 [贝贝云 Beibei](https://777.2beibei.com/#/register?code=qwqDFEUW) — 多隧道入口中转机场，¥24.9/月起，适合备用。
 
@@ -402,9 +402,9 @@ Suno 音乐生成需要：
 | 机场 | 特点 | 价格起点 | 推荐度 |
 |:----|:-----|:--------|:------:|
 | [自由猫 Freecat](https://freecat.cloud/register?code=USRIiAoO) | 100+节点，MPTCP多路复用，晚高峰稳 | ¥8/月 | ⭐⭐⭐⭐⭐ |
-| [悠兔 YouTu](https://youtu.lol/register?code=Vfs3Qqkm) | IEPL专线，多隧道入口 | ¥24.9/月 | ⭐⭐⭐⭐ |
+| [悠兔 YouTu](https://666.youtu6.shop/register?code=Vfs3Qqkm) | IEPL专线，多隧道入口 | ¥24.9/月 | ⭐⭐⭐⭐ |
 | [贝贝云 Beibei](https://777.2beibei.com/#/register?code=qwqDFEUW) | 多隧道中转，性价比 | ¥24.9/月 | ⭐⭐⭐⭐ |
-| [红杏云 Hongxingyun](https://hongxingyun.club/web/#/register?code=OBEi3O69) | 不限时流量包，用完为止 | ¥20/月 | ⭐⭐⭐⭐ |
+| [红杏云 Hongxingyun](https://hx13s.cc/web/#/register?code=OBEi3O69) | 不限时流量包，用完为止 | ¥20/月 | ⭐⭐⭐⭐ |
 
 ### AI工具配套
 

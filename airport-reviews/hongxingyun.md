@@ -16,7 +16,7 @@
 | 第三方导入 | 支持（Clash/Surge/Stash等） |
 | 软路由支持 | 支持（OpenWrt/iStoreOS等） |
 | 流媒体解锁 | 待实测确认 |
-| 官网 | [红杏云官网](https://hongxingyun.club/web/#/register?code=OBEi3O69) |
+| 官网 | [红杏云官网](https://hx13s.cc/web/#/register?code=OBEi3O69) |
 
 ---
 
@@ -126,7 +126,7 @@
 
 不过如果你每天重度使用、看4K视频、打游戏，那还是选龙猫云或万达云这类有专线月付机场体验更好。
 
-[👉 立即注册红杏云 →](https://hongxingyun.club/web/#/register?code=OBEi3O69)
+[👉 立即注册红杏云 →](https://hx13s.cc/web/#/register?code=OBEi3O69)
 
 ---
 

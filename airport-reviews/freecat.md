@@ -24,7 +24,7 @@
 | 支付方式 | 支付宝、微信 |
 
 **官网地址：** [👉 访问官网](https://api.huanghaiwan.com/go/自由猫)
-**备用入口：** [👉 备用地址](https://freecat.net/register?code=USRIiAoO)
+**备用入口：** [👉 备用地址](https://freecat.cloud/register?code=USRIiAoO)
 
 ---
 

@@ -129,9 +129,9 @@ Trojan协议是目前的主流，新手认准这个。
 | 机场 | 月费 | 特点 | 注册 |
 |:----|:----|:----|:-----|
 | 自由猫 | ¥18/100GB | IEPL专线，100+节点，MPTCP多路复用 | [👉 注册](https://freecat.cloud/register?code=USRIiAoO) |
-| 红杏云 | ¥20/200GB | 老牌专线，全节点低延迟 | [👉 注册](https://hongxingyun.club/web/#/register?code=OBEi3O69) |
+| 红杏云 | ¥20/200GB | 老牌专线，全节点低延迟 | [👉 注册](https://hx13s.cc/web/#/register?code=OBEi3O69) |
 | WGetCloud | ¥89/280GB | 精品专线500Mbps，SLA保障 | [👉 注册](https://wgetcloud.com/web/#/register?code=djq10H) |
-| 悠兔 | ¥22/200GB | IPLC专线，家宽节点，流媒体全解锁 | [👉 注册](https://youtu.lol/register?code=Vfs3Qqkm) |
+| 悠兔 | ¥22/200GB | IPLC专线，家宽节点，流媒体全解锁 | [👉 注册](https://666.youtu6.shop/register?code=Vfs3Qqkm) |
 | 贝贝云 | ¥15/100GB | 中转入门，月付灵活 | [👉 注册](https://777.2beibei.com/#/register?code=qwqDFEUW) |
 
 *Disclaimer: 本文包含推广链接，如果你通过链接购买，我们会获得佣金，但不影响你的实际费用。*

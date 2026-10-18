@@ -62,6 +62,6 @@ Cyberguard 最大的技术亮点是 **IEPL 专线**。IEPL（International Ether
 
 Cyberguard 是一个**偏重稳定性**的机场选择。IEPL 专线 + BGP + QUIC 的组合在技术层面属于中上水准，价格也处于合理区间。如果你对"晚高峰会不会卡"这件事比较在意，Cyberguard 的专线架构会给你比普通中转机场更好的体验。
 
-**备用链接：** [Cyberguard官网地址2](https://www.cyberguard.best/register?code=8oowDNS8)
+**备用链接：** [Cyberguard官网地址2](https://cyberguard.best/#/register?code=8oowDNS8)
 
 *本文包含推广链接*

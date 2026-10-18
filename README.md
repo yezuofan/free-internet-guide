@@ -172,7 +172,7 @@
 叶老大自用主力机场。IEPL专线 + MPTCP多路复用，100+节点，20+国家/地区覆盖。节点覆盖广，流媒体全解锁，TikTok支持。入口和出口选择都很丰富，晚高峰稳定不掉线。
 
 [自由猫官网地址1](https://freecat.cloud/register?code=USRIiAoO)
-[自由猫官网地址2](https://freecat.net/register?code=USRIiAoO)
+[自由猫官网地址2](https://freecat.cloud/register?code=USRIiAoO)
 
 >开业时间：2020
 >协议：VLESS+Reality、VMess
@@ -329,7 +329,7 @@
 
 2021年开业，主打不限时流量包。流量用完为止不浪费时间。设备数限制宽松，支持第三方订阅导入和软路由。
 
-[红杏云官网地址](https://hongxingyun.club/web/#/register?code=OBEi3O69)
+[红杏云官网地址](https://hx13s.cc/web/#/register?code=OBEi3O69)
 
 >线路：BGP三线优化
 >设备限制：宽松
@@ -426,7 +426,7 @@ Anytls协议中转机场，多隧道入口机场。不用担心完全失联，�
 2020年开业，IEPL专线，60+节点，设备不限，流媒体全解锁。
 
 [Cyberguard官网地址1](https://cyberguard.best/#/register?code=8oowDNS8)
-[Cyberguard官网地址2](https://www.cyberguard.best/register?code=8oowDNS8)
+[Cyberguard官网地址2](https://cyberguard.best/#/register?code=8oowDNS8)
 
 >线路：IEPL专线，BGP接入，QUIC协议
 >节点数：60+
