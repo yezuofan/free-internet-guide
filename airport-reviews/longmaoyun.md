@@ -8,6 +8,24 @@ update_date: "2026-06-08"
 
 # 龙猫云 机场评测 | 全IPLC专线无限速，入门仅¥15/月
 
+<div style="background:#fef2f2;border:3px solid #dc2626;border-radius:8px;padding:16px 20px;margin:20px 0;color:#7f1d1d;">
+
+### 🚨 龙猫云已被社区核实跑路（2026-10-15）
+
+**别再买了。** 龙猫云自 2026 年 7 月起全节点 timeout，客服只剩机器人回复，社区多源确认跑路。
+
+- 证据：[limbopro #288](https://github.com/limbopro/Paolujichang/issues/288) / [#307](https://github.com/limbopro/Paolujichang/issues/307)
+
+已购用户请迁移：
+
+- 🐱 [自由猫 ¥8/月](https://api.huanghaiwan.com/go/自由猫)（IEPL+MPTCP，长期稳定）
+- 🔥 [瑶瑶领先 ¥9.9/月](https://api.huanghaiwan.com/go/瑶瑶领先)
+
+**本页以下为跑路前的评测记录，仅作历史参考。**
+
+</div>
+
+
 > 全IPLC专线无限速，只要¥19.9/月起。原生IP解锁Netflix、ChatGPT、TikTok。深度评测优缺点，看看适不适合你。
 
 [👉 访问官网](https://api.huanghaiwan.com/go/龙猫云)

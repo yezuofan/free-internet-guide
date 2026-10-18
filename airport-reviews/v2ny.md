@@ -1,5 +1,21 @@
 # 奈云（V2NY）评测：IEPL专线+三协议，¥168/年值得上车吗？
 
+<div style="background:#fef2f2;border:3px solid #dc2626;border-radius:8px;padding:16px 20px;margin:20px 0;color:#7f1d1d;">
+
+### 🚨 奈云已确认跑路（2026-07-01）
+
+**别再买了，也别续费。** 奈云已于 2026-07-01 被多方确认跑路（cuanmu / yp7 / ermao 多源记录），注册与订阅入口均已失效。
+
+还在找替代的看这里：
+
+- 🐱 [自由猫 ¥8/月](https://api.huanghaiwan.com/go/自由猫)（IEPL+MPTCP，100+ 节点，运营 3 年仍活跃）
+- 🔥 [瑶瑶领先 ¥9.9/月](https://api.huanghaiwan.com/go/瑶瑶领先)（动态倍率，夜间 0.3x）
+
+**本页以下为跑路前的评测记录，仅作历史参考。**
+
+</div>
+
+
 > **太长不看版：** 奈云是2021年开业的IEPL专线机场，SS/V2ray/Trojan三协议全兼容，流媒体全解锁。¥168/年（≈¥14/月）就能体验IEPL专线，是同类里门槛最低的选择之一。适合想入坑IEPL但预算有限的用户。
 
 ---
