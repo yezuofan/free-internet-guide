@@ -55,7 +55,7 @@
 || 43. 🤖 **[Microsoft Copilot超级应用2026指南 →](getting-started/microsoft-copilot-super-app-guide-2026.md)** Chat对话+GitHub编程+Cowork协作+Autopilot智能体四合一，已确认2026年上线，跟ChatGPT Work全面对比
 || 44. ⚙️ **[Clash规则配置完全指南 →](getting-started/clash-rule-config-guide-2026.md)** 从DOMAIN-SUFFIX/GEOIP规则语法到url-test/fallback策略组实战，手把手搭建完整分流规则体系，看完不用再抄别人配置
 || 45. 📶 **[跨境网络服务测速验收指南 2026 →](getting-started/network-speed-test-guide-2026.md)** 晚高峰下载速度、延迟、丢包率、流媒体解锁四大指标怎么测？附Speedtest/fast.com/Cloudflare工具清单与合格标准，15分钟判断线路值不值得续费
-|| 46. 🐦 **[FlyingBird 2026年中评测更新 →](airport-reviews/flyingbird-mid-2026-review.md)** 全IPLC专线+70+节点：套餐新增季付/半年付/年付、黄金500GB/30天规则统一、官网迁移flyingbird.club，月付¥19.9起不限设备数
+|| 46. 🐦 **[FlyingBird 2026年中评测更新 →](airport-reviews/flyingbird-mid-2026-review.md)** 全IPLC专线+70+节点：套餐新增季付/半年付/年付、黄金500GB/30天规则统一、官网迁移flyingbird.club，月付¥19.9起不限设备数（⚠️ 2026-10-12 起暂停推广，仅存档，详见本页第十四节风险提示）
 || 47. 🤖 **[DeepSeek V4-Flash 正式版指南 2026 →](getting-started/deepseek-v4-flash-guide-2026.md)** 284B MoE只重做后训练，9项Agent基准全面反超V4-Pro预览版：API接入（OpenAI/Anthropic/Codex三格式）、官方定价与峰谷计费预告、旧接口10月24日迁移提醒
 || 48. 🛰️ **[MESL 2026年中评测更新 →](airport-reviews/mesl-mid-2026-review.md)** Premium IEPL专线+云厂商内网架构：登录入口升级getmesl.com地址选择器、新增$3.6美元入门档与3Gbps/5Gbps峰值带宽、5台设备限制明确，附竞品对比与双方案建议
 || 49. 🤖 **[Meta Muse Code 上手指南 2026 →](getting-started/meta-muse-code-guide-2026.md)** Meta首款AI编程智能体：基于Muse Spark 1.2协同训练，按量$1.25/$4.25每百万token，贡献者档输出仅$0.20比Claude Code/Codex便宜10倍+，单命令安装+零数据保留，附CLI接入教程
@@ -534,6 +534,14 @@ SS 大流量 + **动态倍率计费**（晚高峰 1x / 白天 0.6x / 夜间 0.3x
 
 ## 十四、FlyingBird（飞鸟）
 
+<div style="background:#fef2f2;border:3px solid #dc2626;border-radius:8px;padding:16px 20px;margin:20px 0;color:#7f1d1d;">
+
+**⚠️ 2026-10-12 起暂停推广：** FlyingBird 自 9 月 23 日起持续断连、客服失联（[limbopro #336](https://github.com/limbopro/Paolujichang/issues/336)）。在恢复信号确认之前不建议新购或续费，已购用户建议先备一个可用机场：🐱 [自由猫 ¥8/月](https://api.huanghaiwan.com/go/自由猫)／🔥 [瑶瑶领先 ¥9.9/月](https://api.huanghaiwan.com/go/瑶瑶领先)。
+
+**本页内容为停推前的记录。**
+
+</div>
+
 不限客户端数量的全节点线路机场，Trojan协议，流媒体+AI全解锁。
 
 [👉 访问官网](https://fbinv02.fbaff.cc/auth/register?code=Q8nDL4JZ)
@@ -571,6 +579,14 @@ BGP隧道中转+IPLC纯专线出口，1000Mbps高速，晚高峰不限速。
 ---
 
 ## 十六、大哥云
+
+<div style="background:#fef2f2;border:3px solid #dc2626;border-radius:8px;padding:16px 20px;margin:20px 0;color:#7f1d1d;">
+
+**🚨 大哥云已确认跑路（2026-10-16）：** 工单不回、节点断连、网站打不开（limbopro #161 + 多家跑路汇总站确认）。**请勿新购，也不要续费。** 已购用户请尽快迁移：🐱 [自由猫 ¥8/月](https://api.huanghaiwan.com/go/自由猫)（IEPL+MPTCP，100+ 节点）／🔥 [瑶瑶领先 ¥9.9/月](https://api.huanghaiwan.com/go/瑶瑶领先)（动态倍率，夜间 0.3x）。
+
+**以下套餐与价格为跑路前的记录，仅作历史存档，不要照着里面的链接去购买。**
+
+</div>
 
 Trojan协议年付性价比之选，¥199/年用9折码更低。
 

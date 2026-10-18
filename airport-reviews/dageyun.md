@@ -1,5 +1,13 @@
 # 大哥云机场评测：Trojan协议年付性价比之选
 
+<div style="background:#fef2f2;border:3px solid #dc2626;border-radius:8px;padding:16px 20px;margin:20px 0;color:#7f1d1d;">
+
+**🚨 大哥云已确认跑路（2026-10-16）：** 工单不回、节点断连、网站打不开（limbopro #161 + 多家跑路汇总站确认）。**请勿新购，也不要续费。** 已购用户请尽快迁移：🐱 [自由猫 ¥8/月](https://api.huanghaiwan.com/go/自由猫)（IEPL+MPTCP，100+ 节点）／🔥 [瑶瑶领先 ¥9.9/月](https://api.huanghaiwan.com/go/瑶瑶领先)（动态倍率，夜间 0.3x）。
+
+**以下评测内容与套餐价格为跑路前的记录，仅作历史存档，不要照着里面的链接去购买。**
+
+</div>
+
 > 大哥云是一家主打**Trojan协议+500-1000Mbps带宽**的机场。年付性价比极高，¥199/年（折合¥16.58/月），用9折码后更低。适合当作主力机场或高性价比备用机。
 
 ---

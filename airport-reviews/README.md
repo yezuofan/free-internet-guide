@@ -476,6 +476,14 @@ BGP隧道中转+IPLC纯专线出口，1000Mbps高速，晚高峰不限速。
 
 ## 十六、大哥云
 
+<div style="background:#fef2f2;border:3px solid #dc2626;border-radius:8px;padding:16px 20px;margin:20px 0;color:#7f1d1d;">
+
+**🚨 大哥云已确认跑路（2026-10-16）：** 工单不回、节点断连、网站打不开（limbopro #161 + 多家跑路汇总站确认）。**请勿新购，也不要续费。** 已购用户请尽快迁移：🐱 [自由猫 ¥8/月](https://api.huanghaiwan.com/go/自由猫)／🔥 [瑶瑶领先 ¥9.9/月](https://api.huanghaiwan.com/go/瑶瑶领先)。
+
+**以下为跑路前的存档信息。**
+
+</div>
+
 Trojan协议年付性价比之选，¥199/年用9折码更低。
 
 [👉 访问官网](https://aff01.dgyhao.com/#/register?code=HIYe2Ag0)
