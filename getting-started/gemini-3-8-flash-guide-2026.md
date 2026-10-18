@@ -70,7 +70,7 @@
 ## 相关阅读
 
 - [Gemini 2026 年 7 月大更新（3.6 Flash + 任务自动化）](https://huanghaiwan.com/ai/gemini-july-2026-update-guide/)
-- [Gemini 入门指南](https://huanghaiwan.com/ai/gemini-ai-guide/)
+- [Gemini 入门指南](https://huanghaiwan.com/posts/gemini-ai-guide/)
 - [2026 主流 AI 编程工具对比](https://huanghaiwan.com/ai/ai-coding-tools-comparison-2026/)
 
 用 Google 系模型 API 和工具，稳定的国际网络是刚需——下面几家跨境网络加速服务按需选：

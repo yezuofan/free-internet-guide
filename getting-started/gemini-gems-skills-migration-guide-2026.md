@@ -92,7 +92,7 @@
 
 拆掉的只是 **Gemini Skills 自定义能力的订阅限制**。真正的付费差别在另外两层：**模型档位**（免费版能用的模型和 Pro / Ultra 不是同一档，高阶模型的上线节奏一直在往前压，但同时也分阶段放开，不是一发就有）和**配额与速度**（同一件事，免费版和付费版的次数、高峰期响应速度都不一样）。
 
-更准确的说法是：**以前要付费才能"把提示词存起来"，现在免费也能；但"用什么模型替你执行"，该付费还是得付费。** 顺带一提，近期 Gemini 家族在模型侧动静不小，想弄清高阶模型目前开到谁头上，可以看 [Gemini 4 Argon 上手指南 2026](https://huanghaiwan.com/ai/gemini-4-argon-guide-2026/)；只想先跑通日常使用的，[Google Gemini AI 完整指南](https://huanghaiwan.com/ai/gemini-ai-guide/)那份更基础。
+更准确的说法是：**以前要付费才能"把提示词存起来"，现在免费也能；但"用什么模型替你执行"，该付费还是得付费。** 顺带一提，近期 Gemini 家族在模型侧动静不小，想弄清高阶模型目前开到谁头上，可以看 [Gemini 4 Argon 上手指南 2026](https://huanghaiwan.com/ai/gemini-4-argon-guide-2026/)；只想先跑通日常使用的，[Google Gemini AI 完整指南](https://huanghaiwan.com/posts/gemini-ai-guide/)那份更基础。
 
 ## 八、为什么说到最后总要回到网络这件事
 

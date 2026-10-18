@@ -126,7 +126,7 @@ description: "DeepSeek不是孤立的工具。把它和Cursor编程、Suno音乐
 3. 最终得到：**又快又深**的分析结果
 
 **推荐阅读：**
-- [Gemini AI完整指南](https://huanghaiwan.com/ai/gemini-ai-guide/) — Gemini vs ChatGPT vs Claude对比
+- [Gemini AI完整指南](https://huanghaiwan.com/posts/gemini-ai-guide/) — Gemini vs ChatGPT vs Claude对比
 
 ---
 
