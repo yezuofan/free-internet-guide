@@ -55,8 +55,8 @@ Mesh 只做第一层，它对第二、第三层一无所知；旁路由只做第
 
 | 拓扑与人群 | 推荐 | 理由 |
 |:---|:---|:---|
-| 单设备客户端 + 全屋十来台 | [自由猫](https://api.huanghaiwan.com/go/自由猫) | IEPL 打底叠加 MPTCP 多路复用，一百多个节点，抖动时自动调度，多档不限设备，¥8/30GB 起 |
-| 需要长期登录海外账号、后台 | [仙路湾](https://api.huanghaiwan.com/go/仙路湾) | 港台原生 IP 家宽 + IEPL/IPLC 专线，20 个地区，¥10/50G 两台起，优惠码 `xlw9` 九折 |
+| 单设备客户端 + 全屋十来台 | [自由猫](https://api.huanghaiwan.com/go/自由猫) | IEPL 打底叠加 MPTCP 多路复用，一百多个节点，抖动时自动调度；¥8/30GB 起（1 台），¥19.9/200GB 给 10 台，¥32.8 档起不限设备 |
+| 需要长期登录海外账号、后台 | [仙路湾](https://api.huanghaiwan.com/go/仙路湾) | 港台原生 IP 家宽 + IEPL/IPLC 专线，20 个地区，¥10/50G 三台起，优惠码 `xlw9` 九折 |
 | 家里有人天天下大文件、追剧 | [瑶瑶领先](https://api.huanghaiwan.com/go/瑶瑶领先) | ¥9.9/30 天 384GB、300Mbps、3 台；¥19.8 档 768GB、600Mbps、6 台。SS 加 BGP 中转，不是专线也不带住宅 IP，别当账号环境用 |
 | 想一台设备管全屋 | [SS-ID](https://api.huanghaiwan.com/go/SS-ID) | IEPL 网关方案，配一次管到底，¥20/100G 起、5 台 |
 | 家庭成员一起用、设备多 | [红杏云](https://api.huanghaiwan.com/go/红杏云) | IEPL 专线，¥20/200GB 起，不限设备并支持家庭成员共享 |
