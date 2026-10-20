@@ -112,7 +112,7 @@
 
 | 线路 | 适合的活 | 说明 | 入口 |
 |:----|:--------|:----|:----|
-| **仙路湾** | 账号环境、订阅与后台登录 | 原生 IP 家宽加 IEPL/专线，二十个地区，¥10/月起（50G、2 台设备），优惠码 `xlw9` 九折 | [api.huanghaiwan.com/go/仙路湾](https://api.huanghaiwan.com/go/仙路湾) |
+| **仙路湾** | 账号环境、订阅与后台登录 | 原生 IP 家宽加 IEPL/专线，二十个地区，¥10/月起（50G、3 台设备），优惠码 `xlw9` 九折 | [api.huanghaiwan.com/go/仙路湾](https://api.huanghaiwan.com/go/仙路湾) |
 | **自由猫** | 日常主力、批量生成挂后台 | MPTCP 多路复用，链路抖动时不容易把长连接掐断 | [api.huanghaiwan.com/go/自由猫](https://api.huanghaiwan.com/go/自由猫) |
 | **悠兔** | 稳定优先、配置省心 | 老牌 IEPL 专线、自有机房，长期口碑稳 | [api.huanghaiwan.com/go/悠兔](https://api.huanghaiwan.com/go/悠兔) |
 | **瑶瑶领先** | 跑量、预算敏感 | ¥9.9 / 30 天 384GB、3 台设备；¥19.8 / 30 天 768GB、6 台设备。SS 加 BGP 中转，不是专线也不带住宅 IP，别拿来养账号 | [api.huanghaiwan.com/go/瑶瑶领先](https://api.huanghaiwan.com/go/瑶瑶领先) |

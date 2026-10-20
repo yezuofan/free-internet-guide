@@ -38,7 +38,7 @@
 
 翻译过来：**入口从来不是问题，出口才是。** 你想看日本站的价格，访问来源就该落在日本。
 
-这一段最吃的是**地区覆盖数**，不是峰值带宽。比价多等两秒不致命，但一个订阅只锁一个地区，看五个站就得切五轮。[SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) 覆盖 80+ 地区、¥6.99 起，适合这种用法；[仙路湾](https://api.huanghaiwan.com/go/仙路湾) 走的是另一条路——20 个地区，但核心是 IEPL/IPLC 专线加原生 IP 家宽（港台原生 IP），¥10 起（50G / 2 台，优惠码 `xlw9` 九折），出口身份干净，这一点在下一段非常关键。
+这一段最吃的是**地区覆盖数**，不是峰值带宽。比价多等两秒不致命，但一个订阅只锁一个地区，看五个站就得切五轮。[SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) 覆盖 80+ 地区、¥6.99 起，适合这种用法；[仙路湾](https://api.huanghaiwan.com/go/仙路湾) 走的是另一条路——20 个地区，但核心是 IEPL/IPLC 专线加原生 IP 家宽（港台原生 IP），¥10 起（50G / 3 台，优惠码 `xlw9` 九折），出口身份干净，这一点在下一段非常关键。
 
 ## 三、第二段：结算与支付（重点）
 
@@ -90,7 +90,7 @@
 | 服务 | 线路特点 | 覆盖 / 规模 | 起价 | 最适合哪一段 |
 |:---|:---|:---|:---|:---|
 | [自由猫](https://api.huanghaiwan.com/go/自由猫) | IEPL 专线 + MPTCP 多路复用 | 100+ 节点 | — | 物流售后长挂、大促抢购 |
-| [仙路湾](https://api.huanghaiwan.com/go/仙路湾) | IEPL/IPLC 专线 + 原生 IP 家宽 | 20 个地区 | ¥10/月（50G / 2 台） | 结算支付、账号环境 |
+| [仙路湾](https://api.huanghaiwan.com/go/仙路湾) | IEPL/IPLC 专线 + 原生 IP 家宽 | 20 个地区 | ¥10/月（50G / 3 台） | 结算支付、账号环境 |
 | [SKYLUMO](https://api.huanghaiwan.com/go/SKYLUMO) | 多地区覆盖 | 80+ 地区 | ¥6.99/月 | 多站比价、低频买家 |
 | [悠兔](https://api.huanghaiwan.com/go/悠兔) | IEPL 专线 + 家宽、中转 | — | — | 大促抢购 |
 | [瑶瑶领先](https://api.huanghaiwan.com/go/瑶瑶领先) | SS 协议 + BGP 中转，动态倍率 | 384G / 768G 两档 | ¥9.9/月（3 台） | 大件下载、流量跑量 |

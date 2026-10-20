@@ -1,5 +1,25 @@
 > 本文最初发布于 [huanghaiwan.com](https://huanghaiwan.com/posts/wandayun-mid-2026-review/)
 
+<!-- markdownlint-disable -->
+<div style="background:#fef2f2;border:3px solid #dc2626;border-radius:8px;padding:16px 20px;margin:20px 0;color:#7f1d1d;">
+
+## 🚨🚨🚨 2026-10-20 风险更新（务必先看）🚨🚨🚨
+
+**本文评测的万达云已被社区核实跑路/高危失联。**
+
+- 万达云：[limbopro #318](https://github.com/limbopro/Paolujichang/issues/318) — 9 月起客服/工单全失联，挂官网捞钱
+
+**请勿新购，也不要续费。** 已在使用的用户请尽快迁移：
+
+- 🐱 **长期主力：[自由猫 ¥8/月](https://api.huanghaiwan.com/go/自由猫)**（IEPL+MPTCP，100+ 节点，运营 3 年仍活跃）
+- 🔥 **顶底首选：[瑶瑶领先 ¥9.9/月](https://api.huanghaiwan.com/go/瑶瑶领先)**（动态倍率，夜间 0.3x 更划算）
+
+原评测内容作为历史记录保留，正文不做大幅修改。
+
+</div>
+<!-- markdownlint-enable -->
+
+
 # 万达云 2026年中评测更新：IEPL专线+MPTCP隧道，¥16.8/月起性价比还能打吗？
 
 万达云（WangDaCloud）是2021年成立的新加坡团队网络工具服务商，主打IEPL专线+住宅IP节点。截至2026年7月10日，官网已扩展4个备用域名，更新了套餐结构并引入MPTCP隧道技术。

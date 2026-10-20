@@ -103,7 +103,7 @@
 | 你的处境 | 推荐 | 为什么 |
 |:---|:---|:---|
 | 日常主力，晚高峰也在用 | [自由猫](https://api.huanghaiwan.com/go/自由猫) | IEPL 专线打底 + MPTCP 多路复用，链路抖动时能自动调度，100 多个地区，不限设备；跑长任务不容易被掐断 |
-| 要稳定的账号环境、原生 IP | [仙路湾](https://api.huanghaiwan.com/go/仙路湾) | 港台原生 IP 家宽 + IEPL/IPLC 专线，¥10/月起（50G / 2 台），20 个地区，出口归属长期一致；优惠码 `xlw9` 九折 |
+| 要稳定的账号环境、原生 IP | [仙路湾](https://api.huanghaiwan.com/go/仙路湾) | 港台原生 IP 家宽 + IEPL/IPLC 专线，¥10/月起（50G / 3 台），20 个地区，出口归属长期一致；优惠码 `xlw9` 九折 |
 | 长期挂着，图省心 | [悠兔](https://api.huanghaiwan.com/go/悠兔) | 自有机房 IEPL，年付折合每月十几元，适合当「挂着不动」的那条 |
 | 设备多，不想一台台配 | [SS-ID](https://api.huanghaiwan.com/go/SS-ID) | 网关级接管，家里路由器配一次，电视、主机、NAS、手机一起走；5 台设备月付 ¥20 起 |
 

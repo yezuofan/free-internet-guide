@@ -73,7 +73,7 @@ Grok 的网页端与 App 对大陆地区访问受限，中间必然经过一层�
 
 | 需求 | 方案 | 说明 |
 |:---|:---|:---|
-| 长期登录、绑定支付 | [api.huanghaiwan.com/go/仙路湾](https://api.huanghaiwan.com/go/仙路湾) | IEPL/IPLC 专线叠加原生 IP 家宽，¥10/月起（50G/2 台；优惠码 `xlw9` 九折），20 个地区 |
+| 长期登录、绑定支付 | [api.huanghaiwan.com/go/仙路湾](https://api.huanghaiwan.com/go/仙路湾) | IEPL/IPLC 专线叠加原生 IP 家宽，¥10/月起（50G/3 台；优惠码 `xlw9` 九折），20 个地区 |
 | 日常 + 长挂，要稳 | [api.huanghaiwan.com/go/自由猫](https://api.huanghaiwan.com/go/自由猫) | IEPL 线路、多路复用，100 多个地区出口 |
 | 性价比优先 | [api.huanghaiwan.com/go/悠兔](https://api.huanghaiwan.com/go/悠兔) | 专线机型，按需使用 |
 | 跑量、下载模型文件 | [api.huanghaiwan.com/go/瑶瑶领先](https://api.huanghaiwan.com/go/瑶瑶领先) | ¥9.9/30 天 384G（3 台设备）、¥19.8/30 天 768G（6 台设备），动态倍率计费 |

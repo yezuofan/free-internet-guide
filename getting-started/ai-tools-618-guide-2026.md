@@ -80,7 +80,7 @@
 
 | 服务 | 适合谁 | 主要特点 | 入口 |
 |:---|:---|:---|:---|
-| **仙路湾** | 账号环境、原生 IP | 原生 IP 家宽加 IEPL/IPLC 专线，二十个地区，¥10/月起（50G、2 台设备），优惠码 `xlw9` 九折 | [api.huanghaiwan.com/go/仙路湾](https://api.huanghaiwan.com/go/仙路湾) |
+| **仙路湾** | 账号环境、原生 IP | 原生 IP 家宽加 IEPL/IPLC 专线，二十个地区，¥10/月起（50G、3 台设备），优惠码 `xlw9` 九折 | [api.huanghaiwan.com/go/仙路湾](https://api.huanghaiwan.com/go/仙路湾) |
 | **自由猫** | 多设备日常主力 | MPTCP 多路复用，晚高峰抗丢包好，适合长挂 | [api.huanghaiwan.com/go/自由猫](https://api.huanghaiwan.com/go/自由猫) |
 | **悠兔** | 稳定优先、配置省心 | 老牌 IEPL 专线，自有机房，长期口碑稳 | [api.huanghaiwan.com/go/悠兔](https://api.huanghaiwan.com/go/悠兔) |
 | **瑶瑶领先** | 跑量、成本敏感 | ¥9.9 / 30 天 384GB、3 台设备；¥19.8 / 30 天 768GB、6 台设备。SS 加 BGP 中转，不是专线、不带住宅 IP，别当账号位用 | [api.huanghaiwan.com/go/瑶瑶领先](https://api.huanghaiwan.com/go/瑶瑶领先) |

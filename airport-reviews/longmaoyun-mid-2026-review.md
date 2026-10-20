@@ -11,6 +11,26 @@ update_date: "2026-07-12"
 > 本文是对2026年5月龙猫云评测的更新深化版。原始评测仅3.4KB，信息量不足，本文为完整替代版。
 > 本文最初发布于 [huanghaiwan.com](https://huanghaiwan.com/posts/longmaoyun-mid-2026-review/)
 
+<!-- markdownlint-disable -->
+<div style="background:#fef2f2;border:3px solid #dc2626;border-radius:8px;padding:16px 20px;margin:20px 0;color:#7f1d1d;">
+
+## 🚨🚨🚨 2026-10-20 风险更新（务必先看）🚨🚨🚨
+
+**本文评测的龙猫云已被社区核实跑路/高危失联。**
+
+- 龙猫云：[limbopro #288](https://github.com/limbopro/Paolujichang/issues/288) — 7 月起全节点 timeout，客服仅机器人回复（2026-10-17 拍板定性 dead）
+
+**请勿新购，也不要续费。** 已在使用的用户请尽快迁移：
+
+- 🐱 **长期主力：[自由猫 ¥8/月](https://api.huanghaiwan.com/go/自由猫)**（IEPL+MPTCP，100+ 节点，运营 3 年仍活跃）
+- 🔥 **顶底首选：[瑶瑶领先 ¥9.9/月](https://api.huanghaiwan.com/go/瑶瑶领先)**（动态倍率，夜间 0.3x 更划算）
+
+原评测内容作为历史记录保留，正文不做大幅修改。
+
+</div>
+<!-- markdownlint-enable -->
+
+
 ## 一句话总结
 
 全IPLC专线入门¥15/月、不限设备数、原生IP解锁。适合预算有限但想要真正专线的用户。节点少是短板。

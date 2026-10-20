@@ -60,7 +60,7 @@
 | 服务商 | 线路与特点 | 月成本参考 | 旅居场景定位 |
 |:---|:---|:---|:---|
 | [自由猫](https://api.huanghaiwan.com/go/自由猫) | IEPL + MPTCP 多路复用，100+ 节点，不限设备数 | ¥15.92（年付八折） | 日常主力：会议、长连接、多设备不抢名额 |
-| [仙路湾](https://api.huanghaiwan.com/go/仙路湾) | IEPL/IPLC 专线 + 原生 IP 家宽（港台原生 IP），20 地区 | ¥10 起（50G / 2 台，优惠码 xlw9 九折） | 平台账号与收款环境，登录地固定 |
+| [仙路湾](https://api.huanghaiwan.com/go/仙路湾) | IEPL/IPLC 专线 + 原生 IP 家宽（港台原生 IP），20 地区 | ¥10 起（50G / 3 台，优惠码 xlw9 九折） | 平台账号与收款环境，登录地固定 |
 | [悠兔](https://api.huanghaiwan.com/go/悠兔) | 自有机房 IEPL 专线，线路成熟 | ¥16.6（年付折算） | 长期挂机的性价比位，波动小 |
 | [瑶瑶领先](https://api.huanghaiwan.com/go/瑶瑶领先) | SS + BGP 中转，动态倍率计费（晚高峰 1.0x / 白天 0.6x / 夜间 0.3x） | ¥9.9（384GB / 300Mbps / 3 台）、¥19.8（768GB / 600Mbps / 6 台） | 跑量位：素材下载、渲染、大文件传输 |
 | [SS-ID](https://api.huanghaiwan.com/go/SS-ID) | IEPL 网关方案，设备 ≤5 台 | ¥20 起 | 共享办公与两人同住，配一次全屋生效 |
@@ -125,7 +125,7 @@
 
 | 用途 | 建议 | 说明 |
 |:---|:---|:---|
-| 身份位（平台账号、收款后台） | [仙路湾](https://api.huanghaiwan.com/go/仙路湾) | 原生 IP 家宽出口，¥10 起、50G / 2 台，优惠码 xlw9 九折 |
+| 身份位（平台账号、收款后台） | [仙路湾](https://api.huanghaiwan.com/go/仙路湾) | 原生 IP 家宽出口，¥10 起、50G / 3 台，优惠码 xlw9 九折 |
 | 日常位（会议、长连接、多设备） | [自由猫](https://api.huanghaiwan.com/go/自由猫) | MPTCP 多路复用，链路抖动不容易掐断会话 |
 | 跑量位（素材、渲染、大文件） | [瑶瑶领先](https://api.huanghaiwan.com/go/瑶瑶领先) | ¥9.9 档 384GB / 3 台、¥19.8 档 768GB / 6 台，SS + BGP 中转 |
 | 长期平稳 | [悠兔](https://api.huanghaiwan.com/go/悠兔) | 自有机房 IEPL，年付折合约 ¥16.6/月 |

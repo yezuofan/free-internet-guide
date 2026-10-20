@@ -110,7 +110,7 @@
 
 | 你的用法 | 推荐 | 说明 |
 |:---|:---|:---|
-| 注册、订阅、长期养 Google 账号 | [仙路湾](https://api.huanghaiwan.com/go/仙路湾) | 原生 IP 家宽 + IEPL/IPLC 专线，¥10 起（50G / 2 台，优惠码 xlw9 九折），归属长期稳定 |
+| 注册、订阅、长期养 Google 账号 | [仙路湾](https://api.huanghaiwan.com/go/仙路湾) | 原生 IP 家宽 + IEPL/IPLC 专线，¥10 起（50G / 3 台，优惠码 xlw9 九折），归属长期稳定 |
 | 挂着长任务、大文件上传下载 | [自由猫](https://api.huanghaiwan.com/go/自由猫) | MPTCP 多路复用，链路抖一下不至于把长连接直接掐断。输出上限提上来之后任务跑得更久，断一次更肉疼 |
 | 只想稳定省心、不想折腾 | [悠兔](https://api.huanghaiwan.com/go/悠兔) | 老牌 IEPL 线路，年付摊下来每月十几元 |
 | 纯拉资料、灌数据、不碰账号 | [瑶瑶领先](https://api.huanghaiwan.com/go/瑶瑶领先) | ¥9.9 / 30 天 384GB、¥19.8 / 30 天 768GB（3 台 / 6 台设备上限）；**SS + BGP 中转、不带住宅 IP，别拿来养账号** |

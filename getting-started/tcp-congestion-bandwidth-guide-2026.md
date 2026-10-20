@@ -121,7 +121,7 @@ TCP 有一套自我约束机制，它的演进史正好解释了跨境链路上�
 | 服务 | 定位 | 起价 | 短链 |
 |:---|:---|:---|:---|
 | 自由猫 | 日常主力，IEPL 专线 + MPTCP 抗抖 | 年付八折约 ¥15.92/月（200GB） | [访问](https://api.huanghaiwan.com/go/自由猫) |
-| 仙路湾 | 账号环境位，原生 IP 家宽 + IEPL/IPLC | ¥10/月（50G/2 台，码 `xlw9` 九折） | [访问](https://api.huanghaiwan.com/go/仙路湾) |
+| 仙路湾 | 账号环境位，原生 IP 家宽 + IEPL/IPLC | ¥10/月（50G/3 台，码 `xlw9` 九折） | [访问](https://api.huanghaiwan.com/go/仙路湾) |
 | 瑶瑶领先 | 大流量低价档（SS + BGP 中转，非专线非住宅 IP） | ¥9.9/30 天 384GB/300Mbps/3 台 | [访问](https://api.huanghaiwan.com/go/瑶瑶领先) |
 | SKYLUMO | 最低成本试错入口，覆盖地区多 | ¥6.99/月起 | [访问](https://api.huanghaiwan.com/go/SKYLUMO) |
 
