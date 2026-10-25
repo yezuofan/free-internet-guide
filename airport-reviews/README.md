@@ -386,11 +386,11 @@ ISP住宅IP + IEPL/IPLC专线，¥10/月起（50G / 3台 / 500Mbps），不限�
 
 ## 十一、万达云（新收录）
 
-> ⛔ **万达云已降级（2026-09-19）：近期节点稳定性下滑，社区跑路名单已出现相关记录，存在跑路风险。建议只买月付、不要续长期套餐，并提前准备替代机场。**
+> 🚨 **万达云已确认跑路（2026-10-19，短链后台与推广台账同日标为 dead）：** 工单不回、节点断连（[limbopro #318](https://github.com/limbopro/Paolujichang/issues/318) 等社区多源记录）。**请勿新购，也不要续费。** 已购用户请尽快迁移：🐱 [自由猫 ¥8/月](https://api.huanghaiwan.com/go/自由猫)（住宅IP同价位替代）／🔥 [瑶瑶领先 ¥9.9/月](https://api.huanghaiwan.com/go/瑶瑶领先)。`/go/万达云` 短链已改道自由猫承接残余流量。
+
+**以下为跑路前的存档信息。**
 
 住宅IP+IEPL专线，年付¥162起。TikTok优化套餐。
-
-[👉 访问官网](https://link.wdyserver.com/register?code=6z6PNS5r)
 
 | 套餐 | 月付 | 年付 | 流量 |
 |:----|:-----|:-----|:-----|
@@ -402,13 +402,13 @@ ISP住宅IP + IEPL/IPLC专线，¥10/月起（50G / 3台 / 500Mbps），不限�
 
 ---
 
-## 十二、龙猫云（新收录）
+## 十二、龙猫云
 
-> ⚠️ 主域名（longmaoyun.com）长期不可访问（HTTPS 证书层失败，HTTP 仅返回非机场的娱乐站跳转页，疑似域名已易主），但注册链接可用，可通过上方链接直接注册。
+> 🚨 **龙猫云已被社区核实跑路（2026-10-15）：** 全节点 timeout、客服仅剩机器人回复（[limbopro #288](https://github.com/limbopro/Paolujichang/issues/288) / [#307](https://github.com/limbopro/Paolujichang/issues/307)）。**请勿新购，也不要续费。** 已购用户请尽快迁移：🔥 [瑶瑶领先 ¥9.9/月](https://api.huanghaiwan.com/go/瑶瑶领先)（同价位性价比替代）／🐱 [自由猫 ¥8/月](https://api.huanghaiwan.com/go/自由猫)。`/go/龙猫云` 短链已改道承接残余流量。
+
+**以下为跑路前的存档信息。**
 
 全IPLC专线无限速，¥19.9/月起。原生IP解锁。
-
-[👉 访问官网](https://inv06.lmaff01.cc/register?aff=dqNRmvru)
 
 | 套餐 | 月付 | 流量 |
 |:----|:-----|:-----|
