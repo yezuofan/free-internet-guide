@@ -64,4 +64,4 @@
 
 ---
 
-*相关：[Meta Muse Code 上手指南](/ai/meta-muse-code-guide-2026/) | [Meta Muse Image 完全指南](/ai/meta-muse-image-guide-2026/) | [Qwen3.8 开源指南](/ai/qwen3-8-open-source-guide-2026/)*
+*相关：[Meta Muse Code 上手指南](meta-muse-code-guide-2026.md) | [Meta Muse Image 完全指南](meta-muse-image-guide-2026.md) | [Qwen3.8 开源指南](qwen3-8-open-source-guide-2026.md)*

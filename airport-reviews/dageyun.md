@@ -144,9 +144,9 @@
 
 ## 推荐阅读
 
-- [《2026年机场双保险策略》](/getting-started/airport-dual-backup-strategy-2026) — 主力+备用搭配方案
-- [《2026年机场横向对比评测》](/getting-started/airport-comparison-2026) — 12家机场全方位对比
-- [《机场新手入门完全指南》](/getting-started/airport-beginner-guide-2026) — 从零开始
+- [《2026年机场双保险策略》](../getting-started/airport-dual-backup-strategy-2026.md) — 主力+备用搭配方案
+- [《2026年机场横向对比评测》](../getting-started/airport-comparison-2026.md) — 12家机场全方位对比
+- [《机场新手入门完全指南》](../getting-started/airport-beginner-guide-2026.md) — 从零开始
 
 ---
 

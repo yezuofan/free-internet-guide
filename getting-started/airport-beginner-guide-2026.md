@@ -175,9 +175,9 @@
 
 ## 推荐阅读
 
-- [《机场新手入门完全指南》](/getting-started/quick-start) — 如何配置第一台设备
-- [《机场协议详解》](/getting-started/protocol-guide) — VLESS、Trojan、SS 有什么区别
-- [《Claude 国内使用方法》](/ai/claude-access-guide) — 有了机场怎么用上海外 AI 工具
+- [《机场新手入门完全指南》](quick-start.md) — 如何配置第一台设备
+- [《机场协议详解》](protocol-guide.md) — VLESS、Trojan、SS 有什么区别
+- [《Claude 国内使用方法》](claude-access-guide.md) — 有了机场怎么用上海外 AI 工具
 
 ---
 

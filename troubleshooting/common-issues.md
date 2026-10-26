@@ -70,4 +70,4 @@
 ## 相关阅读
 
 - [VLESS+Reality 防封教程](../self-hosted/reality.md)
-- [Clash Verge 使用教程](clash-verge.md)
+- [Clash Verge 使用教程](../client-guides/clash-verge.md)

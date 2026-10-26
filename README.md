@@ -726,7 +726,7 @@ ISP住宅IP + IEPL/IPLC专线，¥10/月起（50G / 3台 / 500Mbps），不限�
 **缺点：** 品牌知名度一般；低价档设备数偏紧（50G 档仅 3 台）
 **适合：** 需要住宅IP账号环境的用户 / 多区流媒体与 AI 工具 / 主力+备用双线
 
-详见 [仙路湾完整评测 →](../airport-reviews/xianluwan.md)
+详见 [仙路湾完整评测 →](airport-reviews/xianluwan.md)
 
 ---
 

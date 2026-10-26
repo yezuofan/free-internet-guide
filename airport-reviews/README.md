@@ -346,23 +346,23 @@ ISP住宅IP + IEPL/IPLC专线，¥10/月起（50G / 3台 / 500Mbps），不限�
 
 ## 客户端教程
 
-- [Clash Verge（Windows/macOS）](./client-guides/clash-verge.md)
-- [Sing-Box（多平台）](./client-guides/sing-box.md)
-- [Clash for Android](./client-guides/clash-for-android.md)
-- [Surge（iOS/macOS）](./client-guides/surge-ios.md)
+- [Clash Verge（Windows/macOS）](../client-guides/clash-verge.md)
+- [Sing-Box（多平台）](../client-guides/sing-box.md)
+- [Clash for Android](../client-guides/clash-for-android.md)
+- [Surge（iOS/macOS）](../client-guides/surge-ios.md)
 
 ## 入门指南
 
-- [场景选购指南](./getting-started/how-to-choose.md)
-- [购买教程](./getting-started/purchase-guide.md)
-- [Claude国内怎么用](./getting-started/claude-access-guide.md)
-- [ChatGPT国内怎么用](./getting-started/chatgpt-access-guide.md)
-- [AI效率工作流：用AI写周报、做PPT、写代码](./getting-started/ai-workflow-guide.md)
-- [DeepSeek入门到精通：2026年最新使用指南](./getting-started/deepseek-guide.md)
-- [Cursor入门到精通：AI编程的正确姿势（2026教程）](./getting-started/cursor-guide.md)
-- [Suno AI音乐生成教程：2026年最新指南](./getting-started/suno-music-guide.md)
-- [AI Agent完全指南：2026年从入门到实战](./getting-started/ai-agent-guide-2026.md)
-- [2026年机场横向对比：12家主流机场该怎么选？](./getting-started/airport-comparison-2026.md)
+- [场景选购指南](../getting-started/how-to-choose.md)
+- [购买教程](../getting-started/purchase-guide.md)
+- [Claude国内怎么用](../getting-started/claude-access-guide.md)
+- [ChatGPT国内怎么用](../getting-started/chatgpt-access-guide.md)
+- [AI效率工作流：用AI写周报、做PPT、写代码](../getting-started/ai-workflow-guide.md)
+- [DeepSeek入门到精通：2026年最新使用指南](../getting-started/deepseek-guide.md)
+- [Cursor入门到精通：AI编程的正确姿势（2026教程）](../getting-started/cursor-guide.md)
+- [Suno AI音乐生成教程：2026年最新指南](../getting-started/suno-music-guide.md)
+- [AI Agent完全指南：2026年从入门到实战](../getting-started/ai-agent-guide-2026.md)
+- [2026年机场横向对比：12家主流机场该怎么选？](../getting-started/airport-comparison-2026.md)
 
 ---
 

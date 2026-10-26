@@ -280,6 +280,6 @@ AI工具对网络的要求主要是**延迟低+稳定性好**。ChatGPT、Claude
 ---
 
 > **📖 更多阅读：**
-> - [2026机场避坑与选择攻略：线路类型·协议·套餐计算](/posts/airport-selection-guide-2026/) — 如果你是新手，先看这篇了解基础知识
-> - [2026年机场横向对比评测：12家主流机场谁最强？](/posts/airport-comparison-2026/) — 从另一个角度的横向对比
-> - [客户端配置完全指南：Clash Meta/V2Ray/NekoBox三端通用](/posts/client-setup-guide-2026/) — 买好了怎么配置
+> - [2026机场避坑与选择攻略：线路类型·协议·套餐计算](airport-selection-guide-2026.md) — 如果你是新手，先看这篇了解基础知识
+> - [2026年机场横向对比评测：12家主流机场谁最强？](airport-comparison-2026.md) — 从另一个角度的横向对比
+> - [客户端配置完全指南：Clash Meta/V2Ray/NekoBox三端通用](client-setup-guide-2026.md) — 买好了怎么配置

@@ -237,9 +237,9 @@ iOS端的Stash和Shadowrocket同样支持多订阅：
 
 ## 推荐阅读
 
-- [《2026年机场横向对比评测》](/getting-started/airport-comparison-2026) — 12家机场全方位对比
-- [《2026年机场性价比排行》](/getting-started/airport-value-guide-2026) — 预算有限用户首选
-- [《机场新手入门完全指南》](/getting-started/airport-beginner-guide-2026) — 从零开始
+- [《2026年机场横向对比评测》](airport-comparison-2026.md) — 12家机场全方位对比
+- [《2026年机场性价比排行》](airport-value-guide-2026.md) — 预算有限用户首选
+- [《机场新手入门完全指南》](airport-beginner-guide-2026.md) — 从零开始
 
 ---
 
