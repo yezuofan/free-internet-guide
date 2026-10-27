@@ -20,7 +20,7 @@
 
 ### 🏷️ 场景一：预算有限，日常浏览
 
-**推荐：[贝贝云](https://888.2beibei.com/register?code=8oowDNS8)（备用）/ [三十六行](https://qqq.nfsqttt.com/register?code=Ilet9Gpi)（尝鲜）**
+**推荐：[贝贝云](https://888.2beibei.com/register?code=8oowDNS8)（备用）/ [三十六行](https://qqq.nfsqttt.com/#/register?code=Ilet9Gpi)（尝鲜）**
 
 **月费参考：** ¥10-15/月
 

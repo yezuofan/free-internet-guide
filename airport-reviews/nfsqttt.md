@@ -24,7 +24,7 @@
 | AI工具支持 | ⚠️ 有限 |
 | 设备限制 | 不明确 |
 | 支付方式 | 支付宝 |
-| 注册链接 | [三十六行官网地址](https://36r1.com/register?code=Ilet9Gpi) |
+| 注册链接 | [三十六行官网地址](https://qqq.nfsqttt.com/#/register?code=Ilet9Gpi) |
 
 ---
 
