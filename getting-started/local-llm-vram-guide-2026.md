@@ -81,8 +81,9 @@ Kimi K3.1 Pro 沿用 K3 的混合专家设计：总参数 2.8 万亿、896 个�
 ```bash
   # Ollama 官网 ollama.com 有各平台安装包
 curl -fsSL https://ollama.com/install.sh | sh
-ollama pull qwen3.8:8b
-ollama run qwen3.8:8b
+  # qwen3.8 官方只发了 27B，8B 级别练手用 qwen3:8b
+ollama pull qwen3:8b
+ollama run qwen3:8b
   # 看它到底吃多少显存，别靠猜
 ollama ps
 ```
