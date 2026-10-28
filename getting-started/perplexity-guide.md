@@ -70,7 +70,7 @@ Perplexity 官网 `perplexity.ai` **需要机场**才能访问。
 
 [👉 龙猫云官网 →](https://inv06.lmaff01.cc/register?aff=dqNRmvru)
 [👉 贝贝云官网 →](https://777.2beibei.com/auth/register?code=qwqDFEUW)
-[👉 万达云官网 →](https://link.wdyserver.com/register?code=6z6PNS5r)
+~~[👉 访问官网](https://link.wdyserver.com/register?code=6z6PNS5r)~~ **（万达云已停运，入口失效 — 2026-10 更新）**
 
 > **提示：** Perplexity 主要走美国节点，建议在机场客户端切换到美国节点使用。
 

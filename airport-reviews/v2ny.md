@@ -192,6 +192,6 @@ A：工单客服通常几小时内回复，不是即时沟通。急事建议官�
 - 需要全天候主力机场+100+节点 → 👉 看看自由猫
 
 [奈云官网地址1](http://6.vip.v2ny.me?path=register&code=tExjICnZ)
-[奈云官网地址2](https://www.v2ny.me/register?code=tExjICnZ)
+~~[奈云官网地址2](https://www.v2ny.me/register?code=tExjICnZ)~~ **（已失效）**
 
 *本文包含推广链接。*

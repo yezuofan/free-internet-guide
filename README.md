@@ -284,7 +284,7 @@
 **整体评价：** ~~如果你预算有限但不想用中转机场，奈云是IEPL专线里最值得入门的。¥168/年试水成本很低。~~（⚠️ 已暂停服务，恢复前请勿购买）
 
 [奈云官网地址1](http://6.vip.v2ny.me?path=register&code=tExjICnZ)
-[奈云官网地址2](https://www.v2ny.me/register?code=tExjICnZ)
+~~[奈云官网地址2](https://www.v2ny.me/register?code=tExjICnZ)~~ **（已失效）**
 
 >开业时间：2021
 >线路：IEPL专线，自有机房专柜
@@ -504,7 +504,7 @@ BGP中继 + MPTCP多线程，2000Mbps高速专线。高端定位。
 
 住宅IP+IEPL专线，年付¥162起。TikTok优化套餐。
 
-[👉 访问官网](https://link.wdyserver.com/register?code=6z6PNS5r)
+~~[👉 访问官网](https://link.wdyserver.com/register?code=6z6PNS5r)~~ **（万达云已停运，入口失效 — 2026-10 更新）**
 
 | 套餐 | 月付 | 年付 | 流量 |
 |:----|:-----|:-----|:-----|
@@ -655,7 +655,7 @@ BGP三网专线传输，Netflix/Hulu/HBO/Disney+秒开4K，原生IP解锁ChatGPT
 
 SS协议+专线方案，7折优惠码 GNT70 限时有效，入门套餐低至18元/月。
 
-[👉 访问官网](https://aevpz6s.hudwafg205.lat/#/?code=hIltCqNP)
+~~[👉 访问官网](https://aevpz6s.hudwafg205.lat/#/?code=hIltCqNP)~~ **（入口已失效）**
 
 | 套餐 | 折后价/月 | 流量/月 |
 |:----|:--------|:--------|

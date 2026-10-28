@@ -8,6 +8,14 @@ update_date: "2026-06-11"
 
 # 万达云（WangDaCloud）深度评测
 
+<div style="background:#fef2f2;border:3px solid #dc2626;border-radius:8px;padding:16px 20px;margin:20px 0;color:#7f1d1d;">
+
+**🚨 2026-10-29 更新：万达云已停运，本站不再推荐。** 推广台账与短链后台均已标记 dead，官网注册域 `link.wdyserver.com`、`wandayun.me` 实测均停止解析（DNS 无记录），本页注册入口全部失效。**请勿新购，也不要续费。** 需要能用的替代：🐱 [自由猫 ¥8/月](https://api.huanghaiwan.com/go/自由猫)（IEPL+MPTCP，100+ 节点）／🔥 [瑶瑶领先 ¥9.9/月](https://api.huanghaiwan.com/go/瑶瑶领先)（动态倍率，夜间 0.3x）／🛡️ [仙路湾](https://api.huanghaiwan.com/go/仙路湾)（原生 IP 家宽 + IEPL 专线）。
+
+**以下套餐、价格与节点数据均为停运前的记录，仅作历史存档。**
+
+</div>
+
 > **一句话：IEPL专线 + 住宅IP的独特组合，¥16.8/月就能拥有原生解锁能力。如果你对流媒体（Netflix/Disney+）或TikTok运营有刚需，万达云是这个价位段的唯一选择。**
 
 ## 基本信息
@@ -24,7 +32,7 @@ update_date: "2026-06-11"
 | 流媒体 | Netflix ✅ · Disney+ ✅ · ChatGPT ✅ · YouTube Premium ✅ |
 | TikTok | ✅ 专项优化套餐 |
 
-[👉 访问官网](https://link.wdyserver.com/register?code=6z6PNS5r)
+~~[👉 访问官网](https://link.wdyserver.com/register?code=6z6PNS5r)~~ **（万达云已停运，入口失效 — 2026-10 更新）**
 
 ---
 
@@ -168,4 +176,4 @@ IEPL专线稳定可靠，适合作为主力之外的备用方案。如果主力�
 **推荐人群：** TikTok运营者、跨境电商、流媒体深度用户、年付预算型用户
 **不推荐人群：** 游戏玩家（住宅IP延迟稍高）、下载大户（套餐流量有限）
 
-[👉 立即注册万达云](https://link.wdyserver.com/register?code=6z6PNS5r)
+~~[👉 立即注册万达云](https://link.wdyserver.com/register?code=6z6PNS5r)~~ **（万达云已停运，入口失效 — 2026-10 更新）**

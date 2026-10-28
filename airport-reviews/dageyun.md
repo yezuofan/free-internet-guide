@@ -28,7 +28,7 @@
 | 注意 | 新疆地区不可用，不支持原路退款 |
 
 **官网地址：** [👉 访问官网](https://aff01.dgyhao.com/#/register?code=HIYe2Ag0)
-**备用地址：** [👉 备用入口](https://aff02.dgyhao.com/#/register?code=HIYe2Ag0)
+**备用地址：** ~~[👉 备用入口](https://aff02.dgyhao.com/#/register?code=HIYe2Ag0)~~ **（备用入口已失效，2026-10 更新）**
 
 ---
 

@@ -51,7 +51,7 @@
 | WgetCloud | ¥89起(280G) | 精品线路，适合重度创作用户 |
 
 [👉 龙猫云官网 →](https://inv06.lmaff01.cc/register?aff=dqNRmvru)
-[👉 万达云官网 →](https://link.wdyserver.com/register?code=6z6PNS5r)
+~~[👉 访问官网](https://link.wdyserver.com/register?code=6z6PNS5r)~~ **（万达云已停运，入口失效 — 2026-10 更新）**
 [👉 WgetCloud官网 →](https://wgetcloud.com/web/#/register?code=djq10H)
 
 > **新手建议：** 先买一个月的龙猫云(¥15)试试，够你刷几百张图了。觉得好用再升级。
@@ -264,7 +264,7 @@ Midjourney 是我用过**最容易出片的AI生图工具**。它的审美上限
 如果你还没注册，不妨从这个月开始试试。花十几块买一个月的网络工具 + $10订阅Midjourney，这个组合够你玩一整个月了。
 
 [👉 龙猫云官网 →](https://inv06.lmaff01.cc/register?aff=dqNRmvru)
-[👉 万达云官网 →](https://link.wdyserver.com/register?code=6z6PNS5r)
+~~[👉 访问官网](https://link.wdyserver.com/register?code=6z6PNS5r)~~ **（万达云已停运，入口失效 — 2026-10 更新）**
 [👉 WgetCloud官网 →](https://wgetcloud.com/web/#/register?code=djq10H)
 
 ---
