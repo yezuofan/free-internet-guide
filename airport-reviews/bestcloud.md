@@ -94,4 +94,4 @@
 
 ---
 
-*本文包含推广链接，注册前请阅读 [评测Disclaimer](../disclaimer.md)*
+*本文包含推广链接，注册前请阅读 [评测Disclaimer](https://huanghaiwan.com/terms/)*

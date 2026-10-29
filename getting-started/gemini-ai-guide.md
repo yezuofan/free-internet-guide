@@ -277,7 +277,7 @@ A：用虚拟号码服务（如 TextNow、Google Voice）接收验证码。部�
 
 ---
 
-*本文包含推广链接。注册前请阅读 [网站 disclaimer](../disclaimer.md)*
+*本文包含推广链接。注册前请阅读 [网站 disclaimer](https://huanghaiwan.com/terms/)*
 
 **快速访问推荐：**
 

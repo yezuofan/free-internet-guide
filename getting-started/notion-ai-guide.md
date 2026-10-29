@@ -599,7 +599,7 @@ Notion AI 的核心价值：**让 AI 成为你笔记工作流的一部分，而�
 
 ---
 
-*本文包含推广链接。注册前请阅读 [网站 disclaimer](../disclaimer.md)*
+*本文包含推广链接。注册前请阅读 [网站 disclaimer](https://huanghaiwan.com/terms/)*
 
 **快速访问推荐：**
 
