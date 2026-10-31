@@ -1,7 +1,7 @@
 ---
 title: 龙猫云
 description: 龙猫云机场评测 — 全IPLC专线无限速，原生IP，¥15/月入门
-url: https://inv06.lmaff01.cc/register?aff=dqNRmvru
+url: https://inv06.lmaff01.cc/register?aff=dqNRmvru  # ⚠️ 2026-10 已停运
 tags: [机场, IPLC, 专线, 便宜]
 update_date: "2026-06-08"
 ---

@@ -50,7 +50,7 @@
 | 万达云 | ¥16.8起(150G) | 香港IEPL专线，稳定不丢包 |
 | WgetCloud | ¥89起(280G) | 精品线路，适合重度创作用户 |
 
-[👉 龙猫云官网 →](https://inv06.lmaff01.cc/register?aff=dqNRmvru)
+~~[👉 龙猫云官网 →](https://inv06.lmaff01.cc/register?aff=dqNRmvru)~~（⚠️ 2026-10 已停运）
 ~~[👉 访问官网](https://link.wdyserver.com/register?code=6z6PNS5r)~~ **（万达云已停运，入口失效 — 2026-10 更新）**
 [👉 WgetCloud官网 →](https://wgetcloud.com/web/#/register?code=djq10H)
 
@@ -263,7 +263,7 @@ Midjourney 是我用过**最容易出片的AI生图工具**。它的审美上限
 
 如果你还没注册，不妨从这个月开始试试。花十几块买一个月的网络工具 + $10订阅Midjourney，这个组合够你玩一整个月了。
 
-[👉 龙猫云官网 →](https://inv06.lmaff01.cc/register?aff=dqNRmvru)
+~~[👉 龙猫云官网 →](https://inv06.lmaff01.cc/register?aff=dqNRmvru)~~（⚠️ 2026-10 已停运）
 ~~[👉 访问官网](https://link.wdyserver.com/register?code=6z6PNS5r)~~ **（万达云已停运，入口失效 — 2026-10 更新）**
 [👉 WgetCloud官网 →](https://wgetcloud.com/web/#/register?code=djq10H)
 

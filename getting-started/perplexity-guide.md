@@ -68,7 +68,7 @@ Perplexity 官网 `perplexity.ai` **需要机场**才能访问。
 | 贝贝云 | ¥24.9起(100G) | 便宜够用 | 轻度用户 |
 | 万达云 | ¥16.8起(150G) | IEPL专线，稳定 | 重度研究 |
 
-[👉 龙猫云官网 →](https://inv06.lmaff01.cc/register?aff=dqNRmvru)
+~~[👉 龙猫云官网 →](https://inv06.lmaff01.cc/register?aff=dqNRmvru)~~（⚠️ 2026-10 已停运）
 [👉 贝贝云官网 →](https://777.2beibei.com/auth/register?code=qwqDFEUW)
 ~~[👉 访问官网](https://link.wdyserver.com/register?code=6z6PNS5r)~~ **（万达云已停运，入口失效 — 2026-10 更新）**
 
