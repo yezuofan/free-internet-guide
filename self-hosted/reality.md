@@ -161,5 +161,5 @@ A: 访问 https://www.youtube.com 看是否正常，用在线工具检测节点�
 ## 相关阅读
 
 - [V2Ray/XRay 基础搭建](v2ray-xray-setup.md)
-- [Clash 配置教程](clash-meta.md)
+- [Clash 配置教程](../getting-started/clash-rule-config-guide-2026.md)
 - [客户端教程](../client-guides/clash-verge.md)

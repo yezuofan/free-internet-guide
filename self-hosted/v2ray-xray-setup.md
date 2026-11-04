@@ -117,5 +117,5 @@ ufw allow 22/tcp
 ## 相关阅读
 
 - [VLESS+Reality 终极防封教程](reality.md)
-- [Clash 配置教程](clash-meta.md)
+- [Clash 配置教程](../getting-started/clash-rule-config-guide-2026.md)
 - [客户端教程](../client-guides/clash-verge.md)
