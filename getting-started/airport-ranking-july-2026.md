@@ -105,7 +105,7 @@
 | [**BoostNet**](https://api.huanghaiwan.com/go/BoostNet) | IEPL 线路，40+ 节点 | ¥200/年 240GB（5 台）· ¥260/半年 1200GB · ¥220/季 1200GB |
 | [**山水云**](https://api.huanghaiwan.com/go/山水云) | 冷门国家解锁，GPT/TikTok 流媒体 | ¥12/月 100G（3 台）· ¥20/月 200G（5 台）· ¥39/月 500G（8 台） |
 | [**红杏云**](https://api.huanghaiwan.com/go/红杏云) | IEPL 专线传输，不限设备 | ¥20/月 200G · ¥40/月 500G · ¥80/月 1200G |
-| [**新华云**](https://api.huanghaiwan.com/go/新华云) | 极致低价，不限设备数 | ¥1 体验起 |
+| [**新华云**](https://api.huanghaiwan.com/go/新华云)（⚠️恢复信号观察中，暂不推荐新购） | 极致低价，不限设备数 | ¥1 体验起 |
 | [**夜煞云**](https://api.huanghaiwan.com/go/夜煞云) | 专线 | 以官网实时价为准 |
 | [**E-IX**](https://api.huanghaiwan.com/go/E-IX) | IEPL 专线 | 以官网实时价为准 |
 
@@ -183,14 +183,14 @@
 
 | 机场 | 最低月付 | 日均成本 | 线路 | 适合 |
 |:----|:--------|:--------|:----|:----|
-| [新华云](https://api.huanghaiwan.com/go/新华云) | ¥1 体验档 | — | 低价入门 | 只想花几块钱试水的 |
+| [新华云](https://api.huanghaiwan.com/go/新华云)（⚠️观察中） | ¥1 体验档 | — | 低价入门 | 只想花几块钱试水的（当前不作推荐） |
 | [自由猫](https://api.huanghaiwan.com/go/自由猫) | ¥8 | ¥0.27 | MPTCP | 低预算+好体验（¥8 档 30GB / 1 台） |
 | [瑶瑶领先](https://api.huanghaiwan.com/go/瑶瑶领先) | ¥9.9 | ¥0.33 | 中转 | 384G 大流量入门 |
 | [仙路湾](https://api.huanghaiwan.com/go/仙路湾) | ¥10 | ¥0.33 | IEPL/IPLC专线 | 轻量用户 + 原生 IP |
 
 **性价比之王：[自由猫](https://api.huanghaiwan.com/go/自由猫)** — ¥8/月起步就用上 MPTCP，这价位几乎没有对手；不过 ¥8 档只给 30GB / 1 台，想全屋用得看 ¥32.8 的 400GB 档，那时才真正不限设备。
 
-**极致省钱：[新华云](https://api.huanghaiwan.com/go/新华云)** — ¥1 体验档起步，vip3 档全平台解锁、不限设备数，尝鲜成本最低。
+**极致省钱（⚠️该家恢复信号观察中，暂不推荐新购）：[新华云](https://api.huanghaiwan.com/go/新华云)** — ¥1 体验档起步，vip3 档全平台解锁、不限设备数，尝鲜成本最低。
 
 **入门首选：[瑶瑶领先](https://api.huanghaiwan.com/go/瑶瑶领先)** — ¥9.9/月给 384G、3 台设备，晚高峰 1.0x、白天 0.6x、夜间 0.3x 的动态倍率，实际可用流量比标称更多。
 
@@ -278,7 +278,7 @@ IEPL专线的机场：[自由猫](https://api.huanghaiwan.com/go/自由猫)、[S
 1. [自由猫 ¥8起](https://api.huanghaiwan.com/go/自由猫) — MPTCP技术，¥32.8 档起不限设备
 2. [瑶瑶领先 ¥9.9起](https://api.huanghaiwan.com/go/瑶瑶领先) — 384G 大流量，动态倍率
 3. [仙路湾 ¥10起](https://api.huanghaiwan.com/go/仙路湾) — IEPL/IPLC 专线 + 原生 IP 家宽
-4. [新华云 ¥1 体验档](https://api.huanghaiwan.com/go/新华云) — 极致低价，不限设备
+4. [新华云 ¥1 体验档](https://api.huanghaiwan.com/go/新华云)（⚠️恢复信号观察中，暂不推荐新购）— 极致低价，不限设备
 
 > 🚨 **2026-11-01 更新**：原第 2 位龙猫云已被社区多源确认跑路、原第 4 位 SKYLUMO 已于 10-21 停止运营，两家都移出本列表。
 
