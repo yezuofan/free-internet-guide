@@ -22,7 +22,7 @@ Windows 10+（仅 64 位）、Android 8+、iOS 15+、macOS 12+、tvOS 17+、Linu
 
 ## 订阅怎么导
 
-1. **订阅链接**（推荐）：面板里那串 `https://.../api/v1/client/subscribe?token=xxx`，进订阅页粘贴保存，默认 7 天自动更新一次。
+1. **订阅链接**（推荐）：面板里那串 `https://.../api/v1/client/subscribe?token=xxx`，进订阅页粘贴保存，之后按订阅里设的间隔自动更新。
 2. **二维码**：手机端扫码比手打链接靠谱。
 3. **配置文件**：现成的 Clash yaml 或 GitHub 订阅可直接喂 URL 或本地文件。clash.meta 的部分字段它认不全，导完数一眼节点数。
 
@@ -46,7 +46,7 @@ Windows 10+（仅 64 位）、Android 8+、iOS 15+、macOS 12+、tvOS 17+、Linu
 
 | 服务 | 起价 | 客户端情况 | 适合 |
 |:-----|:-----|:-----------|:-----|
-| [仙路湾](https://api.huanghaiwan.com/go/仙路湾) | ¥10 / 50GB / 3 台 | 官方列 14 款客户端，Clash、sing-box 一键导入 | 原生 IP 家宽、港台出口（码 `xlw9` 九折） |
+| [仙路湾](https://api.huanghaiwan.com/go/仙路湾) | ¥10 / 50GB / 3 台 | 官方支持列表里 Clash、sing-box 一键导入 | 原生 IP 家宽、港台出口（码 `xlw9` 九折） |
 | [SS-ID](https://api.huanghaiwan.com/go/SS-ID) | ¥20 / 100GB / 5 台 | Clash、小火箭、Surge 直接导 | 办公商务，IEPL 专线 |
 | [瑶瑶领先](https://api.huanghaiwan.com/go/瑶瑶领先) | ¥9.9 / 384GB / 3 台 | SS 协议，通用客户端都能吃 | 纯跑量，¥0.026/GB |
 | [新华云](https://api.huanghaiwan.com/go/新华云) | ¥5.19 起（VIP1 20GB / 1 台） | 官方写「全平台通用」，以面板为准 | 预算紧、只国内访问；VIP1 不给 AI 与流媒体 |
