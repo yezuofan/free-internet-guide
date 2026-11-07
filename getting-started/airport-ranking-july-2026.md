@@ -99,10 +99,10 @@
 | [**卡里云**](https://api.huanghaiwan.com/go/卡里云) | 老牌 | ¥16.8/月 150GB（5台） · ¥29.9/月 300GB（5台） · ¥49.9/月（5台） |
 | [**扬帆云**](https://api.huanghaiwan.com/go/扬帆云) | 新晋 | ¥19.99/月 100GB（2台） · ¥29.99/月 200GB（3台） · ¥39.99/月 400GB（4台） |
 | [**无忧链接**](https://api.huanghaiwan.com/go/无忧链接) | 专线 · 中转 | 以官网实时价为准 |
-| [**星岛梦**](https://api.huanghaiwan.com/go/星岛梦) | IEPL · IPLC | ¥96/年 60GB（不限） · ¥25/月 150GB（不限） · ¥50/月 300GB |
-| [**暮光加速**](https://api.huanghaiwan.com/go/暮光加速) | 高端 | ¥109/年 70GB · ¥20/月 120GB · ¥40/月 240GB |
-| [**海豚湾**](https://api.huanghaiwan.com/go/海豚湾) | 老牌 | ¥350/年 3000GB（6台） · ¥90/季 750GB（6台） · ¥550/年 6000GB（8台） |
-| [**灵动云**](https://api.huanghaiwan.com/go/灵动云) | 线路待核实 | ¥99/年 70GB · ¥20/月 100GB · ¥50/月 300GB |
+| [**星岛梦**](https://api.huanghaiwan.com/go/星岛梦) | IEPL · IPLC | ¥25/月 150GB（不限） · ¥50/月 300GB · ¥70/月 500GB（不限） |
+| [**暮光加速**](https://api.huanghaiwan.com/go/暮光加速) | 高端 | ¥20/月 120GB · ¥40/月 240GB · ¥100/月 700GB |
+| [**海豚湾**](https://api.huanghaiwan.com/go/海豚湾) | 老牌 | ¥49/月 500GB（8台） · ¥69/月 750GB（10台） · ¥350/年 3000GB（6台） |
+| [**灵动云**](https://api.huanghaiwan.com/go/灵动云) | 线路待核实 | ¥20/月 100GB · ¥50/月 300GB · ¥100/月 700GB |
 | [**飞猫云**](https://api.huanghaiwan.com/go/飞猫云) | 专线 · 企业级 | 以官网实时价为准 |
 
 > 📌 **价格来源说明**：表中**加粗**的两家（仙路湾、大象网络）为官网面板直接核验；其余为第三方聚合数据，**仅作参考，下单前请以官网实时价为准**（机场换挡调价很常见）。
