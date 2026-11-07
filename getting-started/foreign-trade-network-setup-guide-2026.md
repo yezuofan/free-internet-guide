@@ -45,7 +45,7 @@
 | [WGetCloud](https://api.huanghaiwan.com/go/getcloud) | 精品专线 ¥139 / 月（季付 ¥417） | 5 个在线 IP | 客户演示、大额操作 | 月付档常售罄 |
 | [大象网络](https://api.huanghaiwan.com/go/大象网络) | ¥55 / 600G，不限设备 | 不限 | 美国客户开发 | ¥35 档限速 120Mbps |
 
-三句补充：自由猫 ¥19.9 档给 10 台，设备数在这个价位最宽松，但只能官方客户端、不给通用订阅，习惯导订阅的先问客服；仙路湾的卖点是 IP 出身（港台原生 IP + ISP 住宅 IP），¥10 基础档走普通中转，要 IEPL 从 ¥30 起；新华云 ¥11.69 看着最便宜，但 vip1/vip2 明确不支持 Gemini、ChatGPT、Netflix，买前把这一行看清。
+三句补充：自由猫 ¥19.9 档给 10 台，设备数在这个价位最宽松，但只能官方客户端、不给通用订阅，习惯导订阅的先问客服；仙路湾的卖点是 IP 出身（港台原生 IP + ISP 住宅 IP），¥10 基础档走普通中转，要 IEPL 从 ¥30 起；新华云的 ¥5.19（20G）、¥9.09（50G）属 vip1 / vip2，明确不支持 Gemini、ChatGPT、Netflix，表里 ¥11.69 起已经是 vip3，别把低价档当同款。
 
 ## 按团队规模配
 
@@ -53,7 +53,7 @@
 |:--|:--|:--|
 | 一人 SOHO | [仙路湾](https://api.huanghaiwan.com/go/仙路湾) ¥10（50G/3 台，账号环境）+ [新华云](https://api.huanghaiwan.com/go/新华云) ¥11.69（50G/3 台，日常） | ≈ ¥22 |
 | 3 人业务部 | [自由猫](https://api.huanghaiwan.com/go/自由猫) ¥32.8（400G/10 台）+ [仙路湾](https://api.huanghaiwan.com/go/仙路湾) ¥20（100G/5 台） | ≈ ¥53 |
-| 8–10 人团队 | [自由猫](https://api.huanghaiwan.com/go/自由猫) ¥59.9（1000G/不限）+ [仙路湾](https://api.huanghaiwan.com/go/仙路湾) ¥50（300G/10 台）+ 老板备用 [大象网络](https://api.huanghaiwan.com/go/大象网络) ¥55 | ≈ ¥110 |
+| 8–10 人团队 | [自由猫](https://api.huanghaiwan.com/go/自由猫) ¥59.9（1000G/不限）+ [仙路湾](https://api.huanghaiwan.com/go/仙路湾) ¥50（300G/10 台），两条主线 ≈ ¥110；老板备用 [大象网络](https://api.huanghaiwan.com/go/大象网络) ¥55 另计，全配齐 ¥165 | ≈ ¥110（含备用 ¥165） |
 
 同样规模用企业专线是 1400–1600 元/月，差一个数量级。真要一个账号管全队，[悠兔](https://api.huanghaiwan.com/go/悠兔) 团体档 ¥366/月给 1500G、20 台设备，贵在发票、续费、对账都省事。
 
