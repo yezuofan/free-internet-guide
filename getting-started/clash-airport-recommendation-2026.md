@@ -30,7 +30,7 @@ Clash Verge Rev、ClashX Meta、Stash、OpenClash 现在都跑 Mihomo 内核，S
 
 ### 4. 设备数别信「不限设备」
 
-自由猫是分档的：¥8/30GB 只给 1 台、¥12/100GB 给 3 台、¥19.9/200GB 给 10 台，到 ¥32.8/400GB 和 ¥59.9/1000GB 才真正不限。只挂最低档又想全屋十来台，登录第四台就掉线。
+自由猫是分档的：¥8/30GB 只给 1 台、¥12/100GB 给 3 台、¥19.9/200GB 给 10 台、¥32.8/400GB 也是 10 台，到 ¥59.9/1000GB 才真正不限。只挂最低档又想全屋十来台，登录第四台就掉线。
 
 ---
 
@@ -41,7 +41,7 @@ Clash Verge Rev、ClashX Meta、Stash、OpenClash 现在都跑 Mihomo 内核，S
 | [自由猫](https://api.huanghaiwan.com/go/自由猫) | 主力，节点最多 | ¥8 / 30GB | IEPL + MPTCP，110+ 节点 / 20+ 地区 | 1→不限（分档） |
 | [瑶瑶领先](https://api.huanghaiwan.com/go/瑶瑶领先) | 大流量低价 | ¥9.9 / 384GB | SS + BGP 中转，300Mbps | 3 台 |
 | [新华云](https://api.huanghaiwan.com/go/新华云) | 极低门槛试水 | ¥5.19 / 20GB | 低价入门 | 1→4 台（分档） |
-| [仙路湾](https://api.huanghaiwan.com/go/仙路湾) | 原生 IP / 多账号 | ¥10 / 50GB | IEPL/IPLC + 港台原生家宽 | 3 台 |
+| [仙路湾](https://api.huanghaiwan.com/go/仙路湾) | 原生 IP / 多账号 | ¥10 / 50GB | 普通入口起，¥30 档才是 IEPL 专线；港台原生家宽 | 3 台 |
 | [SS-ID](https://api.huanghaiwan.com/go/SS-ID) | IEPL 专线性价比 | ¥20 / 100GB | IEPL，1000Mbps | 5 台 |
 | [悠兔](https://api.huanghaiwan.com/go/悠兔) | 线路最杂，家宽可选 | ¥39 / 150GB | IEPL / 专线 / 家宽 / 中转，119 条以上 | 5 台 |
 | [WGetCloud](https://api.huanghaiwan.com/go/getcloud) | 高客单稳定首选 | ¥119 / 230GB | 专线 | 3 台 |
