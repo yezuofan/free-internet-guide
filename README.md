@@ -14,7 +14,7 @@
 
 4. 以下有十几家机场推荐，有贵的也有便宜的，都可以在 clash 上使用（有特别标注的除外）。觉得好的可以 star，日常保持更新。
 
-5. 📊 **[2026年机场横向对比评测 →](getting-started/airport-comparison-2026.md)** 一张表对比12家主流机场，按预算和场景推荐，快速找到最适合你的。
+5. 📊 **[2026年机场横向对比评测 →](getting-started/airport-comparison-2026.md)** 一张表对比多家主流机场，按预算和场景推荐，快速找到最适合你的。
 6. 🏠 **[全屋科学上网方案对比 →](getting-started/home-network-setup-guide-2026.md)** 软路由/旁路由/刷机/客户端4种方案对比，暑假回家帮全家配网。
 7. 🎯 **[Claude Code 入门指南 →](getting-started/claude-code-guide-2026.md)** Anthropic 官方 AI 编程智能体，终端/VS Code/桌面三端完整使用教程
 8. 💰 **[2026学生党AI工具省钱攻略 →](getting-started/student-ai-budget-guide-2026.md)** 13款免费/低价AI工具推荐，¥0-50/月预算方案对比
@@ -26,7 +26,7 @@
 | 14. 📱 **[科学上网客户端配置全攻略 →](getting-started/client-setup-guide-2026.md)** Clash Verge/Stash/Shadowrocket/v2rayN全平台下载安装配置教程
 | 15. 🔄 **[2026年中AI工具盘点 →](getting-started/ai-2026-h1-roundup.md)** 上半年最值得关注的8大AI方向：GPT-5.6、Claude Tag、AI Agent落地、算力瓶颈全解读
 | 16. 📖 **[2026机场避坑与选择攻略 →](getting-started/airport-selection-guide-2026.md)** 线路类型·协议·套餐计算·避坑指南，从新手到进阶一篇看懂
-| 17. 🏆 **[2026年7月机场推荐排名 →](getting-started/airport-ranking-july-2026.md)** 15家机场按需求场景横向对比：游戏/流媒体/TikTok/办公/性价比，附各场景最优推荐+组合方案
+| 17. 🏆 **[2026年7月机场推荐排名 →](getting-started/airport-ranking-july-2026.md)** 30家机场按需求场景横向对比：游戏/流媒体/TikTok/办公/性价比，附各场景最优推荐+组合方案
 | 18. 🤖 **[Claude Sonnet 5 完全指南 →](getting-started/claude-sonnet-5-guide-2026.md)** Anthropic最新模型深度评测：性能对比/Agent能力/使用教程/定价全解析
 | 19. 🎨 **[Claude Fable 5 回归指南 →](getting-started/claude-fable-5-guide-2026.md)** Anthropic创意模型能力解析与使用教程：回归背景/创意写作/安全护栏/选购建议
 || 20. 🔒 **[机场账号安全与隐私保护指南 →](getting-started/airport-security-privacy-guide-2026.md)** 防封号/防诈骗/隐私保护：密码管理、支付安全、备灾策略全覆盖
