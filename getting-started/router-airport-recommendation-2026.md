@@ -98,12 +98,12 @@ TCP 能通不等于 UDP 能通。游戏、语音、视频会议、部分 DNS 查
 | 机场 | 入门档（月付） | 特点与线路 | 不适合谁 |
 |:--|:--|:--|:--|
 | [新华云](https://api.huanghaiwan.com/go/新华云) | ¥5.19 / 20GB / 1 台 | 低价入门，vip3 档起才解锁全部节点与 AI、流媒体 | 想一次买到位：vip1、vip2 只有部分节点 |
-| [仙路湾](https://api.huanghaiwan.com/go/仙路湾) | ¥10 / 50GB / 3 台 | IEPL/IPLC 专线 + 港台原生住宅 IP，20 个地区 | 只在家刷视频：住宅 IP 的溢价用不上 |
+| [仙路湾](https://api.huanghaiwan.com/go/仙路湾) | ¥10 / 50GB / 3 台 | 港台原生住宅 IP，20 个地区；入门档走普通入口，IEPL 从高级会员 ¥20/100GB 起 | 只在家刷视频：住宅 IP 的溢价用不上 |
 | [瑶瑶领先](https://api.huanghaiwan.com/go/瑶瑶领先) | ¥9.9 / 384GB / 3 台 | 大流量低价，SS + BGP 中转，动态倍率（白天 0.6x、夜间 0.3x、22:00–01:00 为 1.0x） | 要原生 IP 或专线：它是中转不是专线 |
 | [SS-ID](https://api.huanghaiwan.com/go/SS-ID) | ¥20 / 100GB / 5 台 | IEPL 专线，标称 1000Mbps | 预算极紧：起步价不便宜 |
 | [悠兔](https://api.huanghaiwan.com/go/悠兔) | ¥39 / 150GB / 5 台 | IEPL + 家宽 + 中转，119 条以上线路，年付 ¥400 | 要共享：个人档严禁共享 |
 | [WGetCloud](https://api.huanghaiwan.com/go/getcloud) | ¥119 / 230GB / 3 台 | 专线，节点只有 15 个，订阅地址与命名常年不变 | 图便宜：高客单稳定路线 |
-| [TAG](https://api.huanghaiwan.com/go/TAG) | 季付 ¥185 / 250GB / 10 台 | 全线 Shadowsocks，330+ 线路、100+ 国家与地区 | 弱机器又不分组：直接塞进去会卡 |
+| [TAG](https://api.huanghaiwan.com/go/TAG) | 季付 ¥185 / 250GB / 10 台（最低档只卖季付） | 全线 Shadowsocks，330+ 线路、100+ 国家与地区 | 弱机器又不分组：直接塞进去会卡 |
 | [扬帆云](https://api.huanghaiwan.com/go/扬帆云) | ¥19.99 / 100GB / 2 台 | 分等级节点池，LV4 起含全 IEPL 与 2Gbps，另有独享原生住宅 IP ¥200/月 | 家里设备多：入门档只给 2 台（NAT 后够用） |
 
 反常识的一点：贵的不一定在软路由上更好用。WGetCloud 卖到 ¥119，但只有 15 个节点、订阅地址一年不动、命名规整——对 256MB 的路由器反而是最省心的配置。
