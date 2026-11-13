@@ -83,12 +83,12 @@ Shadowrocket、Stash、Surge 都没有「选择 App」这一项，不是客户�
 
 | 机场 | 入门档 | 设备数 | 适合谁 |
 |:--|:--|:--|:--|
-| [仙路湾](https://api.huanghaiwan.com/go/仙路湾) | ¥10 / 50GB / 月 | 3 台 | 手机平板电脑刚好三台，优惠码 `xlw9` 九折 |
-| [SS-ID](https://api.huanghaiwan.com/go/SS-ID) | ¥20 / 100GB / 月 | 5 台 | 五台设备，IEPL 打底 |
+| [仙路湾](https://api.huanghaiwan.com/go/仙路湾) | ¥10 / 50GB / 月 | 3 台 | 手机平板电脑刚好三台，这档写「普通入口」，专线从 ¥20 起，优惠码 `xlw9` 九折 |
+| [SS-ID](https://api.huanghaiwan.com/go/SS-ID) | ¥20 / 100GB / 月 | 5 台 | 五台设备，这档就写 IEPL 专线加速 |
 | [瑶瑶领先](https://api.huanghaiwan.com/go/瑶瑶领先) | ¥9.9 / 384GB / 月 | 3 台 | 流量吃得多，SS + BGP 中转 |
-| [新华云](https://api.huanghaiwan.com/go/新华云) | ¥5.19 / 20GB / 月 | 1 台 | 单人单机、用量很小 |
-| [悠兔](https://api.huanghaiwan.com/go/悠兔) | ¥39 / 150GB / 月 | 5 台 | 高客单稳定首选，团体档 366 元给 1500GB、20 台 |
-| [扬帆云](https://api.huanghaiwan.com/go/扬帆云) | ¥19.99 / 100GB / 月 | 2 台 | 只要两台、想走专线 |
+| [新华云](https://api.huanghaiwan.com/go/新华云) | ¥5.19 / 20GB / 月 | 1 台 | 单人单机、用量很小，这档明文不支持 ChatGPT / Gemini / Netflix |
+| [悠兔](https://api.huanghaiwan.com/go/悠兔) | ¥39 / 150GB / 月 | 5 台 | 高客单稳定首选，团体档 366 元/月给 1500GB、20 台 |
+| [扬帆云](https://api.huanghaiwan.com/go/扬帆云) | ¥19.99 / 100GB / 月 | 2 台 | 只要两台，这档是等级一节点、200Mbps |
 
 按人数挑：两三台设备选仙路湾 10 元档；要刷视频选瑶瑶领先 9.9 元给 384GB；5 台选 SS-ID；全家十来台选悠兔团体档。拿不准先月付试 3 天，分应用验的是客户端和你的 App 组合，跟线路无关。
 
