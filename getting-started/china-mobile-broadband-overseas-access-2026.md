@@ -62,7 +62,6 @@
 | 流量要得多、预算压死 | [瑶瑶领先 · 大流量套餐](https://api.huanghaiwan.com/go/瑶瑶领先) | ¥9.9 / 月 | 384GB · 3 台 | 等级 Lv.1；连接速度 300Mbps |
 | 想沾一点专线 | [仙路湾 · 基础会员](https://api.huanghaiwan.com/go/仙路湾) | ¥10 / 月 | 50GB · 3 台 | 中转线路，普通入口；机房 IP + ISP 住宅 IP |
 | 轻量、设备多 | [夜煞云 · Medium Plan](https://api.huanghaiwan.com/go/夜煞云) | ¥10 / 月 | 每 30 天 138GB · 不限设备 | 中国大陆 BGP 中继；最高可达 2000Mbps；ChatGPT 服务访问解锁 |
-| 移动用户优先看这条 | [U1S1 · 普通人真够了包](https://api.huanghaiwan.com/go/U1S1) | ¥20 / 月 | 120GB · 不限设备 | BGP 三网优化 + IEPL 专线出口，不限速 |
 | 同上，换一家备着 | [闪狐云 · Basic Plan](https://api.huanghaiwan.com/go/闪狐云) | ¥20 / 月 | 120GB · 不限设备 | BGP 中转 + IPLC 专线出口；1000Mbps 不限速 |
 | 只要一条稳的专线 | [SS-ID · 100G 月流量](https://api.huanghaiwan.com/go/SS-ID) | ¥20 / 月 | 100GB · 5 台 | IEPL 专线加速；7×24 小时技术支持 |
 
