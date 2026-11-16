@@ -2,7 +2,7 @@
 
 <div style="background:#fef2f2;border:3px solid #dc2626;border-radius:8px;padding:16px 20px;margin:20px 0;color:#7f1d1d;">
 
-**🚨 2026-10-21 更新：SKYLUMO 已停止运营，本站不再推荐。** 短链后台与推广台账已于 2026-10-21 将其标记为 dead（依据：开源跑路/避雷监控平台、行业黑名单与多方社群用户的近期实测），本页所有注册链接现统一改道到风险提示页，点进去不会进入 SKYLUMO。**请勿新购，也不要续费。** 需要能用的替代：🐱 [自由猫 ¥8/月](https://api.huanghaiwan.com/go/自由猫)（IEPL+MPTCP，100+ 节点）／🔥 [瑶瑶领先 ¥9.9/月](https://api.huanghaiwan.com/go/瑶瑶领先)（动态倍率，夜间 0.3x）／🛡️ [仙路湾](https://api.huanghaiwan.com/go/仙路湾)（原生 IP 家宽 + IEPL 专线）。
+**🚨 2026-10-21 更新：SKYLUMO 已停止运营，本站不再推荐。** 已于 2026-10-21 停止服务（依据：开源跑路/避雷监控平台、行业黑名单与多方社群用户的近期实测），本页所有注册链接现统一改道到风险提示页，点进去不会进入 SKYLUMO。**请勿新购，也不要续费。** 需要能用的替代：🐱 [自由猫 ¥8/月](https://api.huanghaiwan.com/go/自由猫)（IEPL+MPTCP，100+ 节点）／🔥 [瑶瑶领先 ¥9.9/月](https://api.huanghaiwan.com/go/瑶瑶领先)（动态倍率，夜间 0.3x）／🛡️ [仙路湾](https://api.huanghaiwan.com/go/仙路湾)（原生 IP 家宽 + IEPL 专线）。
 
 **以下套餐、价格与地区覆盖数据均为停运前的记录，仅作历史存档，不要照着里面的链接去购买。**
 

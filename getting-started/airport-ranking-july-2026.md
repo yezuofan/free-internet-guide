@@ -449,7 +449,7 @@ VPN 是个更宽的概念，机场是其中一种做法。商用 VPN 通常给�
 |:----|:---:|:------|:------|:----|:----|:------------|
 | 万达云 | 2 | 已停止运营 | 2026-10 | 官网注册域停止解析、工单长期不回；短链后台 10-19 标 dead | IEPL + 住宅 IP，¥16.8/月起 | [仙路湾](https://api.huanghaiwan.com/go/仙路湾)（原生 IP 家宽）或 [自由猫](https://api.huanghaiwan.com/go/自由猫) |
 | 龙猫云 | 7 | 已确认跑路 | 2026-10 | 社区多源确认（limbopro #288/#307），全节点 timeout、客服仅剩机器人回复 | ¥10/月专线入门 | [瑶瑶领先](https://api.huanghaiwan.com/go/瑶瑶领先)（¥9.9/月起 384G） |
-| SKYLUMO | 11 | 已确认跑路 | 2026-10-21 | 短链后台与推广台账同日标 dead，跑路监控站与行业黑名单列为高风险 | ¥6.99/月极致低价、80+ 节点 | [自由猫](https://api.huanghaiwan.com/go/自由猫)（¥8 起）或 [新华云](https://api.huanghaiwan.com/go/新华云)（¥1 体验档） |
+| SKYLUMO | 11 | 已确认跑路 | 2026-10-21 | 官网同日下线，跑路监控站与行业黑名单列为高风险 | ¥6.99/月极致低价、80+ 节点 | [自由猫](https://api.huanghaiwan.com/go/自由猫)（¥8 起）或 [新华云](https://api.huanghaiwan.com/go/新华云)（¥1 体验档） |
 | FlyingBird（飞鸟） | 13 | 已降级，不进推荐位 | 2026-09 | 2026 年 9 月下旬起大面积断连、客服失联 | 全平台适配的平价款 | [自由猫](https://api.huanghaiwan.com/go/自由猫) 或 [SS-ID](https://api.huanghaiwan.com/go/SS-ID) |
 | SeeleCloud | 新收录 | 已确认跑路 | 2026-11-03 | 短链后台标 dead，已确认跑路 | 50 国节点、不限设备，¥11.8/月起 120GB | [新华云](https://api.huanghaiwan.com/go/新华云)（¥1 体验档） |
 | 山水云 | 新收录 | 暂停观察，移出推荐 | 2026-11-03 | limbopro #367 跑路风险反馈，人工判定暂停观察 | 冷门国家解锁，¥12/月起 100G | [大象网络](https://api.huanghaiwan.com/go/大象网络)（¥35/月 300G） |

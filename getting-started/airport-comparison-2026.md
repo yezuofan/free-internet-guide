@@ -41,7 +41,7 @@
 |:----|:----|:----|:------|:----|
 | **万达云** | 已停止运营 | 官网注册域停止解析、工单长期不回；后台 10-19 标 dead | 2026 年 10 月起；[#245](https://github.com/limbopro/Paolujichang/issues/245)、[#318](https://github.com/limbopro/Paolujichang/issues/318) | [仙路湾](https://api.huanghaiwan.com/go/仙路湾)（原生 IP）或 [自由猫](https://api.huanghaiwan.com/go/自由猫) |
 | **龙猫云** | 已跑路 | [#288](https://github.com/limbopro/Paolujichang/issues/288)、[#307](https://github.com/limbopro/Paolujichang/issues/307) | 7 月起全节点 timeout，客服只剩机器人自动回复「下载最新客户端」；8 月用户反馈续费月卡未到账 | [瑶瑶领先](https://api.huanghaiwan.com/go/瑶瑶领先) |
-| **SKYLUMO** | 已跑路 | 后台与推广台账 10-21 同日标 dead，跑路监控站与行业黑名单列为高风险 | 2026-10-21 停止运营 | [自由猫](https://api.huanghaiwan.com/go/自由猫) 或 [新华云](https://api.huanghaiwan.com/go/新华云) |
+| **SKYLUMO** | 已跑路 | 官网 10-21 下线，跑路监控站与行业黑名单列为高风险 | 2026-10-21 停止运营 | [自由猫](https://api.huanghaiwan.com/go/自由猫) 或 [新华云](https://api.huanghaiwan.com/go/新华云) |
 | **SeeleCloud** | 已跑路 | 后台 11-03 标 dead，已确认跑路 | 2026-11-03 | [新华云](https://api.huanghaiwan.com/go/新华云) |
 | **FlyingBird（飞鸟）** | 已失联 | [#336](https://github.com/limbopro/Paolujichang/issues/336)、[#317](https://github.com/limbopro/Paolujichang/issues/317)、[#249](https://github.com/limbopro/Paolujichang/issues/249) | 9 月 23 日起大面积断连、官网无法登录、客服失联；5 月起就陆续有断流、虚假延迟的反馈 | [自由猫](https://api.huanghaiwan.com/go/自由猫) 或 [SS-ID](https://api.huanghaiwan.com/go/SS-ID) |
 | **大哥云** | 已跑路 | [#161](https://github.com/limbopro/Paolujichang/issues/161) | 1 月起工单不回、节点断连；9 月用户反馈「网站已经打不开了」 | 无 |

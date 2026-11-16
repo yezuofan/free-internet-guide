@@ -386,7 +386,7 @@ ISP住宅IP + IEPL/IPLC专线，¥10/月起（50G / 3台 / 500Mbps），不限�
 
 ## 十一、万达云（新收录）
 
-> 🚨 **万达云已确认跑路（2026-10-19，短链后台与推广台账同日标为 dead）：** 工单不回、节点断连（[limbopro #318](https://github.com/limbopro/Paolujichang/issues/318) 等社区多源记录）。**请勿新购，也不要续费。** 已购用户请尽快迁移：🐱 [自由猫 ¥8/月](https://api.huanghaiwan.com/go/自由猫)（住宅IP同价位替代）／🔥 [瑶瑶领先 ¥9.9/月](https://api.huanghaiwan.com/go/瑶瑶领先)。`/go/万达云` 短链已改道自由猫承接残余流量。
+> 🚨 **万达云已确认跑路（2026-10-19，官网同日下线）：** 工单不回、节点断连（[limbopro #318](https://github.com/limbopro/Paolujichang/issues/318) 等社区多源记录）。**请勿新购，也不要续费。** 已购用户请尽快迁移：🐱 [自由猫 ¥8/月](https://api.huanghaiwan.com/go/自由猫)（住宅IP同价位替代）／🔥 [瑶瑶领先 ¥9.9/月](https://api.huanghaiwan.com/go/瑶瑶领先)。`/go/万达云` 短链已改道自由猫承接残余流量。
 
 **以下为跑路前的存档信息。**
 
