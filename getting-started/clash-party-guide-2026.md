@@ -86,7 +86,7 @@
 
 ## 五、手机端：官方没有
 
-v2.0.5 那 89 个文件数过，只有 Windows、macOS、Linux 三套，没有一个 `.apk`，也没有 iOS 包。从 2024 年 8 月建仓到现在，发行物一直是桌面三平台。
+v2.0.5 那 89 个文件数过，只有 Windows、macOS、Linux 三套，没有一个 `.apk`，也没有 iOS 包。不放心是「这一版刚好没做」，又翻了 2.0.4、2.0.3 和改名那版 1.8.6——四版加起来 288 个文件，安卓包和 iOS 包一个都没有。
 
 手机上要代理得换客户端：安卓用 CMFA / Surfboard / v2rayNG / NekoBox；iOS 用 Shadowrocket / Stash / Karing，同一个订阅能共用。
 
