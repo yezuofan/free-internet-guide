@@ -142,9 +142,11 @@ A: 目前不会。这些工具能把写代码的效率提升3-5倍，但不能�
 | 需求 | 推荐 | 理由 |
 |:----|:-----|:-----|
 | 🏆 综合最佳 | [自由猫 Freecat](https://api.huanghaiwan.com/go/自由猫) | 100+节点，MPTCP技术，¥8起，不限设备 |
-| 💰 性价比 | [万达云](https://api.huanghaiwan.com/go/万达云) | IEPL专线+住宅IP，¥16.8/月 |
+| 💰 性价比 | [万达云](https://api.huanghaiwan.com/go/万达云) ⚠️已停运 | IEPL专线+住宅IP，¥16.8/月（⚠️ 该家 2026-10-19 起停止运营，此价位改看 [自由猫](https://api.huanghaiwan.com/go/自由猫) 入门档） |
 | 🔒 稳定主力 | [悠兔](https://api.huanghaiwan.com/go/悠兔) | IEPL专线，运营稳定 |
 | 🎬 AI工作流 | [Cyberguard](https://api.huanghaiwan.com/go/Cyberguard) | IEPL+BGP，60+节点 |
+
+> ⚠️ **状态提示（2026-11-21 更新）**：上表「性价比」一栏的 **万达云** 已停止运营（2026-10-19 起客服失联、节点断供），`/go/万达云` 现在会跳到停运说明页。表里其余三家（自由猫 / 悠兔 / Cyberguard）本轮实测入口正常。
 
 > 选一个稳定的网络工具，能让你在开发过程中少很多"工具连不上"的烦恼。
 
