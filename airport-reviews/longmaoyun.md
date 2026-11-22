@@ -6,6 +6,8 @@ tags: [机场, IPLC, 专线, 便宜]
 update_date: "2026-06-08"
 ---
 
+> 🚨 **2026-11-23 状态更新**：本文对比表里出现的 **万达云**（2026-10-19 已停止运营） 已经停运，文中 `/go/` 入口现在跳的是停运风险提示页。表格里的价格与评分是发布当时的情况，别照它去新购或续费；同价位能接的是 自由猫 / 瑶瑶领先 / SS-ID / MESL。
+
 # 龙猫云 机场评测 | 全IPLC专线无限速，入门仅¥15/月
 
 <div style="background:#fef2f2;border:3px solid #dc2626;border-radius:8px;padding:16px 20px;margin:20px 0;color:#7f1d1d;">
