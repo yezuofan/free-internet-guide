@@ -1,5 +1,7 @@
 # 瑶瑶领先 2026年中评测：动态计费+大流量SS，¥8起用384G
 
+> 🚨 **2026-11-23 状态更新**：本文提到的 **万达云**（2026-10-19 已停止运营） 已经停运，文中 `/go/` 入口现在跳的是停运风险提示页。文中把它放在推荐位或对比表里的行，请直接按停运处理，别照文里的价格去新购或续费；同价位能接的是 自由猫 / 瑶瑶领先 / SS-ID / MESL 这几家在役主推。正文的价格与评价按发布时状态保留，只作历史对照。
+
 > 本文是对 [瑶瑶领先原始评测](https://huanghaiwan.com/posts/yaoyaolingxian-review/) 的2026年中更新版本。
 > 完整版请访问：[https://huanghaiwan.com/posts/yaoyaolingxian-mid-2026-review/](https://huanghaiwan.com/posts/yaoyaolingxian-mid-2026-review/)
 

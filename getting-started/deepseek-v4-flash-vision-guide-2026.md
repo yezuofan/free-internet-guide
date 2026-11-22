@@ -1,5 +1,7 @@
 # DeepSeek V4-Flash Vision 视觉版指南 2026：官方首个看图 API，一张图最多 384 token
 
+> 🚨 **2026-11-23 状态更新**：本文提到的 **万达云**（2026-10-19 已停止运营）、**SKYLUMO**（2026-11-03 已确认跑路） 已经停运，文中 `/go/` 入口现在跳的是停运风险提示页。文中把它们放在推荐位或对比表里的行，请直接按停运处理，别照文里的价格去新购或续费；同价位能接的是 自由猫 / 瑶瑶领先 / SS-ID / MESL 这几家在役主推。正文的价格与评价按发布时状态保留，只作历史对照。
+
 > 原文链接：[DeepSeek V4-Flash Vision 视觉版指南 2026](https://huanghaiwan.com/ai/deepseek-v4-flash-vision-guide-2026/)（博客全文含完整代码示例与基准表）
 
 2026 年 8 月 21 日下午，DeepSeek 官方 API 文档里悄悄多了一个新名字：`deepseek-v4-flash-vision-exp`。V4 系列第一款原生支持图片输入的视觉模型就这么上线了，没有发布会、没有预告。一周前 DeepSeek 刚开源 Harness 智能体框架，GitHub 讨论区里"怎么让 DeepSeek 看图"还是高频问题（传截图直接报 `MODEL_DOES_NOT_SUPPORT_IMAGES`，社区只能自己写 vision bridge 插件），现在官方自己把这块拼图补上了。
