@@ -1,3 +1,7 @@
 # Hidden internal files
 .github/
 social-media-plan/
+
+# 本地备份文件不进版本控制（审计 P2-110）
+*.bak
+*.bak-*
