@@ -2,6 +2,8 @@
 
 > 刚过完618，大促期间买了不少东西，钱包瘪了一圈。现在回过头来看，有多少是真正用得上的？这篇文章不卖焦虑，只给一个实在的建议：**网络工具这笔钱，怎么花才值。**
 
+> ⚠️ **2026-11-24 状态更新：** 下文表格与注册入口里的 **FlyingBird（飞鸟）** 已于 2026-11-23 由本站标为「暂停推广」——2026-09-23 起持续断连、客服失联（limbopro #336）。它的 /go/ 短链和推广码仍保留，只作自担风险参考，**不建议现在新购或续费**；¥40-50 这个 IPLC 专线档位现在能接住的是 [闪狐云](https://api.huanghaiwan.com/go/闪狐云) 或 [自由猫](https://api.huanghaiwan.com/go/自由猫)。
+
 ---
 
 ## 先搞清楚自己的需求
@@ -95,6 +97,6 @@
 | 自由猫 | MPTCP多路复用，性价比首选 | [👉 注册](https://freecat.cloud/register?code=USRIiAoO) |
 | 悠兔 | 中转线路，稳定实惠 | [👉 注册](https://666.youtu6.shop/register?code=Vfs3Qqkm) |
 | 闪狐云 | IPLC专线，高端稳定 | [👉 注册](https://i01.ffaff.cc/register?aff=2gaMMyJh) |
-| FlyingBird | 专线机场，性价比高 | [👉 注册](https://fbinv02.fbaff.cc/auth/register?code=Q8nDL4JZ) |
+| FlyingBird | 专线机场，性价比高 | [👉 注册](https://fbinv02.fbaff.cc/auth/register?code=tnrCQjco) |
 
 *本文包含推广链接。*

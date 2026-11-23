@@ -19,7 +19,7 @@
 | 客服响应 | 快速响应，工单/在线客服 |
 | 适用地区 | **全球用户可用**（海外节点+回国线路均有覆盖） |
 
-**官网地址：** [👉 访问官网](https://fbinv02.fbaff.cc/auth/register?code=Q8nDL4JZ)
+**官网地址：** [👉 访问官网](https://fbinv02.fbaff.cc/auth/register?code=tnrCQjco)
 
 **快速访问：** [短链接直达](https://api.huanghaiwan.com/go/FlyingBird)
 
@@ -159,7 +159,7 @@ A：访问官网注册账号 → 选择套餐付款 → 获得节点信息 → �
 
 ---
 
-**[👉 点击注册 FlyingBird](https://fbinv02.fbaff.cc/auth/register?code=Q8nDL4JZ)**
+**[👉 点击注册 FlyingBird](https://fbinv02.fbaff.cc/auth/register?code=tnrCQjco)**
 
 **[🔗 短链接快速访问](https://api.huanghaiwan.com/go/FlyingBird)**
 

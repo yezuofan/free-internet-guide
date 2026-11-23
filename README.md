@@ -588,7 +588,7 @@ SS 大流量 + **动态倍率计费**（晚高峰 1x / 白天 0.6x / 夜间 0.3x
 
 不限客户端数量的全节点线路机场，Trojan协议，流媒体+AI全解锁。
 
-[👉 访问官网](https://fbinv02.fbaff.cc/auth/register?code=Q8nDL4JZ)
+[👉 访问官网](https://fbinv02.fbaff.cc/auth/register?code=tnrCQjco)
 
 | 套餐 | 价格 | 流量/月 |
 |:----|:-----|:--------|
