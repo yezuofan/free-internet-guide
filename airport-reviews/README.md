@@ -440,7 +440,7 @@ SS 大流量 + **动态倍率计费**（晚高峰 1x / 白天 0.6x / 夜间 0.3x
 
 不限客户端数量的全节点线路机场，Trojan协议，流媒体+AI全解锁。
 
-> ⚠️ **2026-11-24 状态：暂停推广。** 该家自 2026-09-23 起持续断连、客服失联（[limbopro #336](https://github.com/limbopro/Paolujichang/issues/336)），2026-11-23 状态由 active 回落 paused。短链与推广码保留、跳转仍可用，但只作自担风险参考，**不建议现在新购或续费**；下一节列出的套餐与价格为暂停前记录。
+> ⚠️ **2026-11-24 状态：FlyingBird（飞鸟）暂停推广。** 该家自 2026-09-23 起持续断连、客服失联（[limbopro #336](https://github.com/limbopro/Paolujichang/issues/336)），2026-11-23 状态由 active 回落 paused。短链与推广码保留、跳转仍可用，但只作自担风险参考，**不建议现在新购或续费**；下一节列出的套餐与价格为暂停前记录。
 
 [👉 访问官网](https://fbinv02.fbaff.cc/auth/register?code=tnrCQjco)
 
