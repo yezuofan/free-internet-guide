@@ -124,8 +124,8 @@
 **缺点：** 按量计费多次购买不叠加流量、晚高峰实测数据待补充
 **整体评价：** ~~如果你预算有限但不想用中转机场，奈云是IEPL专线里最值得入门的。¥168/年试水成本很低。~~（⚠️ 已暂停服务，恢复前请勿购买）
 
-[奈云官网地址1](http://6.vip.v2ny.me?path=register&code=tExjICnZ)
-~~[奈云官网地址2](https://www.v2ny.me/register?code=tExjICnZ)~~ **（已失效）**
+[奈云官网地址1](https://api.huanghaiwan.com/go/奈云)
+~~[奈云官网地址2](https://api.huanghaiwan.com/go/奈云)~~ **（已失效）**
 
 >开业时间：2021
 >线路：IEPL专线，自有机房专柜
@@ -488,7 +488,7 @@ BGP隧道中转+IPLC纯专线出口，1000Mbps高速，晚高峰不限速。
 
 Trojan协议年付性价比之选，¥199/年用9折码更低。
 
-[👉 访问官网](https://aff01.dgyhao.com/#/register?code=HIYe2Ag0)
+[👉 访问官网](https://api.huanghaiwan.com/go/大哥云)
 
 | 套餐 | 价格 | 流量 |
 |:----|:-----|:-----|

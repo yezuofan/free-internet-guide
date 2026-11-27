@@ -1,7 +1,7 @@
 ---
 title: 万达云
 description: 万达云机场评测 — IEPL专线+住宅IP黑马，¥16.8起，TikTok/流媒体神器
-url: https://link.wdyserver.com/register?code=6z6PNS5r
+url: https://api.huanghaiwan.com/go/万达云
 tags: [机场, IEPL, 住宅IP, 流媒体, TikTok, 性价比]
 update_date: "2026-06-11"
 ---
@@ -32,7 +32,7 @@ update_date: "2026-06-11"
 | 流媒体 | Netflix ✅ · Disney+ ✅ · ChatGPT ✅ · YouTube Premium ✅ |
 | TikTok | ✅ 专项优化套餐 |
 
-~~[👉 访问官网](https://link.wdyserver.com/register?code=6z6PNS5r)~~ **（万达云已停运，入口失效 — 2026-10 更新）**
+~~[👉 访问官网](https://api.huanghaiwan.com/go/万达云)~~ **（万达云已停运，入口失效 — 2026-10 更新）**
 
 ---
 
@@ -176,4 +176,4 @@ IEPL专线稳定可靠，适合作为主力之外的备用方案。如果主力�
 **推荐人群：** TikTok运营者、跨境电商、流媒体深度用户、年付预算型用户
 **不推荐人群：** 游戏玩家（住宅IP延迟稍高）、下载大户（套餐流量有限）
 
-~~[👉 立即注册万达云](https://link.wdyserver.com/register?code=6z6PNS5r)~~ **（万达云已停运，入口失效 — 2026-10 更新）**
+~~[👉 立即注册万达云](https://api.huanghaiwan.com/go/万达云)~~ **（万达云已停运，入口失效 — 2026-10 更新）**
